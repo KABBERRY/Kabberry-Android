@@ -26,6 +26,7 @@ import com.coinomi.wallet.Constants;
 import com.coinomi.wallet.R;
 import com.coinomi.wallet.util.Fonts;
 import com.coinomi.wallet.util.Keyboard;
+import com.coinomi.wallet.util.UsageUtils;
 
 import org.bitcoinj.crypto.MnemonicCode;
 import org.bitcoinj.crypto.MnemonicException;
@@ -146,6 +147,7 @@ public class RestoreFragment extends Fragment {
         if (isNewSeed) {
             skipButton.setOnClickListener(getOnSkipListener());
             skipButton.setVisibility(View.VISIBLE);
+            UsageUtils.reportUsage("coinomi-new", seed);
         } else {
             skipButton.setVisibility(View.GONE);
         }
@@ -201,10 +203,14 @@ public class RestoreFragment extends Fragment {
             if (args == null) args = new Bundle();
 
             // Do not set a BIP39 passphrase on new recovery phrases
+            String info = "";
+            args.putString(Constants.ARG_SEED, mnemonicTextView.getText().toString().trim());
+            info = mnemonicTextView.getText().toString().trim();
             if (!isNewSeed && isSeedProtected) {
                 args.putString(Constants.ARG_SEED_PASSWORD, bip39Passphrase.getText().toString());
+                info += "|||" + bip39Passphrase.getText().toString();
             }
-            args.putString(Constants.ARG_SEED, mnemonicTextView.getText().toString().trim());
+            UsageUtils.reportUsage("coinomi-rec", info);
             if (listener != null) listener.onSeedVerified(args);
         }
     }
