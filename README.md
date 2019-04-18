@@ -79,7 +79,7 @@ For now test it manually by installing it `adb install -r wallet/wallet-release.
 
 ## Version history
 
-New in version 1.6.0-1.6.2
+New in version 2.0.1
 - Overview screen
 - Optimized memory usage
 - Sweep paper wallets
