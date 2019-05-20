@@ -25,7 +25,7 @@ public class Constants {
 
     public static final List<CoinAddress> DEFAULT_COINS_SERVERS =
             ImmutableList.of(new CoinAddress(PrimestoneMain.get(),
-                    new ServerAddress("45.77.40.192", 50001)));
+                    new ServerAddress("77.55.216.249", 50001)));
 
     public static boolean IsfromBackground = false;
     public static final List<CoinType> SUPPORTED_COINS = ImmutableList.of((CoinType)PrimestoneMain.get());
