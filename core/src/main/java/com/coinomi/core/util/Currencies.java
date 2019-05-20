@@ -171,7 +171,7 @@ public class Currencies {
         builder.put("XPF", "CFP Franc");
         builder.put("YER", "Yemeni Rial");
         builder.put("ZAR", "South African Rand");
-        builder.put("ZMK", "Zambian Kwacha (1968-2012)");
+        builder.put("ZMK", "Zambian Kwacha (1968–2012)");
         builder.put("ZMW", "Zambian Kwacha");
         builder.put("ZWL", "Zimbabwean Dollar (2009)");
 

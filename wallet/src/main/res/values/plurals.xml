@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_building">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="tx_confirm_timer_minute">
+        <item quantity="other">%s minutes</item>
+        <item quantity="one">%s minute</item>
+    </plurals>
+    <plurals name="tx_confirm_timer_second">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+    </plurals>
+</resources>

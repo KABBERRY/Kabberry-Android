@@ -114,9 +114,11 @@ public class Value implements Monetary, Comparable<Value>, Serializable {
      * @throws IllegalArgumentException if you try to specify fractional units, or a value out of
      * range.
      */
-    public static Value parse(final ValueType type, final BigDecimal decimal) {
-        return Value.valueOf(type, decimal.movePointRight(type.getUnitExponent())
-                .toBigIntegerExact().longValue());
+    public static Value parse(final ValueType type, BigDecimal decimal) {
+        Long l;
+        decimal = decimal.movePointRight(type.getUnitExponent());
+        l = decimal.toBigInteger().longValue();
+        return Value.valueOf(type, l);
     }
 
     public Value add(final Value value) {

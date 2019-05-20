@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/primary_500">
+<LinearLayout
+    android:background="@color/primary_500"
+    android:layout_width="match_parent"
+    android:layout_height="?android:actionBarSize">
+    <ImageView
+        android:id="@id/iv_back"
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:scaleType="fitStart"
+        android:src="@drawable/ic_star" />
+    <TextView
+        android:id="@+id/tv_title_star"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wallet"
+        android:layout_gravity="center_vertical"
+        android:textStyle="italic"
+        android:layout_toRightOf="@id/iv_back"
+        style="@style/Base.TextAppearance.AppCompat.Title" />
+    </LinearLayout>
+<FrameLayout
+    android:background="@color/background_v1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout
+        android:id="@id/root_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <android.support.v4.view.ViewPager
+            android:id="@id/viewpager"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@id/ll_indicator" />
+        <RelativeLayout
+            android:id="@id/ll_indicator"
+            android:background="@color/background_v1"
+            android:layout_width="fill_parent"
+            android:layout_height="?android:actionBarSize"
+            android:layout_alignParentBottom="true">
+            <View
+                android:background="#333841"
+                android:layout_width="fill_parent"
+                android:layout_height="0.6dip"
+                android:layout_alignParentTop="true" />
+            <com.primestone.wallet.circleindicator.CircleIndicator
+                android:layout_gravity="bottom"
+                android:id="@id/indicator"
+                android:layout_width="fill_parent"
+                android:layout_height="?android:actionBarSize" />
+            <TextView
+                android:id="@id/tv_skip"
+                android:textSize="16.0sp"
+                android:textColor="@color/white"
+                android:background="@drawable/textview_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10.0dip"
+                android:text="@string/button_skip"
+                android:textStyle="bold"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:textAllCaps="true" />
+            <TextView
+                android:id="@+id/goto_wallet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:visibility="gone"
+                android:text="Go to wallet"
+                android:paddingRight="5dp"
+                android:textSize="16.0sp"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/iv_next"/>
+            <ImageView
+                android:id="@id/iv_next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10.0dip"
+                android:src="@drawable/ic_next"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+</FrameLayout>
+</LinearLayout>

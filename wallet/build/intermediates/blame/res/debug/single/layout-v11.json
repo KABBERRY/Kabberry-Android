@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]

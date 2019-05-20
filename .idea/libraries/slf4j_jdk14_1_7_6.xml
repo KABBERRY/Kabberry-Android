@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="slf4j-jdk14-1.7.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-jdk14/1.7.6/1a3301a32ea7d90c3d33e9d60edbfdc9589fc748/slf4j-jdk14-1.7.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-jdk14/1.7.6/901f28dead24aee4a94583e1d99d746eda144501/slf4j-jdk14-1.7.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

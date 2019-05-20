@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/core/libs/bitcoinj-core-0.12.3-COINOMI-5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0961aa352f32cefa390109058568e9c1a2bd151">
+        <dex dex="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/transforms/dex/debug/folders/1000/2/bitcoinj-core-0.12.3-COINOMI-5_79d4cc6b9cf5fc50eb474d3d9a3320d0ecb0353d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="174ed3987ea7bd04ee7b8197a95d4b0ffdf2f1af">
+        <dex dex="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a9c1a24aa80bc1bc18b8bba553a31e8379d30131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9b67e9eeff539411e8dc48f425f2f05ee720ac1e/classes.dex" />
+    </item>
+
+</items>

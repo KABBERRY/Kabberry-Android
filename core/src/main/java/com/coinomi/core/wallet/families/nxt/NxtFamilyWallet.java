@@ -397,6 +397,11 @@ public class NxtFamilyWallet extends AbstractWallet<NxtTransaction, NxtAddress>
 //        throw new RuntimeException("Not implemented");
     }
 
+    @Override
+    public int getLastBlockSeenHeight() {
+        return lastBlockSeenHeight;
+    }
+
     ////////////////////////////////////////////////////////////////////////////////////////////////
     //
     // Serialization support

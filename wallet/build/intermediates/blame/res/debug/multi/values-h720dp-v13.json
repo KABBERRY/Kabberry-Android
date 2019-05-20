@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]

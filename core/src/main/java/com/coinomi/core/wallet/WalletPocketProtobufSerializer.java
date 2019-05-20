@@ -58,6 +58,7 @@ import javax.annotation.Nullable;
 
 import static com.coinomi.core.Preconditions.checkNotNull;
 import static com.coinomi.core.Preconditions.checkState;
+
 import static org.bitcoinj.params.Networks.Family.CLAMS;
 import static org.bitcoinj.params.Networks.Family.NUBITS;
 import static org.bitcoinj.params.Networks.Family.PEERCOIN;

@@ -1,0 +1,7 @@
+#Thu Jan 24 11:15:08 PKT 2019
+base.0=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a9c1a24aa80bc1bc18b8bba553a31e8379d30131
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9b67e9eeff539411e8dc48f425f2f05ee720ac1e/classes.dex
+base.1=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9b67e9eeff539411e8dc48f425f2f05ee720ac1e
+file.0=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a9c1a24aa80bc1bc18b8bba553a31e8379d30131/classes.dex

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.coinomi.wallet"
-    android:installLocation="internalOnly" >
-
+    package="com.primestone.wallet"
+    xmlns:tools="http://schemas.android.com/tools">
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.NFC" />
@@ -13,245 +13,192 @@
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-
-    <uses-feature
-        android:name="android.hardware.touchscreen"
-        android:required="false" />
-    <uses-feature
-        android:name="android.hardware.nfc"
-        android:required="false" />
-    <uses-feature
-        android:name="android.hardware.camera"
-        android:required="false" />
-    <uses-feature
-        android:name="android.hardware.camera.front"
-        android:required="false" />
-    <uses-feature
-        android:name="android.hardware.camera.autofocus"
-        android:required="false" />
-    <uses-feature
-        android:name="android.hardware.camera.flash"
-        android:required="false" />
-    <uses-feature
-        android:name="android.hardware.screen.landscape"
-        android:required="false" />
-    <uses-feature
-        android:name="android.hardware.bluetooth"
-        android:required="false" />
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+    <uses-feature android:name="android.hardware.nfc" android:required="false" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.front" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.flash" android:required="false" />
+    <uses-feature android:name="android.hardware.screen.landscape" android:required="false" />
+    <uses-feature android:name="android.hardware.bluetooth" android:required="false" />
 
     <supports-screens
         android:anyDensity="true"
-        android:largeScreens="true"
-        android:normalScreens="true"
         android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens="true"
         android:xlargeScreens="true" />
-
     <application
-        android:name="com.coinomi.wallet.WalletApplication"
+        android:name="com.primestone.wallet.WalletApplication"
         android:allowBackup="false"
+        tools:replace="allowBackup"
         android:hardwareAccelerated="true"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/app_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme"
+        android:largeHeap="true">
         <activity
-            android:name="com.coinomi.wallet.ui.WalletActivity"
+            android:theme="@style/AppTheme.NoTitleBar"
             android:label="@string/app_name"
+            android:name=".ui.WalletActivity"
+            android:windowSoftInputMode="adjustResize">
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        </activity>
+        <activity
+            android:theme="@style/AppTheme.NoTitleBar"
+            android:name=".ui.IntroActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:theme="@style/AppTheme.NoTitleBar"
+            android:name=".ui.AboutActivity"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:theme="@style/AppTheme.NoTitleBar"
+            android:name=".ui.SignTransactionActivity"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:theme="@style/AppTheme.NoTitleBar"
+            android:name=".ui.ScanActivity"
+            android:stateNotNeeded="true"
+            android:screenOrientation="portrait"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:theme="@style/AppTheme.NoTitleBar"
+            android:label="@string/title_activity_transaction_details"
+            android:name=".ui.TransactionDetailsActivity" />
+        <activity
             android:theme="@style/AppTheme"
-            android:windowSoftInputMode="adjustResize" >
+            android:label="@string/title_activity_exchange_rates"
+            android:name=".ui.ExchangeRatesActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.WalletActivity" />
+        </activity>
+        <activity
+            android:theme="@style/AppTheme.NoTitleBar"
+            android:label="@string/title_activity_previous_addresses"
+            android:name=".ui.PreviousAddressesActivity" />
+        <activity
+            android:theme="@style/AppTheme"
+            android:label="@string/title_activity_settings"
+            android:name=".ui.SettingsActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.WalletActivity" />
+        </activity>
+        <activity
+            android:theme="@style/AppTheme.NoTitleBar"
+            android:label="@string/title_activity_show_seed"
+            android:name=".ui.ShowSeedActivity">
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        </activity>
+        <activity
+            android:theme="@style/AppTheme"
+            android:label="@string/title_activity_trade"
+            android:name=".ui.TradeActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.WalletActivity" />
+        </activity>
+        <activity
+            android:theme="@style/AppTheme"
+            android:label="@string/title_activity_exchange_history"
+            android:name=".ui.ExchangeHistoryActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.TradeActivity" />
+        </activity>
+        <activity
+            android:theme="@style/AppTheme"
+            android:label="@string/title_activity_exchange_status"
+            android:name=".ui.TradeStatusActivity" />
+        <activity
+            android:theme="@style/AppTheme"
+            android:label="@string/title_activity_sign_verify_message"
+            android:name=".ui.SignVerifyMessageActivity" />
+        <activity
+            android:theme="@style/AppTheme"
+            android:label="@string/title_activity_account_details"
+            android:name=".ui.AccountDetailsActivity" />
+        <activity
+            android:theme="@style/AppTheme"
+            android:label="@string/title_activity_sweep_wallet"
+            android:name=".ui.SweepWalletActivity"
+            android:windowSoftInputMode="adjustPan|adjustNothing" />
+        <activity
+            android:theme="@style/AppTheme"
+            android:label="@string/title_activity_transaction_fees"
+            android:name=".ui.FeesSettingsActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.SettingsActivity" />
+        </activity>
+        <activity
+            android:theme="@style/AppTheme"
+            android:label="@string/title_activity_debugging"
+            android:name=".ui.DebuggingActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.SettingsActivity" />
+        </activity>
+        <activity
+            android:theme="@style/AppTheme.NoTitleBar"
+            android:label="@string/app_name"
+            android:name=".ui.PinEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <category
+            android:name="android.intent.category.HOME" />
+        <provider
+            android:name=".ExchangeRatesProvider"
+            android:authorities="com.primestone.wallet.coin.exchange_rates"
+            android:exported="false" />
+        <provider
+            android:name=".AddressBookProvider"
+            android:authorities="com.primestone.wallet.coin.address_book"
+            android:exported="false" />
+        <provider
+            android:name=".ExchangeHistoryProvider"
+            android:authorities="com.primestone.wallet.coin.exchange_history"
+            android:exported="false" />
+        <service
+            android:name=".service.CoinServiceImpl"
+            android:exported="false" />
+        <activity
+            android:theme="@style/AppTheme.NoTitleBar"
+            android:label="@string/title_activity_info"
+            android:name=".ui.InfoActivity">
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        </activity>
+        <activity
+            android:name=".ui.SplashActivity"
+            android:theme="@style/AppTheme.NoTitleBar"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
-            android:name="com.coinomi.wallet.ui.SendActivity"
-            android:label="@string/send_coins_activity_title"
-            android:theme="@style/AppTheme" >
-            <intent-filter android:label="@string/app_name" >
-                <action android:name="android.intent.action.VIEW" />
-
-                <data android:scheme="bitcoin" />
-                <data android:scheme="litecoin" />
-                <data android:scheme="dogecoin" />
-                <data android:scheme="reddcoin" />
-                <data android:scheme="peercoin" />
-                <data android:scheme="dash" />
-                <data android:scheme="nu" />
-                <data android:scheme="namecoin" />
-                <data android:scheme="blackcoin" />
-                <data android:scheme="monacoin" />
-                <data android:scheme="feathercoin" />
-                <data android:scheme="rubycoin" />
-                <data android:scheme="digitalcoin" />
-                <data android:scheme="cannacoin" />
-                <data android:scheme="digibyte" />
-                <data android:scheme="neoscoin" />
-                <data android:scheme="vertcoin" />
-                <data android:scheme="jumbucks" />
-                <data android:scheme="vpncoin" />
-                <data android:scheme="novacoin" />
-                <data android:scheme="shadowcash" />
-                <data android:scheme="canadaecoin" />
-                <data android:scheme="parkbyte" />
-                <data android:scheme="verge" />
-                <data android:scheme="clams" />
-                <data android:scheme="gcr" />
-                <data android:scheme="potcoin" />
-                <data android:scheme="gulden" />
-                <data android:scheme="auroracoin" />
-                <data android:scheme="bata" />
-                <data android:scheme="okcash" />
-                <data android:scheme="asiacoin" />
-                <data android:scheme="egulden" />
-                <data android:scheme="clubcoin" />
-                <data android:scheme="richcoin" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="android.intent.category.BROWSABLE" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.IntroActivity"
-            android:theme="@style/AppThemeNoTitleBar"
-            android:windowSoftInputMode="adjustResize" >
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.PasswordConfirmationActivity"
-            android:theme="@style/AppThemeNoTitleBar"
-            android:windowSoftInputMode="adjustResize" >
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.SignTransactionActivity"
-            android:theme="@style/AppThemeNoTitleBar"
-            android:windowSoftInputMode="stateHidden" >
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.ScanActivity"
-            android:configChanges="orientation|keyboard|keyboardHidden"
-            android:screenOrientation="landscape"
-            android:stateNotNeeded="true"
-            android:theme="@style/AppThemeNoTitleBar"
-            android:windowSoftInputMode="stateAlwaysHidden" />
-        <activity
-            android:name="com.coinomi.wallet.ui.AboutActivity"
-            android:label="@string/title_activity_about"
-            android:theme="@style/AppTheme" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.coinomi.wallet.ui.WalletActivity" />
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.AddCoinsActivity"
-            android:label="@string/title_activity_add_coins"
-            android:theme="@style/AppTheme" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.coinomi.wallet.ui.WalletActivity" />
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.TransactionDetailsActivity"
-            android:label="@string/title_activity_transaction_details"
-            android:theme="@style/AppTheme" >
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.ExchangeRatesActivity"
-            android:label="@string/title_activity_exchange_rates"
-            android:theme="@style/AppTheme" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.coinomi.wallet.ui.WalletActivity" />
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.PreviousAddressesActivity"
-            android:label="@string/title_activity_previous_addresses"
-            android:theme="@style/AppTheme" >
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.SettingsActivity"
-            android:label="@string/title_activity_settings"
-            android:theme="@style/AppTheme" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.coinomi.wallet.ui.WalletActivity" />
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.ShowSeedActivity"
-            android:label="@string/title_activity_show_seed"
-            android:theme="@style/AppTheme" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.coinomi.wallet.ui.SettingsActivity" />
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.TradeActivity"
-            android:label="@string/title_activity_trade"
-            android:theme="@style/AppTheme" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.coinomi.wallet.ui.WalletActivity" />
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.ExchangeHistoryActivity"
-            android:label="@string/title_activity_exchange_history"
-            android:theme="@style/AppTheme" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.coinomi.wallet.ui.TradeActivity" />
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.TradeStatusActivity"
-            android:label="@string/title_activity_exchange_status"
-            android:theme="@style/AppTheme" >
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.SignVerifyMessageActivity"
-            android:label="@string/title_activity_sign_verify_message"
-            android:theme="@style/AppTheme" >
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.AccountDetailsActivity"
-            android:label="@string/title_activity_account_details"
-            android:theme="@style/AppTheme" >
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.SweepWalletActivity"
-            android:label="@string/title_activity_sweep_wallet"
-            android:theme="@style/AppTheme" >
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.FeesSettingsActivity"
-            android:label="@string/title_activity_transaction_fees"
-            android:theme="@style/AppTheme" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.coinomi.wallet.ui.SettingsActivity" />
-        </activity>
-        <activity
-            android:name="com.coinomi.wallet.ui.DebuggingActivity"
-            android:label="@string/title_activity_debugging"
-            android:theme="@style/AppTheme" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.coinomi.wallet.ui.SettingsActivity" />
-        </activity>
-
-        <provider
-            android:name="com.coinomi.wallet.ExchangeRatesProvider"
-            android:authorities="com.coinomi.wallet.dev.exchange_rates"
-            android:exported="false" />
-        <provider
-            android:name="com.coinomi.wallet.AddressBookProvider"
-            android:authorities="com.coinomi.wallet.dev.address_book"
-            android:exported="false" />
-        <provider
-            android:name=".ExchangeHistoryProvider"
-            android:authorities="com.coinomi.wallet.dev.exchange_history"
-            android:exported="false" />
-
+            android:theme="@android:style/Theme.Dialog"
+            android:name="org.acra.dialog.CrashReportDialog"
+            android:finishOnTaskLaunch="true"
+            android:excludeFromRecents="true"
+            android:launchMode="singleInstance"
+            tools:replace="android:theme" />
         <service
-            android:name="com.coinomi.wallet.service.CoinServiceImpl"
-            android:exported="false" />
+            android:name="org.acra.sender.SenderService"
+            android:exported="false"
+            android:process=":acra" />
     </application>
-
 </manifest>

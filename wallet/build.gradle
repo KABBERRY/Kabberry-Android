@@ -1,15 +1,16 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 26
-    buildToolsVersion "28.0.3"
+    compileSdkVersion 25
+    buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "com.coinomi.wallet"
-        minSdkVersion 19
-        targetSdkVersion 23
-        versionCode 1000201
-        versionName "v2.0.1"
+        applicationId "com.primestone.wallet.coin"
+        minSdkVersion 21
+        targetSdkVersion 26
+        multiDexEnabled true
+        versionCode 2
+        versionName "2.0.0"
     }
 
     buildTypes {
@@ -29,9 +30,8 @@ android {
         }
     }
 
-    lintOptions {
-        checkReleaseBuilds false
-        //abortOnError false
+    aaptOptions {
+        cruncherEnabled = false
     }
 }
 
@@ -41,25 +41,54 @@ repositories {
     }
 }
 
+//sourceSets {
+//    unitTest {
+//        java.srcDir file('src/test/java')
+//        resources.srcDir file('src/test/resources')
+//    }
+//}
+
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile fileTree(dir: '../core/libs', include: ['*.jar'])
     // Testing
-    // androidTestCompile 'junit:junit:4.11'
-    // androidTestCompile 'org.robolectric:robolectric:2.3'
-    // androidTestCompile 'com.squareup:fest-android:1.0.+'
+//    androidTestCompile 'junit:junit:4.11'
+//    androidTestCompile 'org.robolectric:robolectric:2.3'
+//    androidTestCompile 'com.squareup:fest-android:1.0.+'
     compile project(':core')
-    compile 'com.android.support:gridlayout-v7:26.1.0'
-    compile 'com.android.support:support-v4:26.1.0'
-    compile 'com.android.support:appcompat-v7:26.1.0'
-    // compile 'com.android.support:preference-v7:26.1.0'
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.android.support:appcompat-v7:25.3.0'
+    compile 'com.android.support:support-v4:25.3.0'
+    compile 'com.android.support:gridlayout-v7:25.3.0'
+    compile 'com.android.support:design:25.3.0'
+    compile 'com.android.support:support-annotations:23.3.0'
     compile 'com.google.guava:guava:16.0.1'
     compile 'com.google.code.findbugs:jsr305:2.0.1'
     compile 'com.madgag.spongycastle:core:1.51.0.0'
     compile 'com.google.protobuf:protobuf-java:2.5.0'
+    compile group: 'com.github.medyo', name: 'fancybuttons', version: '1.8.4'
     compile 'com.google.zxing:core:3.1.0'
     compile 'ch.acra:acra:4.8.5'
-    compile 'com.android.support:support-v4-preferencefragment:1.0.0@aar'
-    annotationProcessor 'com.jakewharton:butterknife:7.0.1'
+    compile group: 'com.zhy', name: 'flowlayout-lib', version: '1.0.3'
+    compile 'com.uncopt:android.justified:1.0'
+//    compile 'com.android.support:support-v4-preferencefragment:1.0.0@aar'
     compile 'com.jakewharton:butterknife:7.0.1'
+    // https://mvnrepository.com/artifact/com.baoyz.pullrefreshlayout/library
+    compile group: 'com.baoyz.pullrefreshlayout', name: 'library', version: '1.2.0'
+    compile group: 'com.tuyenmonkey', name: 'mkloader', version: '1.2.0'
 }
+
+//apply plugin: 'robolectric'
+
+//robolectric {
+//    include '**/*Test.class'
+//    exclude '**/espresso/**/*.class'
+//}
+
+//apply plugin: 'idea'
+
+//idea {
+//    module {
+//        testOutputDir = file('build/test-classes/debug')
+//    }
+//}

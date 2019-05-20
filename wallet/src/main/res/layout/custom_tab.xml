@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    android:textSize="13.0sp"
+    android:textColor="@drawable/tab_title_selector"
+    android:gravity="center"
+    android:layout_gravity="center_horizontal"
+    android:id="@id/title"
+    android:paddingTop="0.0dip"
+    android:paddingBottom="0.0dip"
+    android:layout_width="wrap_content"
+    android:layout_height="?android:actionBarSize"
+    android:text="tab"
+    android:layout_centerHorizontal="true"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

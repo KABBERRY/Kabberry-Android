@@ -105,6 +105,9 @@ public interface WalletAccount<T extends AbstractTransaction, A extends Abstract
     boolean isEncryptable();
     boolean isEncrypted();
     KeyCrypter getKeyCrypter();
+
+    int getLastBlockSeenHeight();
+
     void encrypt(KeyCrypter keyCrypter, KeyParameter aesKey);
     void decrypt(KeyParameter aesKey);
 

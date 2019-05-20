@@ -1,0 +1,288 @@
+# view res/layout/design_bottom_navigation_item.xml #generated:5
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# view res/layout/design_navigation_item.xml #generated:2
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:2
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/design_text_input_password_icon.xml #generated:2
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# view res/layout/design_bottom_sheet_dialog.xml #generated:2
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:2
+# view sw600dp-v13/res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/fragment_account.xml #generated:18
+# view res/layout/fragment_history.xml #generated:13
+-keep class android.support.design.widget.TabLayout { <init>(...); }
+
+# view res/layout/activity_info.xml #generated:40
+# view res/layout/fragment_account.xml #generated:8
+# view res/layout/fragment_history.xml #generated:8
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:12
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:5
+# view res/layout/abc_alert_dialog_title_material.xml #generated:56
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:2
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:2
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:2
+# view res/layout/abc_popup_menu_item_layout.xml #generated:2
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:5
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:2
+# view res/layout/abc_screen_toolbar.xml #generated:7
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:2
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:2
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:2
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:2
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:4
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:7
+# view res/layout/abc_alert_dialog_title_material.xml #generated:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:2
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:2
+# view res/layout/abc_screen_simple.xml #generated:2
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:9
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:6
+# view res/layout/activity_fragment_wrapper.xml #generated:8
+# view res/layout/activity_wallet_new.xml #generated:8
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:4
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:5
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/fragment_balance.xml #generated:8
+-keep class com.baoyz.widget.PullRefreshLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:193
+-keep class com.primestone.wallet.AddressBookProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:197
+-keep class com.primestone.wallet.ExchangeHistoryProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:189
+-keep class com.primestone.wallet.ExchangeRatesProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.primestone.wallet.WalletApplication { <init>(...); }
+
+# view res/layout/activity_info.xml #generated:56
+-keep class com.primestone.wallet.circleindicator.CircleIndicator { <init>(...); }
+
+# view AndroidManifest.xml #generated:202
+-keep class com.primestone.wallet.service.CoinServiceImpl { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.primestone.wallet.ui.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:156
+-keep class com.primestone.wallet.ui.AccountDetailsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:173
+-keep class com.primestone.wallet.ui.DebuggingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:140
+-keep class com.primestone.wallet.ui.ExchangeHistoryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.primestone.wallet.ui.ExchangeRatesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:165
+-keep class com.primestone.wallet.ui.FeesSettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:206
+-keep class com.primestone.wallet.ui.InfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.primestone.wallet.ui.IntroActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:181
+-keep class com.primestone.wallet.ui.PinEntryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:110
+-keep class com.primestone.wallet.ui.PreviousAddressesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class com.primestone.wallet.ui.ScanActivity { <init>(...); }
+
+# view res/layout/scan_activity.xml #generated:40
+-keep class com.primestone.wallet.ui.ScannerView { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class com.primestone.wallet.ui.SettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:122
+-keep class com.primestone.wallet.ui.ShowSeedActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.primestone.wallet.ui.SignTransactionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:152
+-keep class com.primestone.wallet.ui.SignVerifyMessageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:216
+-keep class com.primestone.wallet.ui.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:160
+-keep class com.primestone.wallet.ui.SweepWalletActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.primestone.wallet.ui.TradeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class com.primestone.wallet.ui.TradeStatusActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.primestone.wallet.ui.TransactionDetailsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class com.primestone.wallet.ui.WalletActivity { <init>(...); }
+
+# view res/layout/exchange_status_row.xml #generated:15
+# view res/layout/fragment_send.xml #generated:105
+-keep class com.primestone.wallet.ui.widget.AddressView { <init>(...); }
+
+# view res/layout/account_row.xml #generated:13
+# view res/layout/account_row.xml #generated:14
+# view res/layout/account_row.xml #generated:9
+# view res/layout/coin_list_row.xml #generated:6
+# view res/layout/exchange_rate_row.xml #generated:10
+# view res/layout/exchange_rate_row.xml #generated:8
+# view res/layout/exchange_status_row.xml #generated:11
+# view res/layout/exchange_status_row.xml #generated:13
+# view res/layout/fragment_balance_header.xml #generated:18
+# view res/layout/fragment_balance_header.xml #generated:24
+# view res/layout/fragment_overview_header.xml #generated:17
+-keep class com.primestone.wallet.ui.widget.Amount { <init>(...); }
+
+# view res/layout/edit_fee_dialog.xml #generated:53
+# view res/layout/fragment_request.xml #generated:147
+# view res/layout/fragment_request.xml #generated:153
+# view res/layout/fragment_send.xml #generated:164
+# view res/layout/fragment_send.xml #generated:169
+# view res/layout/fragment_trade_select.xml #generated:23
+# view res/layout/fragment_trade_select.xml #generated:24
+-keep class com.primestone.wallet.ui.widget.AmountEditView { <init>(...); }
+
+# view res/layout/amount.xml #generated:5
+-keep class com.primestone.wallet.ui.widget.FontFitTextView { <init>(...); }
+
+# view res/layout/fragment_make_transaction.xml #generated:34
+# view res/layout/transaction_amount_visualizer.xml #generated:15
+# view res/layout/transaction_amount_visualizer.xml #generated:9
+# view res/layout/transaction_details_output_row.xml #generated:2
+-keep class com.primestone.wallet.ui.widget.SendOutputTanns { <init>(...); }
+
+# view res/layout/fragment_overview.xml #generated:6
+-keep class com.primestone.wallet.ui.widget.SwipeRefreshLayout { <init>(...); }
+
+# view res/layout/fragment_make_transaction.xml #generated:27
+-keep class com.primestone.wallet.ui.widget.TransactionAmountVisualizer { <init>(...); }
+
+# view res/layout/fragment_finalize_wallet_restoration.xml #generated:17
+-keep class com.tuyenmonkey.mkloader.MKLoader { <init>(...); }
+
+# view res/layout/dialog_retry_password.xml #generated:22
+# view res/layout/edit_fee_dialog.xml #generated:45
+# view res/layout/fragment_account_details.xml #generated:20
+# view res/layout/fragment_account_details.xml #generated:9
+# view res/layout/fragment_debugging.xml #generated:14
+# view res/layout/fragment_restore.xml #generated:139
+# view res/layout/fragment_seed.xml #generated:133
+# view res/layout/fragment_setting.xml #generated:50
+# view res/layout/fragment_show_seed.xml #generated:47
+# view res/layout/fragment_sweep.xml #generated:18
+# view res/layout/fragment_transaction_row_footer.xml #generated:57
+# view res/layout/popup_copy_warning.xml #generated:24
+# view res/layout/popup_wallet_warning.xml #generated:21
+-keep class com.uncopt.android.widget.text.justify.JustifiedTextView { <init>(...); }
+
+# view res/layout/fragment_seed.xml #generated:109
+-keep class com.zhy.view.flowlayout.TagFlowLayout { <init>(...); }
+
+# view res/layout/dialog_change_password.xml #generated:142
+# view res/layout/dialog_change_password.xml #generated:156
+# view res/layout/dialog_password.xml #generated:63
+# view res/layout/dialog_password.xml #generated:76
+# view res/layout/dialog_pin_trial.xml #generated:21
+# view res/layout/edit_address_book_entry_dialog.xml #generated:80
+# view res/layout/edit_address_book_entry_dialog.xml #generated:91
+# view res/layout/edit_fee_dialog.xml #generated:69
+# view res/layout/edit_fee_dialog.xml #generated:84
+# view res/layout/fragment_make_transaction.xml #generated:81
+# view res/layout/fragment_request.xml #generated:199
+# view res/layout/fragment_restore.xml #generated:144
+# view res/layout/fragment_seed.xml #generated:187
+# view res/layout/fragment_send.xml #generated:276
+# view res/layout/fragment_set_password.xml #generated:207
+# view res/layout/fragment_transaction_row_footer.xml #generated:68
+# view res/layout/new_address_dialog.xml #generated:58
+# view res/layout/new_address_dialog.xml #generated:71
+# view res/layout/popup_copy_warning.xml #generated:43
+# view res/layout/popup_copy_warning.xml #generated:56
+# view res/layout/popup_exit.xml #generated:16
+# view res/layout/popup_exit.xml #generated:19
+# view res/layout/popup_logout.xml #generated:25
+# view res/layout/popup_logout.xml #generated:32
+# view res/layout/popup_wallet_warning.xml #generated:33
+# view res/layout/popup_wallet_warning.xml #generated:43
+-keep class mehdi.sakout.fancybuttons.FancyButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:227
+-keep class org.acra.dialog.CrashReportDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:234
+-keep class org.acra.sender.SenderService { <init>(...); }
+
+# onClick res/layout/activity_pin_entry_keyboard_include.xml #generated:328
+-keepclassmembers class * { *** cancelClicked(...); }
+
+# onClick res/layout/activity_pin_entry_keyboard_include.xml #generated:111
+# onClick res/layout/activity_pin_entry_keyboard_include.xml #generated:143
+# onClick res/layout/activity_pin_entry_keyboard_include.xml #generated:16
+# onClick res/layout/activity_pin_entry_keyboard_include.xml #generated:174
+# onClick res/layout/activity_pin_entry_keyboard_include.xml #generated:209
+# onClick res/layout/activity_pin_entry_keyboard_include.xml #generated:241
+# onClick res/layout/activity_pin_entry_keyboard_include.xml #generated:271
+# onClick res/layout/activity_pin_entry_keyboard_include.xml #generated:320
+# onClick res/layout/activity_pin_entry_keyboard_include.xml #generated:49
+# onClick res/layout/activity_pin_entry_keyboard_include.xml #generated:80
+-keepclassmembers class * { *** padClicked(...); }
+

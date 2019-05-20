@@ -3,7 +3,7 @@ package com.coinomi.core.wallet.families.nxt;
 import com.coinomi.core.coins.BurstMain;
 import com.coinomi.core.coins.CoinType;
 import com.coinomi.core.coins.FeePolicy;
-import com.coinomi.core.coins.NxtMain;
+//import com.coinomi.core.coins.NxtMain;
 import com.coinomi.core.coins.Value;
 import com.coinomi.core.coins.families.NxtFamily;
 import com.coinomi.core.coins.nxt.Appendix;
@@ -36,9 +36,10 @@ public class NxtSendRequest extends SendRequest<NxtTransaction> {
 
         byte version = (byte) 1;
         int timestamp;
-        if (req.type instanceof NxtMain) {
-            timestamp = Convert.toNxtEpochTime(System.currentTimeMillis());
-        } else if (req.type instanceof BurstMain) {
+//        if (req.type instanceof NxtMain) {
+//            timestamp = Convert.toNxtEpochTime(System.currentTimeMillis());
+//        } else
+        if (req.type instanceof BurstMain) {
             timestamp = Convert.toBurstEpochTime(System.currentTimeMillis());
         } else {
             throw new RuntimeException("Unexpected NXT family type: " + req.type.toString());

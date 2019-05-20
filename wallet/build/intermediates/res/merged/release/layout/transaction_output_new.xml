@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background_v1"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6.0dip"
+        android:layout_marginTop="7.0dip"
+        android:layout_marginRight="6.0dip"
+        android:layout_marginBottom="7.0dip"
+        android:baselineAligned="true">
+        <TextView
+            android:textSize="18.0sp"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical"
+            android:id="@id/send_output_type_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            style="@style/SendOutputTypeText" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0">
+            <LinearLayout
+                android:layout_gravity="right"
+                android:id="@id/ll_amount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="2.0dip">
+                <TextView
+                    android:textSize="17.0sp"
+                    android:textColor="@color/send_normal"
+                    android:gravity="bottom"
+                    android:id="@id/amount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/SendOutputAmount" />
+                <TextView
+                    android:textSize="17.0sp"
+                    android:textColor="@color/send_normal"
+                    android:id="@id/symbol"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="2.0dip"
+                    style="@style/SendOutputAmount" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_gravity="right" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="13.0sp" android:textColor="@color/bg_list_selected" android:layout_gravity="center_vertical" android:id="@id/local_amount" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Amount" />
+                <TextView android:textSize="13.0sp" android:textColor="@color/bg_list_selected" android:layout_gravity="bottom" android:id="@id/local_symbol" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" style="@style/AmountSymbol" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <View
+        android:background="@color/bg_list_selected"
+        android:visibility="visible"
+        android:layout_width="fill_parent"
+        android:layout_height="0.6dip" />
+    <RelativeLayout
+        android:id="@id/ll_address"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6.0dip"
+            android:layout_marginTop="7.0dip"
+            android:layout_marginRight="6.0dip"
+            android:layout_marginBottom="7.0dip">
+            <TextView
+                android:textSize="15.0sp"
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:id="@id/address_direction"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3.0dip"
+                android:text="@string/to" />
+            <TextView
+                android:textSize="15.0sp"
+                android:textColor="@color/white"
+                android:id="@id/output_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/NormalText" />
+            <TextView
+                android:textSize="16.0sp"
+                android:textColor="@color/white"
+                android:id="@id/output_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/SmallHelpText" />
+            <TextView
+                android:textSize="15.0sp"
+                android:textColor="@color/white"
+                android:id="@id/address_opt"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tx_message_from" />
+            <TextView
+                android:textSize="15.0sp"
+                android:textColor="@color/white"
+                android:id="@id/output_label2"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/NormalText" />
+            <TextView
+                android:textSize="16.0sp"
+                android:id="@id/output_address2"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/SmallHelpText" />
+        </LinearLayout>
+    </RelativeLayout>
+    <View
+        android:background="@color/bg_list_selected"
+        android:visibility="visible"
+        android:layout_width="fill_parent"
+        android:layout_height="0.6dip" />
+</LinearLayout>

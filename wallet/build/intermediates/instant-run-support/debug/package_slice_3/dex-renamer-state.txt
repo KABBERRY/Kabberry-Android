@@ -1,0 +1,4 @@
+#Thu Jan 24 10:38:14 PKT 2019
+base.0=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3
+renamed.0=classes.dex
+file.0=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex

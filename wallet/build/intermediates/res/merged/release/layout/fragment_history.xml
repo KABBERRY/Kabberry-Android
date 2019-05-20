@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:background="@color/primary_600"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v4.view.ViewPager
+        android:id="@id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/pager_title_strip" />
+    <android.support.design.widget.TabLayout
+        android:id="@id/pager_title_strip"
+        android:background="@color/primary_600"
+        android:focusable="false"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:measureAllChildren="true"
+        android:layout_alignParentTop="true"
+        app:tabIndicatorColor="@color/app_gold"
+        app:tabIndicatorHeight="0.0dip"
+        app:tabMaxWidth="0.0dip"
+        app:tabPaddingStart="0.0dip"
+        app:tabPaddingTop="0.0dip"
+        app:tabPaddingEnd="0.0dip"
+        app:tabPaddingBottom="0.0dip"
+        app:tabBackground="@drawable/tab_background_selector"
+        style="@style/PagerTabStrip" />
+</RelativeLayout>

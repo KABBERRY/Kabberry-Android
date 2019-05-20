@@ -1,0 +1,526 @@
+[
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/amount_new.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/amount_new.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_sign_message.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_sign_message.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/popup_wallet_warning.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/popup_wallet_warning.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_welcome.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/account_row.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/account_row.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/custom_tab_his.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/custom_tab_his.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/dialog_retry_password.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/dialog_retry_password.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/amount_edit_my.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/amount_edit_my.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/activity_info.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/activity_info.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_account_details.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_account_details.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_transaction_details.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_transaction_details.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/custom_toast_container.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/custom_toast_container.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_trade_status.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_trade_status.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/transaction_row.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/transaction_row.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/new_address_dialog.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/new_address_dialog.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_restore.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_restore.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/dialog_change_password.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/dialog_change_password.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/dialog_title.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/dialog_title.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_account.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_account.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_setting.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_fees_settings_list.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_fees_settings_list.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_request.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_request.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_finalize_wallet_restoration.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_finalize_wallet_restoration.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_set_password.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_set_password.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/exchange_rates_content.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/exchange_rates_content.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_history.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_history.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/scan_activity.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/scan_activity.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_transaction_row_footer.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_transaction_row_footer.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_debugging.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_debugging.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_show_seed.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_show_seed.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_intro.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_intro.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/transaction_amount_visualizer.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/transaction_amount_visualizer.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/transaction_output.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/transaction_output.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/custom_bal_tab.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/custom_bal_tab.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/coin_list_row.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/coin_list_row.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/popup_copy_warning.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/popup_copy_warning.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_balance.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_balance.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/edit_account_dialog.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/edit_account_dialog.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/dialog_password.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/dialog_password.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/activity_splesh.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/activity_splesh.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_trade_select.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_trade_select.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/popup_pass_warning.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/popup_pass_warning.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/activity_pin_entry_keyboard_include.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/activity_pin_entry_keyboard_include.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_exchange_history.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_exchange_history.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/select_pay_with.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/select_pay_with.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/popup_logout.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/popup_logout.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_send_balance.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_send_balance.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/select_coin_for_address.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/select_coin_for_address.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/transaction_details_output_row.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/transaction_details_output_row.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/edit_address_book_entry_dialog.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/edit_address_book_entry_dialog.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_exchange_rates.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_exchange_rates.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/transaction_output_new.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/transaction_output_new.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/activity_wallet_new.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/activity_wallet_new.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_send.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_send.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_seed.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_seed.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/activity_fragment_wrapper.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/activity_fragment_wrapper.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/dialog_chooselist.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/dialog_chooselist.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_overview_header.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_overview_header.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/edit_fee_dialog.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/edit_fee_dialog.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_sweep.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_sweep.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/item_simple.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/item_simple.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/custom_tab.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/custom_tab.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/address_book_row.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/address_book_row.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_balance_header.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_balance_header.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/header_with_font_icon.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/header_with_font_icon.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/dialog_pin_trial.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/dialog_pin_trial.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/address_row.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/address_row.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/amount.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/amount.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/address.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/address.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_make_transaction.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_make_transaction.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/exchange_rate_row.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/exchange_rate_row.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/activity_pin_entry.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/activity_pin_entry.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/exchange_status_row.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/exchange_status_row.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_overview.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_overview.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_select_coins_list.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_select_coins_list.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_previous_addresses.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_previous_addresses.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/fragment_info.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/powered_by_shapeshift.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/powered_by_shapeshift.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/item_seed.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/item_seed.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/popup_exit.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/popup_exit.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/layout/abc_select_dialog_material.xml"
+    }
+]
