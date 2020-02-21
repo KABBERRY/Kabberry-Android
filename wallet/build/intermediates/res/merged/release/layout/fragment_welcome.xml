@@ -19,7 +19,7 @@
             android:layout_marginTop="103dp"
             android:layout_centerHorizontal="true"
             android:scaleType="centerInside"
-            android:src="@drawable/primestone_logo_white" />
+            android:src="@drawable/kabberry_logo_white" />
         <RelativeLayout
             android:orientation="vertical"
             android:layout_width="fill_parent"

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.primestone.wallet"
+    package="com.kabberry.wallet"
     xmlns:tools="http://schemas.android.com/tools">
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -29,7 +29,7 @@
         android:largeScreens="true"
         android:xlargeScreens="true" />
     <application
-        android:name="com.primestone.wallet.WalletApplication"
+        android:name="com.kabberry.wallet.WalletApplication"
         android:allowBackup="false"
         tools:replace="allowBackup"
         android:hardwareAccelerated="true"
@@ -157,15 +157,15 @@
             android:name="android.intent.category.HOME" />
         <provider
             android:name=".ExchangeRatesProvider"
-            android:authorities="com.primestone.wallet.coin.exchange_rates"
+            android:authorities="com.kabberry.wallet.coin.exchange_rates"
             android:exported="false" />
         <provider
             android:name=".AddressBookProvider"
-            android:authorities="com.primestone.wallet.coin.address_book"
+            android:authorities="com.kabberry.wallet.coin.address_book"
             android:exported="false" />
         <provider
             android:name=".ExchangeHistoryProvider"
-            android:authorities="com.primestone.wallet.coin.exchange_history"
+            android:authorities="com.kabberry.wallet.coin.exchange_history"
             android:exported="false" />
         <service
             android:name=".service.CoinServiceImpl"

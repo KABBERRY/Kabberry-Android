@@ -14,7 +14,7 @@
 -keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
 
 # view res/layout/design_layout_snackbar.xml #generated:2
-# view sw600dp-v13/res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13\res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
 -keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
 
 # view res/layout/fragment_account.xml #generated:18
@@ -92,92 +92,92 @@
 -keep class com.baoyz.widget.PullRefreshLayout { <init>(...); }
 
 # view AndroidManifest.xml #generated:193
--keep class com.primestone.wallet.AddressBookProvider { <init>(...); }
+-keep class com.kabberry.wallet.AddressBookProvider { <init>(...); }
 
 # view AndroidManifest.xml #generated:197
--keep class com.primestone.wallet.ExchangeHistoryProvider { <init>(...); }
+-keep class com.kabberry.wallet.ExchangeHistoryProvider { <init>(...); }
 
 # view AndroidManifest.xml #generated:189
--keep class com.primestone.wallet.ExchangeRatesProvider { <init>(...); }
+-keep class com.kabberry.wallet.ExchangeRatesProvider { <init>(...); }
 
 # view AndroidManifest.xml #generated:59
--keep class com.primestone.wallet.WalletApplication { <init>(...); }
-
-# view res/layout/activity_info.xml #generated:56
--keep class com.primestone.wallet.circleindicator.CircleIndicator { <init>(...); }
+-keep class com.kabberry.wallet.WalletApplication { <init>(...); }
 
 # view AndroidManifest.xml #generated:202
--keep class com.primestone.wallet.service.CoinServiceImpl { <init>(...); }
+-keep class com.kabberry.wallet.service.CoinServiceImpl { <init>(...); }
 
 # view AndroidManifest.xml #generated:83
--keep class com.primestone.wallet.ui.AboutActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.AboutActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:156
--keep class com.primestone.wallet.ui.AccountDetailsActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.AccountDetailsActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:173
--keep class com.primestone.wallet.ui.DebuggingActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.DebuggingActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:140
--keep class com.primestone.wallet.ui.ExchangeHistoryActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.ExchangeHistoryActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:102
--keep class com.primestone.wallet.ui.ExchangeRatesActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.ExchangeRatesActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:165
--keep class com.primestone.wallet.ui.FeesSettingsActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.FeesSettingsActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:206
--keep class com.primestone.wallet.ui.InfoActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.InfoActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:79
--keep class com.primestone.wallet.ui.IntroActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.IntroActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:181
--keep class com.primestone.wallet.ui.PinEntryActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.PinEntryActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:110
--keep class com.primestone.wallet.ui.PreviousAddressesActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.PreviousAddressesActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:91
--keep class com.primestone.wallet.ui.ScanActivity { <init>(...); }
-
-# view res/layout/scan_activity.xml #generated:40
--keep class com.primestone.wallet.ui.ScannerView { <init>(...); }
+-keep class com.kabberry.wallet.ui.ScanActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:114
--keep class com.primestone.wallet.ui.SettingsActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.SettingsActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:122
--keep class com.primestone.wallet.ui.ShowSeedActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.ShowSeedActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:87
--keep class com.primestone.wallet.ui.SignTransactionActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.SignTransactionActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:152
--keep class com.primestone.wallet.ui.SignVerifyMessageActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.SignVerifyMessageActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:216
--keep class com.primestone.wallet.ui.SplashActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.SplashActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:160
--keep class com.primestone.wallet.ui.SweepWalletActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.SweepWalletActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:132
--keep class com.primestone.wallet.ui.TradeActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.TradeActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:148
--keep class com.primestone.wallet.ui.TradeStatusActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.TradeStatusActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:98
--keep class com.primestone.wallet.ui.TransactionDetailsActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.TransactionDetailsActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:68
--keep class com.primestone.wallet.ui.WalletActivity { <init>(...); }
+-keep class com.kabberry.wallet.ui.WalletActivity { <init>(...); }
+
+# view res/layout/activity_info.xml #generated:56
+-keep class com.kabberry.wallet.circleindicator.CircleIndicator { <init>(...); }
+
+# view res/layout/scan_activity.xml #generated:40
+-keep class com.kabberry.wallet.ui.ScannerView { <init>(...); }
 
 # view res/layout/exchange_status_row.xml #generated:15
 # view res/layout/fragment_send.xml #generated:105
--keep class com.primestone.wallet.ui.widget.AddressView { <init>(...); }
+-keep class com.kabberry.wallet.ui.widget.AddressView { <init>(...); }
 
 # view res/layout/account_row.xml #generated:13
 # view res/layout/account_row.xml #generated:14
@@ -190,7 +190,7 @@
 # view res/layout/fragment_balance_header.xml #generated:18
 # view res/layout/fragment_balance_header.xml #generated:24
 # view res/layout/fragment_overview_header.xml #generated:17
--keep class com.primestone.wallet.ui.widget.Amount { <init>(...); }
+-keep class com.kabberry.wallet.ui.widget.Amount { <init>(...); }
 
 # view res/layout/edit_fee_dialog.xml #generated:53
 # view res/layout/fragment_request.xml #generated:147
@@ -199,22 +199,22 @@
 # view res/layout/fragment_send.xml #generated:169
 # view res/layout/fragment_trade_select.xml #generated:23
 # view res/layout/fragment_trade_select.xml #generated:24
--keep class com.primestone.wallet.ui.widget.AmountEditView { <init>(...); }
+-keep class com.kabberry.wallet.ui.widget.AmountEditView { <init>(...); }
 
 # view res/layout/amount.xml #generated:5
--keep class com.primestone.wallet.ui.widget.FontFitTextView { <init>(...); }
+-keep class com.kabberry.wallet.ui.widget.FontFitTextView { <init>(...); }
 
 # view res/layout/fragment_make_transaction.xml #generated:34
 # view res/layout/transaction_amount_visualizer.xml #generated:15
 # view res/layout/transaction_amount_visualizer.xml #generated:9
 # view res/layout/transaction_details_output_row.xml #generated:2
--keep class com.primestone.wallet.ui.widget.SendOutputTanns { <init>(...); }
+-keep class com.kabberry.wallet.ui.widget.SendOutputTanns { <init>(...); }
 
 # view res/layout/fragment_overview.xml #generated:6
--keep class com.primestone.wallet.ui.widget.SwipeRefreshLayout { <init>(...); }
+-keep class com.kabberry.wallet.ui.widget.SwipeRefreshLayout { <init>(...); }
 
 # view res/layout/fragment_make_transaction.xml #generated:27
--keep class com.primestone.wallet.ui.widget.TransactionAmountVisualizer { <init>(...); }
+-keep class com.kabberry.wallet.ui.widget.TransactionAmountVisualizer { <init>(...); }
 
 # view res/layout/fragment_finalize_wallet_restoration.xml #generated:17
 -keep class com.tuyenmonkey.mkloader.MKLoader { <init>(...); }

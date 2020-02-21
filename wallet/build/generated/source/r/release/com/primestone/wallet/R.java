@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.primestone.wallet;
+package com.kabberry.wallet;
 
 public final class R {
     public static final class anim {
@@ -3546,8 +3546,8 @@ containing a value of this type.
         public static final int notification_tile_bg=0x7f0200a8;
         public static final int notify_panel_notification_icon_bg=0x7f0200a9;
         public static final int plus_menu=0x7f0200aa;
-        public static final int primestone_logo_black=0x7f0200ab;
-        public static final int primestone_logo_white=0x7f0200ac;
+        public static final int kabberry_logo_black=0x7f0200ab;
+        public static final int kabberry_logo_white=0x7f0200ac;
         public static final int progress_green=0x7f0200ad;
         public static final int progress_orange=0x7f0200ae;
         public static final int progress_red=0x7f0200af;
@@ -5209,35 +5209,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.primestone.wallet.coin:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.primestone.wallet.coin:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.primestone.wallet.coin:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.primestone.wallet.coin:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.primestone.wallet.coin:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.primestone.wallet.coin:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.primestone.wallet.coin:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.primestone.wallet.coin:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.primestone.wallet.coin:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.primestone.wallet.coin:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.primestone.wallet.coin:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.primestone.wallet.coin:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.primestone.wallet.coin:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.primestone.wallet.coin:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.primestone.wallet.coin:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.primestone.wallet.coin:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.primestone.wallet.coin:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.primestone.wallet.coin:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.primestone.wallet.coin:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.primestone.wallet.coin:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.primestone.wallet.coin:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.primestone.wallet.coin:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.primestone.wallet.coin:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.primestone.wallet.coin:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.primestone.wallet.coin:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.primestone.wallet.coin:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.primestone.wallet.coin:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.primestone.wallet.coin:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.primestone.wallet.coin:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.kabberry.wallet.coin:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.kabberry.wallet.coin:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.kabberry.wallet.coin:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.kabberry.wallet.coin:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.kabberry.wallet.coin:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.kabberry.wallet.coin:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.kabberry.wallet.coin:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.kabberry.wallet.coin:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.kabberry.wallet.coin:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.kabberry.wallet.coin:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.kabberry.wallet.coin:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.kabberry.wallet.coin:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.kabberry.wallet.coin:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.kabberry.wallet.coin:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.kabberry.wallet.coin:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.kabberry.wallet.coin:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.kabberry.wallet.coin:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.kabberry.wallet.coin:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.kabberry.wallet.coin:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.kabberry.wallet.coin:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.kabberry.wallet.coin:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.kabberry.wallet.coin:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.kabberry.wallet.coin:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.kabberry.wallet.coin:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.kabberry.wallet.coin:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.kabberry.wallet.coin:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.kabberry.wallet.coin:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.kabberry.wallet.coin:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.kabberry.wallet.coin:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -5280,17 +5280,17 @@ containing a value of this type.
             0x7f010065
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#background}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:background
+          @attr name com.kabberry.wallet.coin:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5298,11 +5298,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.primestone.wallet.coin:backgroundSplit
+          @attr name com.kabberry.wallet.coin:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5310,11 +5310,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.primestone.wallet.coin:backgroundStacked
+          @attr name com.kabberry.wallet.coin:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5326,11 +5326,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentInsetEnd
+          @attr name com.kabberry.wallet.coin:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5342,11 +5342,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentInsetEndWithActions
+          @attr name com.kabberry.wallet.coin:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5358,11 +5358,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentInsetLeft
+          @attr name com.kabberry.wallet.coin:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5374,11 +5374,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentInsetRight
+          @attr name com.kabberry.wallet.coin:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5390,11 +5390,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentInsetStart
+          @attr name com.kabberry.wallet.coin:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5406,21 +5406,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentInsetStartWithNavigation
+          @attr name com.kabberry.wallet.coin:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:customNavigationLayout
+          @attr name com.kabberry.wallet.coin:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5438,21 +5438,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:displayOptions
+          @attr name com.kabberry.wallet.coin:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:divider
+          @attr name com.kabberry.wallet.coin:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5464,11 +5464,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:elevation
+          @attr name com.kabberry.wallet.coin:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#height}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5480,11 +5480,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:height
+          @attr name com.kabberry.wallet.coin:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5494,51 +5494,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:hideOnContentScroll
+          @attr name com.kabberry.wallet.coin:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:homeAsUpIndicator
+          @attr name com.kabberry.wallet.coin:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:homeLayout
+          @attr name com.kabberry.wallet.coin:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:icon
+          @attr name com.kabberry.wallet.coin:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:indeterminateProgressStyle
+          @attr name com.kabberry.wallet.coin:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5550,21 +5550,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:itemPadding
+          @attr name com.kabberry.wallet.coin:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:logo
+          @attr name com.kabberry.wallet.coin:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5578,21 +5578,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:navigationMode
+          @attr name com.kabberry.wallet.coin:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:popupTheme
+          @attr name com.kabberry.wallet.coin:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5604,21 +5604,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:progressBarPadding
+          @attr name com.kabberry.wallet.coin:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:progressBarStyle
+          @attr name com.kabberry.wallet.coin:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5628,21 +5628,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:subtitle
+          @attr name com.kabberry.wallet.coin:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:subtitleTextStyle
+          @attr name com.kabberry.wallet.coin:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#title}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5652,17 +5652,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:title
+          @attr name com.kabberry.wallet.coin:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:titleTextStyle
+          @attr name com.kabberry.wallet.coin:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -5714,12 +5714,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.primestone.wallet.coin:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.primestone.wallet.coin:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.primestone.wallet.coin:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.primestone.wallet.coin:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.primestone.wallet.coin:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.primestone.wallet.coin:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.kabberry.wallet.coin:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.kabberry.wallet.coin:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.kabberry.wallet.coin:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.kabberry.wallet.coin:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.kabberry.wallet.coin:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.kabberry.wallet.coin:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -5733,17 +5733,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#background}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:background
+          @attr name com.kabberry.wallet.coin:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -5751,21 +5751,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.primestone.wallet.coin:backgroundSplit
+          @attr name com.kabberry.wallet.coin:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:closeItemLayout
+          @attr name com.kabberry.wallet.coin:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#height}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -5777,27 +5777,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:height
+          @attr name com.kabberry.wallet.coin:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:subtitleTextStyle
+          @attr name com.kabberry.wallet.coin:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:titleTextStyle
+          @attr name com.kabberry.wallet.coin:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -5806,8 +5806,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.primestone.wallet.coin:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.primestone.wallet.coin:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.kabberry.wallet.coin:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.kabberry.wallet.coin:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -5816,17 +5816,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001f, 0x7f010020
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:expandActivityOverflowButtonDrawable
+          @attr name com.kabberry.wallet.coin:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -5836,7 +5836,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:initialActivityCount
+          @attr name com.kabberry.wallet.coin:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a Address.
@@ -5845,8 +5845,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Address_multi_line com.primestone.wallet.coin:multi_line}</code></td><td></td></tr>
-           <tr><td><code>{@link #Address_show_coin_icon com.primestone.wallet.coin:show_coin_icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Address_multi_line com.kabberry.wallet.coin:multi_line}</code></td><td></td></tr>
+           <tr><td><code>{@link #Address_show_coin_icon com.kabberry.wallet.coin:show_coin_icon}</code></td><td></td></tr>
            </table>
            @see #Address_multi_line
            @see #Address_show_coin_icon
@@ -5855,7 +5855,7 @@ containing a value of this type.
             0x7f010021, 0x7f010022
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#multi_line}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#multi_line}
           attribute's value can be found in the {@link #Address} array.
 
 
@@ -5865,11 +5865,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:multi_line
+          @attr name com.kabberry.wallet.coin:multi_line
         */
         public static final int Address_multi_line = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#show_coin_icon}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#show_coin_icon}
           attribute's value can be found in the {@link #Address} array.
 
 
@@ -5879,7 +5879,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:show_coin_icon
+          @attr name com.kabberry.wallet.coin:show_coin_icon
         */
         public static final int Address_show_coin_icon = 1;
         /** Attributes that can be used with a AlertDialog.
@@ -5889,12 +5889,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.primestone.wallet.coin:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.primestone.wallet.coin:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.primestone.wallet.coin:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.primestone.wallet.coin:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.primestone.wallet.coin:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.primestone.wallet.coin:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.kabberry.wallet.coin:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.kabberry.wallet.coin:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.kabberry.wallet.coin:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.kabberry.wallet.coin:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.kabberry.wallet.coin:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.kabberry.wallet.coin:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -5915,47 +5915,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:buttonPanelSideLayout
+          @attr name com.kabberry.wallet.coin:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:listItemLayout
+          @attr name com.kabberry.wallet.coin:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:listLayout
+          @attr name com.kabberry.wallet.coin:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:multiChoiceItemLayout
+          @attr name com.kabberry.wallet.coin:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -5965,17 +5965,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:showTitle
+          @attr name com.kabberry.wallet.coin:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:singleChoiceItemLayout
+          @attr name com.kabberry.wallet.coin:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a Amount.
@@ -5984,9 +5984,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Amount_show_big com.primestone.wallet.coin:show_big}</code></td><td></td></tr>
-           <tr><td><code>{@link #Amount_show_small com.primestone.wallet.coin:show_small}</code></td><td></td></tr>
-           <tr><td><code>{@link #Amount_single_line com.primestone.wallet.coin:single_line}</code></td><td></td></tr>
+           <tr><td><code>{@link #Amount_show_big com.kabberry.wallet.coin:show_big}</code></td><td></td></tr>
+           <tr><td><code>{@link #Amount_show_small com.kabberry.wallet.coin:show_small}</code></td><td></td></tr>
+           <tr><td><code>{@link #Amount_single_line com.kabberry.wallet.coin:single_line}</code></td><td></td></tr>
            </table>
            @see #Amount_show_big
            @see #Amount_show_small
@@ -5996,7 +5996,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010029, 0x7f01002a, 0x7f01002b
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#show_big}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#show_big}
           attribute's value can be found in the {@link #Amount} array.
 
 
@@ -6006,11 +6006,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:show_big
+          @attr name com.kabberry.wallet.coin:show_big
         */
         public static final int Amount_show_big = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#show_small}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#show_small}
           attribute's value can be found in the {@link #Amount} array.
 
 
@@ -6020,11 +6020,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:show_small
+          @attr name com.kabberry.wallet.coin:show_small
         */
         public static final int Amount_show_small = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#single_line}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#single_line}
           attribute's value can be found in the {@link #Amount} array.
 
 
@@ -6034,7 +6034,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:single_line
+          @attr name com.kabberry.wallet.coin:single_line
         */
         public static final int Amount_single_line = 1;
         /** Attributes that can be used with a AppBarLayout.
@@ -6044,8 +6044,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.primestone.wallet.coin:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.primestone.wallet.coin:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.kabberry.wallet.coin:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.kabberry.wallet.coin:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -6061,7 +6061,7 @@ containing a value of this type.
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -6073,11 +6073,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:elevation
+          @attr name com.kabberry.wallet.coin:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -6087,7 +6087,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:expanded
+          @attr name com.kabberry.wallet.coin:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -6096,8 +6096,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.primestone.wallet.coin:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.primestone.wallet.coin:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.kabberry.wallet.coin:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.kabberry.wallet.coin:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -6106,7 +6106,7 @@ containing a value of this type.
             0x7f01002d, 0x7f01002e
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -6116,11 +6116,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:state_collapsed
+          @attr name com.kabberry.wallet.coin:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -6130,7 +6130,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:state_collapsible
+          @attr name com.kabberry.wallet.coin:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -6139,8 +6139,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.primestone.wallet.coin:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.primestone.wallet.coin:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.kabberry.wallet.coin:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.kabberry.wallet.coin:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -6149,7 +6149,7 @@ containing a value of this type.
             0x7f01002f, 0x7f010030
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -6165,17 +6165,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:layout_scrollFlags
+          @attr name com.kabberry.wallet.coin:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:layout_scrollInterpolator
+          @attr name com.kabberry.wallet.coin:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -6185,7 +6185,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.primestone.wallet.coin:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.kabberry.wallet.coin:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -6200,13 +6200,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:srcCompat
+          @attr name com.kabberry.wallet.coin:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -6216,9 +6216,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.primestone.wallet.coin:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.primestone.wallet.coin:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.primestone.wallet.coin:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.kabberry.wallet.coin:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.kabberry.wallet.coin:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.kabberry.wallet.coin:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -6235,17 +6235,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:tickMark
+          @attr name com.kabberry.wallet.coin:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -6256,11 +6256,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tickMarkTint
+          @attr name com.kabberry.wallet.coin:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -6277,7 +6277,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:tickMarkTintMode
+          @attr name com.kabberry.wallet.coin:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -6355,7 +6355,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.primestone.wallet.coin:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.kabberry.wallet.coin:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -6370,14 +6370,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.primestone.wallet.coin:textAllCaps
+          @attr name com.kabberry.wallet.coin:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -6386,121 +6386,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.primestone.wallet.coin:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.primestone.wallet.coin:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.primestone.wallet.coin:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.primestone.wallet.coin:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.primestone.wallet.coin:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.primestone.wallet.coin:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.primestone.wallet.coin:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.primestone.wallet.coin:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.primestone.wallet.coin:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.primestone.wallet.coin:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.primestone.wallet.coin:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.primestone.wallet.coin:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.primestone.wallet.coin:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.primestone.wallet.coin:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.primestone.wallet.coin:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.primestone.wallet.coin:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.primestone.wallet.coin:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.primestone.wallet.coin:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.primestone.wallet.coin:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.primestone.wallet.coin:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.primestone.wallet.coin:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.primestone.wallet.coin:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.primestone.wallet.coin:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.primestone.wallet.coin:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.primestone.wallet.coin:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.primestone.wallet.coin:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.primestone.wallet.coin:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.primestone.wallet.coin:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.primestone.wallet.coin:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.primestone.wallet.coin:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.primestone.wallet.coin:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.primestone.wallet.coin:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.primestone.wallet.coin:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.primestone.wallet.coin:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.primestone.wallet.coin:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.kabberry.wallet.coin:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.kabberry.wallet.coin:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.kabberry.wallet.coin:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.kabberry.wallet.coin:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.kabberry.wallet.coin:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.kabberry.wallet.coin:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.kabberry.wallet.coin:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.kabberry.wallet.coin:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.kabberry.wallet.coin:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.kabberry.wallet.coin:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.kabberry.wallet.coin:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.kabberry.wallet.coin:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.kabberry.wallet.coin:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.kabberry.wallet.coin:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.kabberry.wallet.coin:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.kabberry.wallet.coin:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.kabberry.wallet.coin:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.kabberry.wallet.coin:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.kabberry.wallet.coin:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.kabberry.wallet.coin:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.kabberry.wallet.coin:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.kabberry.wallet.coin:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.kabberry.wallet.coin:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.kabberry.wallet.coin:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.kabberry.wallet.coin:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.kabberry.wallet.coin:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.kabberry.wallet.coin:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.kabberry.wallet.coin:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.kabberry.wallet.coin:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.kabberry.wallet.coin:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.kabberry.wallet.coin:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.kabberry.wallet.coin:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.kabberry.wallet.coin:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.kabberry.wallet.coin:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.kabberry.wallet.coin:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.primestone.wallet.coin:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.primestone.wallet.coin:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.primestone.wallet.coin:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.primestone.wallet.coin:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.primestone.wallet.coin:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.primestone.wallet.coin:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.primestone.wallet.coin:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.primestone.wallet.coin:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.primestone.wallet.coin:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.primestone.wallet.coin:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.primestone.wallet.coin:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.primestone.wallet.coin:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.primestone.wallet.coin:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.primestone.wallet.coin:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.primestone.wallet.coin:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.primestone.wallet.coin:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.primestone.wallet.coin:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.primestone.wallet.coin:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.primestone.wallet.coin:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.primestone.wallet.coin:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.primestone.wallet.coin:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.primestone.wallet.coin:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.primestone.wallet.coin:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.primestone.wallet.coin:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.primestone.wallet.coin:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.primestone.wallet.coin:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.primestone.wallet.coin:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.primestone.wallet.coin:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.primestone.wallet.coin:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.primestone.wallet.coin:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.primestone.wallet.coin:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.primestone.wallet.coin:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.primestone.wallet.coin:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.primestone.wallet.coin:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.primestone.wallet.coin:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.primestone.wallet.coin:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.primestone.wallet.coin:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.primestone.wallet.coin:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.primestone.wallet.coin:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.primestone.wallet.coin:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.primestone.wallet.coin:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.primestone.wallet.coin:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.primestone.wallet.coin:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.primestone.wallet.coin:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.primestone.wallet.coin:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.primestone.wallet.coin:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.primestone.wallet.coin:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.primestone.wallet.coin:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.primestone.wallet.coin:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.primestone.wallet.coin:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.primestone.wallet.coin:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.primestone.wallet.coin:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.primestone.wallet.coin:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.primestone.wallet.coin:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.primestone.wallet.coin:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.primestone.wallet.coin:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.primestone.wallet.coin:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.primestone.wallet.coin:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.primestone.wallet.coin:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.primestone.wallet.coin:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.primestone.wallet.coin:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.primestone.wallet.coin:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.primestone.wallet.coin:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.primestone.wallet.coin:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.primestone.wallet.coin:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.primestone.wallet.coin:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.primestone.wallet.coin:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.primestone.wallet.coin:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.primestone.wallet.coin:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.primestone.wallet.coin:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.primestone.wallet.coin:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.primestone.wallet.coin:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.primestone.wallet.coin:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.primestone.wallet.coin:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.primestone.wallet.coin:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.primestone.wallet.coin:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.primestone.wallet.coin:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.primestone.wallet.coin:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.kabberry.wallet.coin:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.kabberry.wallet.coin:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.kabberry.wallet.coin:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.kabberry.wallet.coin:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.kabberry.wallet.coin:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.kabberry.wallet.coin:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.kabberry.wallet.coin:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.kabberry.wallet.coin:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.kabberry.wallet.coin:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.kabberry.wallet.coin:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.kabberry.wallet.coin:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.kabberry.wallet.coin:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.kabberry.wallet.coin:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.kabberry.wallet.coin:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.kabberry.wallet.coin:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.kabberry.wallet.coin:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.kabberry.wallet.coin:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.kabberry.wallet.coin:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.kabberry.wallet.coin:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.kabberry.wallet.coin:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.kabberry.wallet.coin:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.kabberry.wallet.coin:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.kabberry.wallet.coin:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.kabberry.wallet.coin:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.kabberry.wallet.coin:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.kabberry.wallet.coin:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.kabberry.wallet.coin:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.kabberry.wallet.coin:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.kabberry.wallet.coin:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.kabberry.wallet.coin:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.kabberry.wallet.coin:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.kabberry.wallet.coin:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.kabberry.wallet.coin:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.kabberry.wallet.coin:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.kabberry.wallet.coin:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.kabberry.wallet.coin:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.kabberry.wallet.coin:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.kabberry.wallet.coin:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.kabberry.wallet.coin:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.kabberry.wallet.coin:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.kabberry.wallet.coin:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.kabberry.wallet.coin:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.kabberry.wallet.coin:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.kabberry.wallet.coin:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.kabberry.wallet.coin:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.kabberry.wallet.coin:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.kabberry.wallet.coin:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.kabberry.wallet.coin:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.kabberry.wallet.coin:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.kabberry.wallet.coin:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.kabberry.wallet.coin:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.kabberry.wallet.coin:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.kabberry.wallet.coin:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.kabberry.wallet.coin:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.kabberry.wallet.coin:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.kabberry.wallet.coin:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.kabberry.wallet.coin:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.kabberry.wallet.coin:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.kabberry.wallet.coin:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.kabberry.wallet.coin:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.kabberry.wallet.coin:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.kabberry.wallet.coin:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.kabberry.wallet.coin:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.kabberry.wallet.coin:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.kabberry.wallet.coin:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.kabberry.wallet.coin:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.kabberry.wallet.coin:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.kabberry.wallet.coin:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.kabberry.wallet.coin:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.kabberry.wallet.coin:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.kabberry.wallet.coin:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.kabberry.wallet.coin:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.kabberry.wallet.coin:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.kabberry.wallet.coin:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.kabberry.wallet.coin:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.kabberry.wallet.coin:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.kabberry.wallet.coin:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.kabberry.wallet.coin:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -6650,37 +6650,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100a4, 0x7f0100a5, 0x7f0100a6
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionBarDivider
+          @attr name com.kabberry.wallet.coin:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionBarItemBackground
+          @attr name com.kabberry.wallet.coin:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionBarPopupTheme
+          @attr name com.kabberry.wallet.coin:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6700,111 +6700,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:actionBarSize
+          @attr name com.kabberry.wallet.coin:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionBarSplitStyle
+          @attr name com.kabberry.wallet.coin:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionBarStyle
+          @attr name com.kabberry.wallet.coin:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionBarTabBarStyle
+          @attr name com.kabberry.wallet.coin:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionBarTabStyle
+          @attr name com.kabberry.wallet.coin:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionBarTabTextStyle
+          @attr name com.kabberry.wallet.coin:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionBarTheme
+          @attr name com.kabberry.wallet.coin:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionBarWidgetTheme
+          @attr name com.kabberry.wallet.coin:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionButtonStyle
+          @attr name com.kabberry.wallet.coin:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionDropDownStyle
+          @attr name com.kabberry.wallet.coin:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionMenuTextAppearance
+          @attr name com.kabberry.wallet.coin:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6812,181 +6812,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.primestone.wallet.coin:actionMenuTextColor
+          @attr name com.kabberry.wallet.coin:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModeBackground
+          @attr name com.kabberry.wallet.coin:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModeCloseButtonStyle
+          @attr name com.kabberry.wallet.coin:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModeCloseDrawable
+          @attr name com.kabberry.wallet.coin:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModeCopyDrawable
+          @attr name com.kabberry.wallet.coin:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModeCutDrawable
+          @attr name com.kabberry.wallet.coin:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModeFindDrawable
+          @attr name com.kabberry.wallet.coin:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModePasteDrawable
+          @attr name com.kabberry.wallet.coin:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModePopupWindowStyle
+          @attr name com.kabberry.wallet.coin:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModeSelectAllDrawable
+          @attr name com.kabberry.wallet.coin:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModeShareDrawable
+          @attr name com.kabberry.wallet.coin:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModeSplitBackground
+          @attr name com.kabberry.wallet.coin:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModeStyle
+          @attr name com.kabberry.wallet.coin:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionModeWebSearchDrawable
+          @attr name com.kabberry.wallet.coin:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionOverflowButtonStyle
+          @attr name com.kabberry.wallet.coin:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionOverflowMenuStyle
+          @attr name com.kabberry.wallet.coin:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:activityChooserViewStyle
+          @attr name com.kabberry.wallet.coin:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:alertDialogButtonGroupStyle
+          @attr name com.kabberry.wallet.coin:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6996,27 +6996,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:alertDialogCenterButtons
+          @attr name com.kabberry.wallet.coin:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:alertDialogStyle
+          @attr name com.kabberry.wallet.coin:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:alertDialogTheme
+          @attr name com.kabberry.wallet.coin:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -7032,117 +7032,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:autoCompleteTextViewStyle
+          @attr name com.kabberry.wallet.coin:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:borderlessButtonStyle
+          @attr name com.kabberry.wallet.coin:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:buttonBarButtonStyle
+          @attr name com.kabberry.wallet.coin:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:buttonBarNegativeButtonStyle
+          @attr name com.kabberry.wallet.coin:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:buttonBarNeutralButtonStyle
+          @attr name com.kabberry.wallet.coin:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:buttonBarPositiveButtonStyle
+          @attr name com.kabberry.wallet.coin:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:buttonBarStyle
+          @attr name com.kabberry.wallet.coin:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:buttonStyle
+          @attr name com.kabberry.wallet.coin:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:buttonStyleSmall
+          @attr name com.kabberry.wallet.coin:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:checkboxStyle
+          @attr name com.kabberry.wallet.coin:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:checkedTextViewStyle
+          @attr name com.kabberry.wallet.coin:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7153,11 +7153,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:colorAccent
+          @attr name com.kabberry.wallet.coin:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7168,11 +7168,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:colorBackgroundFloating
+          @attr name com.kabberry.wallet.coin:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7183,11 +7183,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:colorButtonNormal
+          @attr name com.kabberry.wallet.coin:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7198,11 +7198,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:colorControlActivated
+          @attr name com.kabberry.wallet.coin:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7213,11 +7213,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:colorControlHighlight
+          @attr name com.kabberry.wallet.coin:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7228,11 +7228,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:colorControlNormal
+          @attr name com.kabberry.wallet.coin:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7243,11 +7243,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:colorPrimary
+          @attr name com.kabberry.wallet.coin:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7258,11 +7258,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:colorPrimaryDark
+          @attr name com.kabberry.wallet.coin:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7273,21 +7273,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:colorSwitchThumbNormal
+          @attr name com.kabberry.wallet.coin:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:controlBackground
+          @attr name com.kabberry.wallet.coin:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7299,51 +7299,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:dialogPreferredPadding
+          @attr name com.kabberry.wallet.coin:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:dialogTheme
+          @attr name com.kabberry.wallet.coin:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:dividerHorizontal
+          @attr name com.kabberry.wallet.coin:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:dividerVertical
+          @attr name com.kabberry.wallet.coin:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:dropDownListViewStyle
+          @attr name com.kabberry.wallet.coin:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7355,21 +7355,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:dropdownListPreferredItemHeight
+          @attr name com.kabberry.wallet.coin:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:editTextBackground
+          @attr name com.kabberry.wallet.coin:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7377,81 +7377,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.primestone.wallet.coin:editTextColor
+          @attr name com.kabberry.wallet.coin:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:editTextStyle
+          @attr name com.kabberry.wallet.coin:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:homeAsUpIndicator
+          @attr name com.kabberry.wallet.coin:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:imageButtonStyle
+          @attr name com.kabberry.wallet.coin:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:listChoiceBackgroundIndicator
+          @attr name com.kabberry.wallet.coin:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:listDividerAlertDialog
+          @attr name com.kabberry.wallet.coin:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:listMenuViewStyle
+          @attr name com.kabberry.wallet.coin:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:listPopupWindowStyle
+          @attr name com.kabberry.wallet.coin:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7463,11 +7463,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:listPreferredItemHeight
+          @attr name com.kabberry.wallet.coin:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7479,11 +7479,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:listPreferredItemHeightLarge
+          @attr name com.kabberry.wallet.coin:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7495,11 +7495,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:listPreferredItemHeightSmall
+          @attr name com.kabberry.wallet.coin:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7511,11 +7511,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:listPreferredItemPaddingLeft
+          @attr name com.kabberry.wallet.coin:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7527,31 +7527,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:listPreferredItemPaddingRight
+          @attr name com.kabberry.wallet.coin:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:panelBackground
+          @attr name com.kabberry.wallet.coin:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:panelMenuListTheme
+          @attr name com.kabberry.wallet.coin:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7563,211 +7563,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:panelMenuListWidth
+          @attr name com.kabberry.wallet.coin:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:popupMenuStyle
+          @attr name com.kabberry.wallet.coin:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:popupWindowStyle
+          @attr name com.kabberry.wallet.coin:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:radioButtonStyle
+          @attr name com.kabberry.wallet.coin:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:ratingBarStyle
+          @attr name com.kabberry.wallet.coin:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:ratingBarStyleIndicator
+          @attr name com.kabberry.wallet.coin:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:ratingBarStyleSmall
+          @attr name com.kabberry.wallet.coin:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:searchViewStyle
+          @attr name com.kabberry.wallet.coin:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:seekBarStyle
+          @attr name com.kabberry.wallet.coin:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:selectableItemBackground
+          @attr name com.kabberry.wallet.coin:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:selectableItemBackgroundBorderless
+          @attr name com.kabberry.wallet.coin:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:spinnerDropDownItemStyle
+          @attr name com.kabberry.wallet.coin:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:spinnerStyle
+          @attr name com.kabberry.wallet.coin:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:switchStyle
+          @attr name com.kabberry.wallet.coin:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:textAppearanceLargePopupMenu
+          @attr name com.kabberry.wallet.coin:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:textAppearanceListItem
+          @attr name com.kabberry.wallet.coin:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:textAppearanceListItemSmall
+          @attr name com.kabberry.wallet.coin:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:textAppearancePopupMenuHeader
+          @attr name com.kabberry.wallet.coin:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:textAppearanceSearchResultSubtitle
+          @attr name com.kabberry.wallet.coin:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:textAppearanceSearchResultTitle
+          @attr name com.kabberry.wallet.coin:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:textAppearanceSmallPopupMenu
+          @attr name com.kabberry.wallet.coin:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7775,11 +7775,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.primestone.wallet.coin:textColorAlertDialogListItem
+          @attr name com.kabberry.wallet.coin:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7787,31 +7787,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.primestone.wallet.coin:textColorSearchUrl
+          @attr name com.kabberry.wallet.coin:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:toolbarNavigationButtonStyle
+          @attr name com.kabberry.wallet.coin:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:toolbarStyle
+          @attr name com.kabberry.wallet.coin:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7821,11 +7821,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:windowActionBar
+          @attr name com.kabberry.wallet.coin:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7835,11 +7835,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:windowActionBarOverlay
+          @attr name com.kabberry.wallet.coin:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7849,11 +7849,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:windowActionModeOverlay
+          @attr name com.kabberry.wallet.coin:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7868,11 +7868,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:windowFixedHeightMajor
+          @attr name com.kabberry.wallet.coin:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7887,11 +7887,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:windowFixedHeightMinor
+          @attr name com.kabberry.wallet.coin:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7906,11 +7906,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:windowFixedWidthMajor
+          @attr name com.kabberry.wallet.coin:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7925,11 +7925,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:windowFixedWidthMinor
+          @attr name com.kabberry.wallet.coin:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7944,11 +7944,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:windowMinWidthMajor
+          @attr name com.kabberry.wallet.coin:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7963,11 +7963,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:windowMinWidthMinor
+          @attr name com.kabberry.wallet.coin:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7977,7 +7977,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:windowNoTitle
+          @attr name com.kabberry.wallet.coin:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -7986,11 +7986,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation com.primestone.wallet.coin:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground com.primestone.wallet.coin:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.primestone.wallet.coin:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.primestone.wallet.coin:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu com.primestone.wallet.coin:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation com.kabberry.wallet.coin:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.kabberry.wallet.coin:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.kabberry.wallet.coin:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.kabberry.wallet.coin:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.kabberry.wallet.coin:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -8003,7 +8003,7 @@ containing a value of this type.
             0x7f01011d
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -8015,21 +8015,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:elevation
+          @attr name com.kabberry.wallet.coin:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:itemBackground
+          @attr name com.kabberry.wallet.coin:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -8040,11 +8040,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:itemIconTint
+          @attr name com.kabberry.wallet.coin:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -8055,17 +8055,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:itemTextColor
+          @attr name com.kabberry.wallet.coin:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:menu
+          @attr name com.kabberry.wallet.coin:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -8074,9 +8074,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.primestone.wallet.coin:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.primestone.wallet.coin:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.primestone.wallet.coin:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.kabberry.wallet.coin:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.kabberry.wallet.coin:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.kabberry.wallet.coin:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -8086,7 +8086,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100a7, 0x7f0100a8, 0x7f0100a9
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -8096,11 +8096,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:behavior_hideable
+          @attr name com.kabberry.wallet.coin:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -8120,11 +8120,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:behavior_peekHeight
+          @attr name com.kabberry.wallet.coin:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -8134,7 +8134,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:behavior_skipCollapsed
+          @attr name com.kabberry.wallet.coin:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -8143,7 +8143,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.primestone.wallet.coin:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.kabberry.wallet.coin:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -8151,7 +8151,7 @@ containing a value of this type.
             0x7f0100aa
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -8161,7 +8161,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:allowStacking
+          @attr name com.kabberry.wallet.coin:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CircleIndicator.
@@ -8170,15 +8170,15 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CircleIndicator_ci_animator com.primestone.wallet.coin:ci_animator}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleIndicator_ci_animator_reverse com.primestone.wallet.coin:ci_animator_reverse}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleIndicator_ci_drawable com.primestone.wallet.coin:ci_drawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleIndicator_ci_drawable_unselected com.primestone.wallet.coin:ci_drawable_unselected}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleIndicator_ci_gravity com.primestone.wallet.coin:ci_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleIndicator_ci_height com.primestone.wallet.coin:ci_height}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleIndicator_ci_margin com.primestone.wallet.coin:ci_margin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleIndicator_ci_orientation com.primestone.wallet.coin:ci_orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleIndicator_ci_width com.primestone.wallet.coin:ci_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleIndicator_ci_animator com.kabberry.wallet.coin:ci_animator}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleIndicator_ci_animator_reverse com.kabberry.wallet.coin:ci_animator_reverse}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleIndicator_ci_drawable com.kabberry.wallet.coin:ci_drawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleIndicator_ci_drawable_unselected com.kabberry.wallet.coin:ci_drawable_unselected}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleIndicator_ci_gravity com.kabberry.wallet.coin:ci_gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleIndicator_ci_height com.kabberry.wallet.coin:ci_height}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleIndicator_ci_margin com.kabberry.wallet.coin:ci_margin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleIndicator_ci_orientation com.kabberry.wallet.coin:ci_orientation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleIndicator_ci_width com.kabberry.wallet.coin:ci_width}</code></td><td></td></tr>
            </table>
            @see #CircleIndicator_ci_animator
            @see #CircleIndicator_ci_animator_reverse
@@ -8196,47 +8196,47 @@ containing a value of this type.
             0x7f0100b3
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#ci_animator}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#ci_animator}
           attribute's value can be found in the {@link #CircleIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:ci_animator
+          @attr name com.kabberry.wallet.coin:ci_animator
         */
         public static final int CircleIndicator_ci_animator = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#ci_animator_reverse}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#ci_animator_reverse}
           attribute's value can be found in the {@link #CircleIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:ci_animator_reverse
+          @attr name com.kabberry.wallet.coin:ci_animator_reverse
         */
         public static final int CircleIndicator_ci_animator_reverse = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#ci_drawable}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#ci_drawable}
           attribute's value can be found in the {@link #CircleIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:ci_drawable
+          @attr name com.kabberry.wallet.coin:ci_drawable
         */
         public static final int CircleIndicator_ci_drawable = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#ci_drawable_unselected}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#ci_drawable_unselected}
           attribute's value can be found in the {@link #CircleIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:ci_drawable_unselected
+          @attr name com.kabberry.wallet.coin:ci_drawable_unselected
         */
         public static final int CircleIndicator_ci_drawable_unselected = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#ci_gravity}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#ci_gravity}
           attribute's value can be found in the {@link #CircleIndicator} array.
 
 
@@ -8261,11 +8261,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:ci_gravity
+          @attr name com.kabberry.wallet.coin:ci_gravity
         */
         public static final int CircleIndicator_ci_gravity = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#ci_height}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#ci_height}
           attribute's value can be found in the {@link #CircleIndicator} array.
 
 
@@ -8277,11 +8277,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:ci_height
+          @attr name com.kabberry.wallet.coin:ci_height
         */
         public static final int CircleIndicator_ci_height = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#ci_margin}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#ci_margin}
           attribute's value can be found in the {@link #CircleIndicator} array.
 
 
@@ -8293,11 +8293,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:ci_margin
+          @attr name com.kabberry.wallet.coin:ci_margin
         */
         public static final int CircleIndicator_ci_margin = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#ci_orientation}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#ci_orientation}
           attribute's value can be found in the {@link #CircleIndicator} array.
 
 
@@ -8310,11 +8310,11 @@ containing a value of this type.
 <tr><td><code>horizontal</code></td><td>0</td><td></td></tr>
 <tr><td><code>vertical</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:ci_orientation
+          @attr name com.kabberry.wallet.coin:ci_orientation
         */
         public static final int CircleIndicator_ci_orientation = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#ci_width}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#ci_width}
           attribute's value can be found in the {@link #CircleIndicator} array.
 
 
@@ -8326,7 +8326,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:ci_width
+          @attr name com.kabberry.wallet.coin:ci_width
         */
         public static final int CircleIndicator_ci_width = 0;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -8335,22 +8335,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.primestone.wallet.coin:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.primestone.wallet.coin:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.primestone.wallet.coin:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.primestone.wallet.coin:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.primestone.wallet.coin:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.primestone.wallet.coin:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.primestone.wallet.coin:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.primestone.wallet.coin:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.primestone.wallet.coin:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.primestone.wallet.coin:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.primestone.wallet.coin:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.primestone.wallet.coin:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.primestone.wallet.coin:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.primestone.wallet.coin:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.primestone.wallet.coin:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.primestone.wallet.coin:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.kabberry.wallet.coin:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.kabberry.wallet.coin:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.kabberry.wallet.coin:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.kabberry.wallet.coin:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.kabberry.wallet.coin:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.kabberry.wallet.coin:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.kabberry.wallet.coin:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.kabberry.wallet.coin:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.kabberry.wallet.coin:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.kabberry.wallet.coin:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.kabberry.wallet.coin:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.kabberry.wallet.coin:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.kabberry.wallet.coin:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.kabberry.wallet.coin:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.kabberry.wallet.coin:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.kabberry.wallet.coin:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -8376,7 +8376,7 @@ containing a value of this type.
             0x7f0100bf, 0x7f0100c0, 0x7f0100c1, 0x7f0100c2
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8397,21 +8397,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:collapsedTitleGravity
+          @attr name com.kabberry.wallet.coin:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:collapsedTitleTextAppearance
+          @attr name com.kabberry.wallet.coin:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8422,11 +8422,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentScrim
+          @attr name com.kabberry.wallet.coin:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8447,11 +8447,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:expandedTitleGravity
+          @attr name com.kabberry.wallet.coin:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8463,11 +8463,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:expandedTitleMargin
+          @attr name com.kabberry.wallet.coin:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8479,11 +8479,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:expandedTitleMarginBottom
+          @attr name com.kabberry.wallet.coin:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8495,11 +8495,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:expandedTitleMarginEnd
+          @attr name com.kabberry.wallet.coin:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8511,11 +8511,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:expandedTitleMarginStart
+          @attr name com.kabberry.wallet.coin:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8527,21 +8527,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:expandedTitleMarginTop
+          @attr name com.kabberry.wallet.coin:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:expandedTitleTextAppearance
+          @attr name com.kabberry.wallet.coin:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8551,11 +8551,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:scrimAnimationDuration
+          @attr name com.kabberry.wallet.coin:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8567,11 +8567,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:scrimVisibleHeightTrigger
+          @attr name com.kabberry.wallet.coin:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8582,11 +8582,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:statusBarScrim
+          @attr name com.kabberry.wallet.coin:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#title}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8596,11 +8596,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:title
+          @attr name com.kabberry.wallet.coin:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8610,17 +8610,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:titleEnabled
+          @attr name com.kabberry.wallet.coin:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:toolbarId
+          @attr name com.kabberry.wallet.coin:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -8629,8 +8629,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.primestone.wallet.coin:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.primestone.wallet.coin:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.kabberry.wallet.coin:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.kabberry.wallet.coin:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -8639,7 +8639,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100c3, 0x7f0100c4
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -8653,11 +8653,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:layout_collapseMode
+          @attr name com.kabberry.wallet.coin:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -8667,7 +8667,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:layout_collapseParallaxMultiplier
+          @attr name com.kabberry.wallet.coin:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -8676,7 +8676,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.primestone.wallet.coin:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.kabberry.wallet.coin:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -8688,7 +8688,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100c5
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -8698,7 +8698,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:alpha
+          @attr name com.kabberry.wallet.coin:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -8720,8 +8720,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.primestone.wallet.coin:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.primestone.wallet.coin:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.kabberry.wallet.coin:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.kabberry.wallet.coin:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -8737,7 +8737,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -8748,11 +8748,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:buttonTint
+          @attr name com.kabberry.wallet.coin:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -8768,7 +8768,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:buttonTintMode
+          @attr name com.kabberry.wallet.coin:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -8777,8 +8777,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.primestone.wallet.coin:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.primestone.wallet.coin:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.kabberry.wallet.coin:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.kabberry.wallet.coin:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -8787,23 +8787,23 @@ containing a value of this type.
             0x7f0100c8, 0x7f0100c9
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:keylines
+          @attr name com.kabberry.wallet.coin:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:statusBarBackground
+          @attr name com.kabberry.wallet.coin:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -8813,12 +8813,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.primestone.wallet.coin:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.primestone.wallet.coin:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.primestone.wallet.coin:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.primestone.wallet.coin:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.primestone.wallet.coin:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.primestone.wallet.coin:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.kabberry.wallet.coin:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.kabberry.wallet.coin:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.kabberry.wallet.coin:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.kabberry.wallet.coin:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.kabberry.wallet.coin:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.kabberry.wallet.coin:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -8839,17 +8839,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:layout_anchor
+          @attr name com.kabberry.wallet.coin:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -8874,11 +8874,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:layout_anchorGravity
+          @attr name com.kabberry.wallet.coin:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -8888,11 +8888,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:layout_behavior
+          @attr name com.kabberry.wallet.coin:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -8911,11 +8911,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:layout_dodgeInsetEdges
+          @attr name com.kabberry.wallet.coin:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -8933,11 +8933,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:layout_insetEdge
+          @attr name com.kabberry.wallet.coin:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -8947,7 +8947,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:layout_keyline
+          @attr name com.kabberry.wallet.coin:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -8956,9 +8956,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.primestone.wallet.coin:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.primestone.wallet.coin:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError com.primestone.wallet.coin:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.kabberry.wallet.coin:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.kabberry.wallet.coin:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.kabberry.wallet.coin:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -8968,27 +8968,27 @@ containing a value of this type.
             0x7f0100d0, 0x7f0100d1, 0x7f0100d2
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:bottomSheetDialogTheme
+          @attr name com.kabberry.wallet.coin:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:bottomSheetStyle
+          @attr name com.kabberry.wallet.coin:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -8999,7 +8999,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:textColorError
+          @attr name com.kabberry.wallet.coin:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -9008,14 +9008,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.primestone.wallet.coin:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.primestone.wallet.coin:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.primestone.wallet.coin:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.primestone.wallet.coin:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.primestone.wallet.coin:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.primestone.wallet.coin:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.primestone.wallet.coin:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.primestone.wallet.coin:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.kabberry.wallet.coin:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.kabberry.wallet.coin:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.kabberry.wallet.coin:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.kabberry.wallet.coin:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.kabberry.wallet.coin:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.kabberry.wallet.coin:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.kabberry.wallet.coin:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.kabberry.wallet.coin:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -9031,7 +9031,7 @@ containing a value of this type.
             0x7f0100d7, 0x7f0100d8, 0x7f0100d9, 0x7f0100da
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9043,11 +9043,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:arrowHeadLength
+          @attr name com.kabberry.wallet.coin:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9059,11 +9059,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:arrowShaftLength
+          @attr name com.kabberry.wallet.coin:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9075,11 +9075,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:barLength
+          @attr name com.kabberry.wallet.coin:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#color}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9090,11 +9090,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:color
+          @attr name com.kabberry.wallet.coin:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9106,11 +9106,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:drawableSize
+          @attr name com.kabberry.wallet.coin:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9122,11 +9122,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:gapBetweenBars
+          @attr name com.kabberry.wallet.coin:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9136,11 +9136,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:spinBars
+          @attr name com.kabberry.wallet.coin:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -9152,7 +9152,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:thickness
+          @attr name com.kabberry.wallet.coin:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FancyButtonsAttrs.
@@ -9165,37 +9165,37 @@ containing a value of this type.
            <tr><td><code>{@link #FancyButtonsAttrs_android_text android:text}</code></td><td></td></tr>
            <tr><td><code>{@link #FancyButtonsAttrs_android_textAllCaps android:textAllCaps}</code></td><td></td></tr>
            <tr><td><code>{@link #FancyButtonsAttrs_android_textSize android:textSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_borderColor com.primestone.wallet.coin:fb_borderColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_borderWidth com.primestone.wallet.coin:fb_borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_defaultColor com.primestone.wallet.coin:fb_defaultColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_disabledBorderColor com.primestone.wallet.coin:fb_disabledBorderColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_disabledColor com.primestone.wallet.coin:fb_disabledColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_disabledTextColor com.primestone.wallet.coin:fb_disabledTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_focusColor com.primestone.wallet.coin:fb_focusColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_fontIconResource com.primestone.wallet.coin:fb_fontIconResource}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_fontIconSize com.primestone.wallet.coin:fb_fontIconSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_ghost com.primestone.wallet.coin:fb_ghost}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconColor com.primestone.wallet.coin:fb_iconColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconFont com.primestone.wallet.coin:fb_iconFont}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconPaddingBottom com.primestone.wallet.coin:fb_iconPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconPaddingLeft com.primestone.wallet.coin:fb_iconPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconPaddingRight com.primestone.wallet.coin:fb_iconPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconPaddingTop com.primestone.wallet.coin:fb_iconPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconPosition com.primestone.wallet.coin:fb_iconPosition}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconResource com.primestone.wallet.coin:fb_iconResource}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_radius com.primestone.wallet.coin:fb_radius}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_radiusBottomLeft com.primestone.wallet.coin:fb_radiusBottomLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_radiusBottomRight com.primestone.wallet.coin:fb_radiusBottomRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_radiusTopLeft com.primestone.wallet.coin:fb_radiusTopLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_radiusTopRight com.primestone.wallet.coin:fb_radiusTopRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_text com.primestone.wallet.coin:fb_text}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_textAllCaps com.primestone.wallet.coin:fb_textAllCaps}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_textColor com.primestone.wallet.coin:fb_textColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_textFont com.primestone.wallet.coin:fb_textFont}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_textGravity com.primestone.wallet.coin:fb_textGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_textPosition com.primestone.wallet.coin:fb_textPosition}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_textSize com.primestone.wallet.coin:fb_textSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FancyButtonsAttrs_fb_useSystemFont com.primestone.wallet.coin:fb_useSystemFont}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_borderColor com.kabberry.wallet.coin:fb_borderColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_borderWidth com.kabberry.wallet.coin:fb_borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_defaultColor com.kabberry.wallet.coin:fb_defaultColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_disabledBorderColor com.kabberry.wallet.coin:fb_disabledBorderColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_disabledColor com.kabberry.wallet.coin:fb_disabledColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_disabledTextColor com.kabberry.wallet.coin:fb_disabledTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_focusColor com.kabberry.wallet.coin:fb_focusColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_fontIconResource com.kabberry.wallet.coin:fb_fontIconResource}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_fontIconSize com.kabberry.wallet.coin:fb_fontIconSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_ghost com.kabberry.wallet.coin:fb_ghost}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconColor com.kabberry.wallet.coin:fb_iconColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconFont com.kabberry.wallet.coin:fb_iconFont}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconPaddingBottom com.kabberry.wallet.coin:fb_iconPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconPaddingLeft com.kabberry.wallet.coin:fb_iconPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconPaddingRight com.kabberry.wallet.coin:fb_iconPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconPaddingTop com.kabberry.wallet.coin:fb_iconPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconPosition com.kabberry.wallet.coin:fb_iconPosition}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_iconResource com.kabberry.wallet.coin:fb_iconResource}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_radius com.kabberry.wallet.coin:fb_radius}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_radiusBottomLeft com.kabberry.wallet.coin:fb_radiusBottomLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_radiusBottomRight com.kabberry.wallet.coin:fb_radiusBottomRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_radiusTopLeft com.kabberry.wallet.coin:fb_radiusTopLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_radiusTopRight com.kabberry.wallet.coin:fb_radiusTopRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_text com.kabberry.wallet.coin:fb_text}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_textAllCaps com.kabberry.wallet.coin:fb_textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_textColor com.kabberry.wallet.coin:fb_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_textFont com.kabberry.wallet.coin:fb_textFont}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_textGravity com.kabberry.wallet.coin:fb_textGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_textPosition com.kabberry.wallet.coin:fb_textPosition}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_textSize com.kabberry.wallet.coin:fb_textSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FancyButtonsAttrs_fb_useSystemFont com.kabberry.wallet.coin:fb_useSystemFont}</code></td><td></td></tr>
            </table>
            @see #FancyButtonsAttrs_android_enabled
            @see #FancyButtonsAttrs_android_text
@@ -9269,7 +9269,7 @@ containing a value of this type.
         */
         public static final int FancyButtonsAttrs_android_textSize = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_borderColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_borderColor}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9280,11 +9280,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_borderColor
+          @attr name com.kabberry.wallet.coin:fb_borderColor
         */
         public static final int FancyButtonsAttrs_fb_borderColor = 25;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_borderWidth}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_borderWidth}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9296,11 +9296,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_borderWidth
+          @attr name com.kabberry.wallet.coin:fb_borderWidth
         */
         public static final int FancyButtonsAttrs_fb_borderWidth = 26;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_defaultColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_defaultColor}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9311,11 +9311,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_defaultColor
+          @attr name com.kabberry.wallet.coin:fb_defaultColor
         */
         public static final int FancyButtonsAttrs_fb_defaultColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_disabledBorderColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_disabledBorderColor}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9326,11 +9326,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_disabledBorderColor
+          @attr name com.kabberry.wallet.coin:fb_disabledBorderColor
         */
         public static final int FancyButtonsAttrs_fb_disabledBorderColor = 30;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_disabledColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_disabledColor}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9341,11 +9341,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_disabledColor
+          @attr name com.kabberry.wallet.coin:fb_disabledColor
         */
         public static final int FancyButtonsAttrs_fb_disabledColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_disabledTextColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_disabledTextColor}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9356,11 +9356,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_disabledTextColor
+          @attr name com.kabberry.wallet.coin:fb_disabledTextColor
         */
         public static final int FancyButtonsAttrs_fb_disabledTextColor = 29;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_focusColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_focusColor}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9371,11 +9371,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_focusColor
+          @attr name com.kabberry.wallet.coin:fb_focusColor
         */
         public static final int FancyButtonsAttrs_fb_focusColor = 27;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_fontIconResource}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_fontIconResource}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9385,11 +9385,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_fontIconResource
+          @attr name com.kabberry.wallet.coin:fb_fontIconResource
         */
         public static final int FancyButtonsAttrs_fb_fontIconResource = 12;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_fontIconSize}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_fontIconSize}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9401,11 +9401,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_fontIconSize
+          @attr name com.kabberry.wallet.coin:fb_fontIconSize
         */
         public static final int FancyButtonsAttrs_fb_fontIconSize = 13;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_ghost}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_ghost}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9415,11 +9415,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_ghost
+          @attr name com.kabberry.wallet.coin:fb_ghost
         */
         public static final int FancyButtonsAttrs_fb_ghost = 33;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_iconColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_iconColor}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9430,11 +9430,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_iconColor
+          @attr name com.kabberry.wallet.coin:fb_iconColor
         */
         public static final int FancyButtonsAttrs_fb_iconColor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_iconFont}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_iconFont}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9444,11 +9444,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_iconFont
+          @attr name com.kabberry.wallet.coin:fb_iconFont
         */
         public static final int FancyButtonsAttrs_fb_iconFont = 9;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_iconPaddingBottom}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_iconPaddingBottom}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9460,11 +9460,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_iconPaddingBottom
+          @attr name com.kabberry.wallet.coin:fb_iconPaddingBottom
         */
         public static final int FancyButtonsAttrs_fb_iconPaddingBottom = 20;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_iconPaddingLeft}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_iconPaddingLeft}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9476,11 +9476,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_iconPaddingLeft
+          @attr name com.kabberry.wallet.coin:fb_iconPaddingLeft
         */
         public static final int FancyButtonsAttrs_fb_iconPaddingLeft = 17;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_iconPaddingRight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_iconPaddingRight}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9492,11 +9492,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_iconPaddingRight
+          @attr name com.kabberry.wallet.coin:fb_iconPaddingRight
         */
         public static final int FancyButtonsAttrs_fb_iconPaddingRight = 18;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_iconPaddingTop}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_iconPaddingTop}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9508,11 +9508,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_iconPaddingTop
+          @attr name com.kabberry.wallet.coin:fb_iconPaddingTop
         */
         public static final int FancyButtonsAttrs_fb_iconPaddingTop = 19;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_iconPosition}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_iconPosition}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9527,11 +9527,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>3</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:fb_iconPosition
+          @attr name com.kabberry.wallet.coin:fb_iconPosition
         */
         public static final int FancyButtonsAttrs_fb_iconPosition = 14;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_iconResource}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_iconResource}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9541,11 +9541,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_iconResource
+          @attr name com.kabberry.wallet.coin:fb_iconResource
         */
         public static final int FancyButtonsAttrs_fb_iconResource = 11;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_radius}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_radius}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9557,11 +9557,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_radius
+          @attr name com.kabberry.wallet.coin:fb_radius
         */
         public static final int FancyButtonsAttrs_fb_radius = 31;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_radiusBottomLeft}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_radiusBottomLeft}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9573,11 +9573,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_radiusBottomLeft
+          @attr name com.kabberry.wallet.coin:fb_radiusBottomLeft
         */
         public static final int FancyButtonsAttrs_fb_radiusBottomLeft = 23;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_radiusBottomRight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_radiusBottomRight}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9589,11 +9589,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_radiusBottomRight
+          @attr name com.kabberry.wallet.coin:fb_radiusBottomRight
         */
         public static final int FancyButtonsAttrs_fb_radiusBottomRight = 24;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_radiusTopLeft}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_radiusTopLeft}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9605,11 +9605,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_radiusTopLeft
+          @attr name com.kabberry.wallet.coin:fb_radiusTopLeft
         */
         public static final int FancyButtonsAttrs_fb_radiusTopLeft = 21;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_radiusTopRight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_radiusTopRight}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9621,11 +9621,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_radiusTopRight
+          @attr name com.kabberry.wallet.coin:fb_radiusTopRight
         */
         public static final int FancyButtonsAttrs_fb_radiusTopRight = 22;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_text}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_text}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9635,11 +9635,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_text
+          @attr name com.kabberry.wallet.coin:fb_text
         */
         public static final int FancyButtonsAttrs_fb_text = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_textAllCaps}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_textAllCaps}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9649,11 +9649,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_textAllCaps
+          @attr name com.kabberry.wallet.coin:fb_textAllCaps
         */
         public static final int FancyButtonsAttrs_fb_textAllCaps = 32;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_textColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_textColor}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9664,11 +9664,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_textColor
+          @attr name com.kabberry.wallet.coin:fb_textColor
         */
         public static final int FancyButtonsAttrs_fb_textColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_textFont}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_textFont}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9678,11 +9678,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_textFont
+          @attr name com.kabberry.wallet.coin:fb_textFont
         */
         public static final int FancyButtonsAttrs_fb_textFont = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_textGravity}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_textGravity}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9707,11 +9707,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:fb_textGravity
+          @attr name com.kabberry.wallet.coin:fb_textGravity
         */
         public static final int FancyButtonsAttrs_fb_textGravity = 16;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_textPosition}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_textPosition}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9726,11 +9726,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>3</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:fb_textPosition
+          @attr name com.kabberry.wallet.coin:fb_textPosition
         */
         public static final int FancyButtonsAttrs_fb_textPosition = 15;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_textSize}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_textSize}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9742,11 +9742,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_textSize
+          @attr name com.kabberry.wallet.coin:fb_textSize
         */
         public static final int FancyButtonsAttrs_fb_textSize = 10;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fb_useSystemFont}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fb_useSystemFont}
           attribute's value can be found in the {@link #FancyButtonsAttrs} array.
 
 
@@ -9756,7 +9756,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:fb_useSystemFont
+          @attr name com.kabberry.wallet.coin:fb_useSystemFont
         */
         public static final int FancyButtonsAttrs_fb_useSystemFont = 34;
         /** Attributes that can be used with a FloatingActionButton.
@@ -9765,14 +9765,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.primestone.wallet.coin:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.primestone.wallet.coin:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.primestone.wallet.coin:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.primestone.wallet.coin:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.primestone.wallet.coin:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.primestone.wallet.coin:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.primestone.wallet.coin:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.primestone.wallet.coin:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.kabberry.wallet.coin:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.kabberry.wallet.coin:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.kabberry.wallet.coin:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.kabberry.wallet.coin:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.kabberry.wallet.coin:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.kabberry.wallet.coin:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.kabberry.wallet.coin:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.kabberry.wallet.coin:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -9788,7 +9788,7 @@ containing a value of this type.
             0x7f0100fd, 0x7f0100fe, 0x7f010179, 0x7f01017a
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9799,11 +9799,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:backgroundTint
+          @attr name com.kabberry.wallet.coin:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9819,11 +9819,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:backgroundTintMode
+          @attr name com.kabberry.wallet.coin:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9835,11 +9835,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:borderWidth
+          @attr name com.kabberry.wallet.coin:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9851,11 +9851,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:elevation
+          @attr name com.kabberry.wallet.coin:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9869,11 +9869,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:fabSize
+          @attr name com.kabberry.wallet.coin:fabSize
         */
         public static final int FloatingActionButton_fabSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9885,11 +9885,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:pressedTranslationZ
+          @attr name com.kabberry.wallet.coin:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9900,11 +9900,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:rippleColor
+          @attr name com.kabberry.wallet.coin:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9914,7 +9914,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:useCompatPadding
+          @attr name com.kabberry.wallet.coin:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 5;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -9923,7 +9923,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.primestone.wallet.coin:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.kabberry.wallet.coin:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -9931,7 +9931,7 @@ containing a value of this type.
             0x7f0100ff
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -9941,7 +9941,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:behavior_autoHide
+          @attr name com.kabberry.wallet.coin:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -9952,7 +9952,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.primestone.wallet.coin:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.kabberry.wallet.coin:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -9974,7 +9974,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -9984,7 +9984,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:foregroundInsidePadding
+          @attr name com.kabberry.wallet.coin:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a GridLayout.
@@ -9993,13 +9993,13 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GridLayout_alignmentMode com.primestone.wallet.coin:alignmentMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_columnCount com.primestone.wallet.coin:columnCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_columnOrderPreserved com.primestone.wallet.coin:columnOrderPreserved}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_orientation com.primestone.wallet.coin:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_rowCount com.primestone.wallet.coin:rowCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_rowOrderPreserved com.primestone.wallet.coin:rowOrderPreserved}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_useDefaultMargins com.primestone.wallet.coin:useDefaultMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_alignmentMode com.kabberry.wallet.coin:alignmentMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_columnCount com.kabberry.wallet.coin:columnCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_columnOrderPreserved com.kabberry.wallet.coin:columnOrderPreserved}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_orientation com.kabberry.wallet.coin:orientation}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_rowCount com.kabberry.wallet.coin:rowCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_rowOrderPreserved com.kabberry.wallet.coin:rowOrderPreserved}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_useDefaultMargins com.kabberry.wallet.coin:useDefaultMargins}</code></td><td></td></tr>
            </table>
            @see #GridLayout_alignmentMode
            @see #GridLayout_columnCount
@@ -10014,7 +10014,7 @@ containing a value of this type.
             0x7f010105, 0x7f010106, 0x7f010107
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#alignmentMode}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#alignmentMode}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -10027,11 +10027,11 @@ containing a value of this type.
 <tr><td><code>alignBounds</code></td><td>0</td><td></td></tr>
 <tr><td><code>alignMargins</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:alignmentMode
+          @attr name com.kabberry.wallet.coin:alignmentMode
         */
         public static final int GridLayout_alignmentMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#columnCount}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#columnCount}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -10041,11 +10041,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:columnCount
+          @attr name com.kabberry.wallet.coin:columnCount
         */
         public static final int GridLayout_columnCount = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#columnOrderPreserved}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#columnOrderPreserved}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -10055,11 +10055,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:columnOrderPreserved
+          @attr name com.kabberry.wallet.coin:columnOrderPreserved
         */
         public static final int GridLayout_columnOrderPreserved = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#orientation}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#orientation}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -10072,11 +10072,11 @@ containing a value of this type.
 <tr><td><code>horizontal</code></td><td>0</td><td></td></tr>
 <tr><td><code>vertical</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:orientation
+          @attr name com.kabberry.wallet.coin:orientation
         */
         public static final int GridLayout_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#rowCount}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#rowCount}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -10086,11 +10086,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:rowCount
+          @attr name com.kabberry.wallet.coin:rowCount
         */
         public static final int GridLayout_rowCount = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#rowOrderPreserved}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#rowOrderPreserved}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -10100,11 +10100,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:rowOrderPreserved
+          @attr name com.kabberry.wallet.coin:rowOrderPreserved
         */
         public static final int GridLayout_rowOrderPreserved = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#useDefaultMargins}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#useDefaultMargins}
           attribute's value can be found in the {@link #GridLayout} array.
 
 
@@ -10114,7 +10114,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:useDefaultMargins
+          @attr name com.kabberry.wallet.coin:useDefaultMargins
         */
         public static final int GridLayout_useDefaultMargins = 3;
         /** Attributes that can be used with a GridLayout_Layout.
@@ -10130,13 +10130,13 @@ containing a value of this type.
            <tr><td><code>{@link #GridLayout_Layout_android_layout_marginRight android:layout_marginRight}</code></td><td></td></tr>
            <tr><td><code>{@link #GridLayout_Layout_android_layout_marginTop android:layout_marginTop}</code></td><td></td></tr>
            <tr><td><code>{@link #GridLayout_Layout_android_layout_width android:layout_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_column com.primestone.wallet.coin:layout_column}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_columnSpan com.primestone.wallet.coin:layout_columnSpan}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_columnWeight com.primestone.wallet.coin:layout_columnWeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_gravity com.primestone.wallet.coin:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_row com.primestone.wallet.coin:layout_row}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_rowSpan com.primestone.wallet.coin:layout_rowSpan}</code></td><td></td></tr>
-           <tr><td><code>{@link #GridLayout_Layout_layout_rowWeight com.primestone.wallet.coin:layout_rowWeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_column com.kabberry.wallet.coin:layout_column}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_columnSpan com.kabberry.wallet.coin:layout_columnSpan}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_columnWeight com.kabberry.wallet.coin:layout_columnWeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_gravity com.kabberry.wallet.coin:layout_gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_row com.kabberry.wallet.coin:layout_row}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_rowSpan com.kabberry.wallet.coin:layout_rowSpan}</code></td><td></td></tr>
+           <tr><td><code>{@link #GridLayout_Layout_layout_rowWeight com.kabberry.wallet.coin:layout_rowWeight}</code></td><td></td></tr>
            </table>
            @see #GridLayout_Layout_android_layout_height
            @see #GridLayout_Layout_android_layout_margin
@@ -10202,7 +10202,7 @@ containing a value of this type.
         */
         public static final int GridLayout_Layout_android_layout_width = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_column}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_column}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -10212,11 +10212,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:layout_column
+          @attr name com.kabberry.wallet.coin:layout_column
         */
         public static final int GridLayout_Layout_layout_column = 10;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_columnSpan}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_columnSpan}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -10226,11 +10226,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:layout_columnSpan
+          @attr name com.kabberry.wallet.coin:layout_columnSpan
         */
         public static final int GridLayout_Layout_layout_columnSpan = 11;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_columnWeight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_columnWeight}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -10240,11 +10240,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:layout_columnWeight
+          @attr name com.kabberry.wallet.coin:layout_columnWeight
         */
         public static final int GridLayout_Layout_layout_columnWeight = 12;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_gravity}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_gravity}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -10269,11 +10269,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:layout_gravity
+          @attr name com.kabberry.wallet.coin:layout_gravity
         */
         public static final int GridLayout_Layout_layout_gravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_row}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_row}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -10283,11 +10283,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:layout_row
+          @attr name com.kabberry.wallet.coin:layout_row
         */
         public static final int GridLayout_Layout_layout_row = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_rowSpan}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_rowSpan}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -10297,11 +10297,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:layout_rowSpan
+          @attr name com.kabberry.wallet.coin:layout_rowSpan
         */
         public static final int GridLayout_Layout_layout_rowSpan = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout_rowWeight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout_rowWeight}
           attribute's value can be found in the {@link #GridLayout_Layout} array.
 
 
@@ -10311,7 +10311,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:layout_rowWeight
+          @attr name com.kabberry.wallet.coin:layout_rowWeight
         */
         public static final int GridLayout_Layout_layout_rowWeight = 9;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -10325,10 +10325,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.primestone.wallet.coin:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.primestone.wallet.coin:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.primestone.wallet.coin:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.primestone.wallet.coin:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.kabberry.wallet.coin:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.kabberry.wallet.coin:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.kabberry.wallet.coin:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.kabberry.wallet.coin:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -10376,17 +10376,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:divider
+          @attr name com.kabberry.wallet.coin:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -10398,11 +10398,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:dividerPadding
+          @attr name com.kabberry.wallet.coin:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -10412,11 +10412,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:measureWithLargestChild
+          @attr name com.kabberry.wallet.coin:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -10431,7 +10431,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:showDividers
+          @attr name com.kabberry.wallet.coin:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -10510,8 +10510,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MKLoader_mk_color com.primestone.wallet.coin:mk_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #MKLoader_mk_type com.primestone.wallet.coin:mk_type}</code></td><td></td></tr>
+           <tr><td><code>{@link #MKLoader_mk_color com.kabberry.wallet.coin:mk_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #MKLoader_mk_type com.kabberry.wallet.coin:mk_type}</code></td><td></td></tr>
            </table>
            @see #MKLoader_mk_color
            @see #MKLoader_mk_type
@@ -10520,7 +10520,7 @@ containing a value of this type.
             0x7f010112, 0x7f010113
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#mk_color}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#mk_color}
           attribute's value can be found in the {@link #MKLoader} array.
 
 
@@ -10531,11 +10531,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:mk_color
+          @attr name com.kabberry.wallet.coin:mk_color
         */
         public static final int MKLoader_mk_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#mk_type}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#mk_type}
           attribute's value can be found in the {@link #MKLoader} array.
 
 
@@ -10558,7 +10558,7 @@ containing a value of this type.
 <tr><td><code>Whirlpool</code></td><td>9</td><td></td></tr>
 <tr><td><code>Radar</code></td><td>6</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:mk_type
+          @attr name com.kabberry.wallet.coin:mk_type
         */
         public static final int MKLoader_mk_type = 1;
         /** Attributes that can be used with a MenuGroup.
@@ -10627,9 +10627,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.primestone.wallet.coin:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.primestone.wallet.coin:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.primestone.wallet.coin:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.kabberry.wallet.coin:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.kabberry.wallet.coin:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.kabberry.wallet.coin:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -10643,7 +10643,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.primestone.wallet.coin:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.kabberry.wallet.coin:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -10671,17 +10671,17 @@ containing a value of this type.
             0x7f010117
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:actionLayout
+          @attr name com.kabberry.wallet.coin:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -10691,11 +10691,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:actionProviderClass
+          @attr name com.kabberry.wallet.coin:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -10705,7 +10705,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:actionViewClass
+          @attr name com.kabberry.wallet.coin:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -10787,7 +10787,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -10803,7 +10803,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:showAsAction
+          @attr name com.kabberry.wallet.coin:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -10819,8 +10819,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.primestone.wallet.coin:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.primestone.wallet.coin:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.kabberry.wallet.coin:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.kabberry.wallet.coin:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -10880,7 +10880,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -10890,17 +10890,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:preserveIconSpacing
+          @attr name com.kabberry.wallet.coin:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:subMenuArrow
+          @attr name com.kabberry.wallet.coin:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -10912,13 +10912,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.primestone.wallet.coin:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.primestone.wallet.coin:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.primestone.wallet.coin:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.primestone.wallet.coin:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.primestone.wallet.coin:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.primestone.wallet.coin:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.primestone.wallet.coin:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.kabberry.wallet.coin:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.kabberry.wallet.coin:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.kabberry.wallet.coin:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.kabberry.wallet.coin:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.kabberry.wallet.coin:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.kabberry.wallet.coin:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.kabberry.wallet.coin:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -10955,7 +10955,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -10967,31 +10967,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:elevation
+          @attr name com.kabberry.wallet.coin:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:headerLayout
+          @attr name com.kabberry.wallet.coin:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:itemBackground
+          @attr name com.kabberry.wallet.coin:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -11002,21 +11002,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:itemIconTint
+          @attr name com.kabberry.wallet.coin:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:itemTextAppearance
+          @attr name com.kabberry.wallet.coin:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -11027,17 +11027,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:itemTextColor
+          @attr name com.kabberry.wallet.coin:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:menu
+          @attr name com.kabberry.wallet.coin:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -11048,7 +11048,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.primestone.wallet.coin:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.kabberry.wallet.coin:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -11070,7 +11070,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -11080,7 +11080,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:overlapAnchor
+          @attr name com.kabberry.wallet.coin:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -11089,7 +11089,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.primestone.wallet.coin:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.kabberry.wallet.coin:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -11097,7 +11097,7 @@ containing a value of this type.
             0x7f010121
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -11107,7 +11107,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:state_above_anchor
+          @attr name com.kabberry.wallet.coin:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -11116,8 +11116,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.primestone.wallet.coin:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.primestone.wallet.coin:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.kabberry.wallet.coin:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.kabberry.wallet.coin:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -11126,7 +11126,7 @@ containing a value of this type.
             0x7f010122, 0x7f010123
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -11138,11 +11138,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:paddingBottomNoButtons
+          @attr name com.kabberry.wallet.coin:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -11154,7 +11154,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:paddingTopNoTitle
+          @attr name com.kabberry.wallet.coin:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -11165,10 +11165,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.primestone.wallet.coin:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.primestone.wallet.coin:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.primestone.wallet.coin:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.primestone.wallet.coin:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.kabberry.wallet.coin:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.kabberry.wallet.coin:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.kabberry.wallet.coin:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.kabberry.wallet.coin:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -11194,7 +11194,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -11204,11 +11204,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:layoutManager
+          @attr name com.kabberry.wallet.coin:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -11218,11 +11218,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:reverseLayout
+          @attr name com.kabberry.wallet.coin:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -11232,11 +11232,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:spanCount
+          @attr name com.kabberry.wallet.coin:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -11246,7 +11246,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:stackFromEnd
+          @attr name com.kabberry.wallet.coin:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -11255,7 +11255,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.primestone.wallet.coin:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.kabberry.wallet.coin:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -11263,7 +11263,7 @@ containing a value of this type.
             0x7f010128
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -11271,7 +11271,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.primestone.wallet.coin:insetForeground
+          @attr name com.kabberry.wallet.coin:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -11280,7 +11280,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.primestone.wallet.coin:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.kabberry.wallet.coin:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -11288,7 +11288,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010129
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -11300,7 +11300,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:behavior_overlapTop
+          @attr name com.kabberry.wallet.coin:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -11313,19 +11313,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.primestone.wallet.coin:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.primestone.wallet.coin:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.primestone.wallet.coin:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.primestone.wallet.coin:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.primestone.wallet.coin:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.primestone.wallet.coin:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.primestone.wallet.coin:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.primestone.wallet.coin:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.primestone.wallet.coin:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.primestone.wallet.coin:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.primestone.wallet.coin:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.primestone.wallet.coin:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.primestone.wallet.coin:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.kabberry.wallet.coin:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.kabberry.wallet.coin:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.kabberry.wallet.coin:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.kabberry.wallet.coin:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.kabberry.wallet.coin:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.kabberry.wallet.coin:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.kabberry.wallet.coin:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.kabberry.wallet.coin:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.kabberry.wallet.coin:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.kabberry.wallet.coin:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.kabberry.wallet.coin:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.kabberry.wallet.coin:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.kabberry.wallet.coin:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -11377,27 +11377,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:closeIcon
+          @attr name com.kabberry.wallet.coin:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:commitIcon
+          @attr name com.kabberry.wallet.coin:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -11407,21 +11407,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:defaultQueryHint
+          @attr name com.kabberry.wallet.coin:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:goIcon
+          @attr name com.kabberry.wallet.coin:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -11431,31 +11431,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:iconifiedByDefault
+          @attr name com.kabberry.wallet.coin:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:layout
+          @attr name com.kabberry.wallet.coin:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:queryBackground
+          @attr name com.kabberry.wallet.coin:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -11465,57 +11465,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:queryHint
+          @attr name com.kabberry.wallet.coin:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:searchHintIcon
+          @attr name com.kabberry.wallet.coin:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:searchIcon
+          @attr name com.kabberry.wallet.coin:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:submitBackground
+          @attr name com.kabberry.wallet.coin:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:suggestionRowLayout
+          @attr name com.kabberry.wallet.coin:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:voiceIcon
+          @attr name com.kabberry.wallet.coin:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SendOutput.
@@ -11524,7 +11524,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SendOutput_is_fee com.primestone.wallet.coin:is_fee}</code></td><td></td></tr>
+           <tr><td><code>{@link #SendOutput_is_fee com.kabberry.wallet.coin:is_fee}</code></td><td></td></tr>
            </table>
            @see #SendOutput_is_fee
          */
@@ -11532,7 +11532,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010137
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#is_fee}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#is_fee}
           attribute's value can be found in the {@link #SendOutput} array.
 
 
@@ -11542,7 +11542,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:is_fee
+          @attr name com.kabberry.wallet.coin:is_fee
         */
         public static final int SendOutput_is_fee = 0;
         /** Attributes that can be used with a SnackbarLayout.
@@ -11552,8 +11552,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.primestone.wallet.coin:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.primestone.wallet.coin:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.kabberry.wallet.coin:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.kabberry.wallet.coin:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -11569,7 +11569,7 @@ containing a value of this type.
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -11581,11 +11581,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:elevation
+          @attr name com.kabberry.wallet.coin:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -11597,7 +11597,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:maxActionInlineWidth
+          @attr name com.kabberry.wallet.coin:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -11610,7 +11610,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.primestone.wallet.coin:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.kabberry.wallet.coin:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -11647,13 +11647,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:popupTheme
+          @attr name com.kabberry.wallet.coin:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -11665,17 +11665,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.primestone.wallet.coin:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.primestone.wallet.coin:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.primestone.wallet.coin:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.primestone.wallet.coin:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.primestone.wallet.coin:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.primestone.wallet.coin:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.primestone.wallet.coin:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.primestone.wallet.coin:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.primestone.wallet.coin:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.primestone.wallet.coin:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.primestone.wallet.coin:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.kabberry.wallet.coin:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.kabberry.wallet.coin:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.kabberry.wallet.coin:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.kabberry.wallet.coin:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.kabberry.wallet.coin:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.kabberry.wallet.coin:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.kabberry.wallet.coin:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.kabberry.wallet.coin:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.kabberry.wallet.coin:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.kabberry.wallet.coin:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.kabberry.wallet.coin:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -11717,7 +11717,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11727,11 +11727,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:showText
+          @attr name com.kabberry.wallet.coin:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11741,11 +11741,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:splitTrack
+          @attr name com.kabberry.wallet.coin:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11757,11 +11757,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:switchMinWidth
+          @attr name com.kabberry.wallet.coin:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11773,21 +11773,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:switchPadding
+          @attr name com.kabberry.wallet.coin:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:switchTextAppearance
+          @attr name com.kabberry.wallet.coin:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11799,11 +11799,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:thumbTextPadding
+          @attr name com.kabberry.wallet.coin:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11814,11 +11814,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:thumbTint
+          @attr name com.kabberry.wallet.coin:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11835,21 +11835,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:thumbTintMode
+          @attr name com.kabberry.wallet.coin:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#track}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:track
+          @attr name com.kabberry.wallet.coin:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11860,11 +11860,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:trackTint
+          @attr name com.kabberry.wallet.coin:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -11881,7 +11881,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:trackTintMode
+          @attr name com.kabberry.wallet.coin:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -11925,22 +11925,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.primestone.wallet.coin:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.primestone.wallet.coin:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.primestone.wallet.coin:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.primestone.wallet.coin:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.primestone.wallet.coin:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.primestone.wallet.coin:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.primestone.wallet.coin:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.primestone.wallet.coin:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.primestone.wallet.coin:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.primestone.wallet.coin:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.primestone.wallet.coin:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.primestone.wallet.coin:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.primestone.wallet.coin:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.primestone.wallet.coin:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.primestone.wallet.coin:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.primestone.wallet.coin:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.kabberry.wallet.coin:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.kabberry.wallet.coin:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.kabberry.wallet.coin:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.kabberry.wallet.coin:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.kabberry.wallet.coin:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.kabberry.wallet.coin:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.kabberry.wallet.coin:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.kabberry.wallet.coin:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.kabberry.wallet.coin:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.kabberry.wallet.coin:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.kabberry.wallet.coin:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.kabberry.wallet.coin:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.kabberry.wallet.coin:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.kabberry.wallet.coin:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.kabberry.wallet.coin:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.kabberry.wallet.coin:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -11966,17 +11966,17 @@ containing a value of this type.
             0x7f010150, 0x7f010151, 0x7f010152, 0x7f010153
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:tabBackground
+          @attr name com.kabberry.wallet.coin:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -11988,11 +11988,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tabContentStart
+          @attr name com.kabberry.wallet.coin:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12005,11 +12005,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:tabGravity
+          @attr name com.kabberry.wallet.coin:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12020,11 +12020,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tabIndicatorColor
+          @attr name com.kabberry.wallet.coin:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12036,11 +12036,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tabIndicatorHeight
+          @attr name com.kabberry.wallet.coin:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12052,11 +12052,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tabMaxWidth
+          @attr name com.kabberry.wallet.coin:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12068,11 +12068,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tabMinWidth
+          @attr name com.kabberry.wallet.coin:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12085,11 +12085,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:tabMode
+          @attr name com.kabberry.wallet.coin:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12101,11 +12101,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tabPadding
+          @attr name com.kabberry.wallet.coin:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12117,11 +12117,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tabPaddingBottom
+          @attr name com.kabberry.wallet.coin:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12133,11 +12133,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tabPaddingEnd
+          @attr name com.kabberry.wallet.coin:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12149,11 +12149,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tabPaddingStart
+          @attr name com.kabberry.wallet.coin:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12165,11 +12165,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tabPaddingTop
+          @attr name com.kabberry.wallet.coin:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12180,21 +12180,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tabSelectedTextColor
+          @attr name com.kabberry.wallet.coin:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:tabTextAppearance
+          @attr name com.kabberry.wallet.coin:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -12205,7 +12205,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:tabTextColor
+          @attr name com.kabberry.wallet.coin:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TagFlowLayout.
@@ -12214,9 +12214,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TagFlowLayout_auto_select_effect com.primestone.wallet.coin:auto_select_effect}</code></td><td></td></tr>
-           <tr><td><code>{@link #TagFlowLayout_gravity com.primestone.wallet.coin:gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TagFlowLayout_max_select com.primestone.wallet.coin:max_select}</code></td><td></td></tr>
+           <tr><td><code>{@link #TagFlowLayout_auto_select_effect com.kabberry.wallet.coin:auto_select_effect}</code></td><td></td></tr>
+           <tr><td><code>{@link #TagFlowLayout_gravity com.kabberry.wallet.coin:gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TagFlowLayout_max_select com.kabberry.wallet.coin:max_select}</code></td><td></td></tr>
            </table>
            @see #TagFlowLayout_auto_select_effect
            @see #TagFlowLayout_gravity
@@ -12226,7 +12226,7 @@ containing a value of this type.
             0x7f010154, 0x7f010155, 0x7f010156
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#auto_select_effect}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#auto_select_effect}
           attribute's value can be found in the {@link #TagFlowLayout} array.
 
 
@@ -12236,11 +12236,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:auto_select_effect
+          @attr name com.kabberry.wallet.coin:auto_select_effect
         */
         public static final int TagFlowLayout_auto_select_effect = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#gravity}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#gravity}
           attribute's value can be found in the {@link #TagFlowLayout} array.
 
 
@@ -12254,11 +12254,11 @@ containing a value of this type.
 <tr><td><code>center</code></td><td>0</td><td></td></tr>
 <tr><td><code>right</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:gravity
+          @attr name com.kabberry.wallet.coin:gravity
         */
         public static final int TagFlowLayout_gravity = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#max_select}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#max_select}
           attribute's value can be found in the {@link #TagFlowLayout} array.
 
 
@@ -12268,7 +12268,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:max_select
+          @attr name com.kabberry.wallet.coin:max_select
         */
         public static final int TagFlowLayout_max_select = 1;
         /** Attributes that can be used with a TextAppearance.
@@ -12286,7 +12286,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.primestone.wallet.coin:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.kabberry.wallet.coin:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -12359,14 +12359,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.primestone.wallet.coin:textAllCaps
+          @attr name com.kabberry.wallet.coin:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -12377,20 +12377,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.primestone.wallet.coin:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.primestone.wallet.coin:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.primestone.wallet.coin:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.primestone.wallet.coin:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.primestone.wallet.coin:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.primestone.wallet.coin:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.primestone.wallet.coin:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.primestone.wallet.coin:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.primestone.wallet.coin:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.primestone.wallet.coin:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.primestone.wallet.coin:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.primestone.wallet.coin:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.primestone.wallet.coin:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.primestone.wallet.coin:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.kabberry.wallet.coin:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.kabberry.wallet.coin:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.kabberry.wallet.coin:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.kabberry.wallet.coin:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.kabberry.wallet.coin:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.kabberry.wallet.coin:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.kabberry.wallet.coin:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.kabberry.wallet.coin:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.kabberry.wallet.coin:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.kabberry.wallet.coin:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.kabberry.wallet.coin:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.kabberry.wallet.coin:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.kabberry.wallet.coin:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.kabberry.wallet.coin:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -12428,7 +12428,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12438,11 +12438,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:counterEnabled
+          @attr name com.kabberry.wallet.coin:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12452,31 +12452,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:counterMaxLength
+          @attr name com.kabberry.wallet.coin:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:counterOverflowTextAppearance
+          @attr name com.kabberry.wallet.coin:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:counterTextAppearance
+          @attr name com.kabberry.wallet.coin:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12486,21 +12486,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:errorEnabled
+          @attr name com.kabberry.wallet.coin:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:errorTextAppearance
+          @attr name com.kabberry.wallet.coin:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12510,11 +12510,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:hintAnimationEnabled
+          @attr name com.kabberry.wallet.coin:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12524,21 +12524,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:hintEnabled
+          @attr name com.kabberry.wallet.coin:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:hintTextAppearance
+          @attr name com.kabberry.wallet.coin:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12548,21 +12548,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:passwordToggleContentDescription
+          @attr name com.kabberry.wallet.coin:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:passwordToggleDrawable
+          @attr name com.kabberry.wallet.coin:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12572,11 +12572,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:passwordToggleEnabled
+          @attr name com.kabberry.wallet.coin:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12587,11 +12587,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:passwordToggleTint
+          @attr name com.kabberry.wallet.coin:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -12607,7 +12607,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:passwordToggleTintMode
+          @attr name com.kabberry.wallet.coin:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -12618,33 +12618,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.primestone.wallet.coin:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.primestone.wallet.coin:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.primestone.wallet.coin:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.primestone.wallet.coin:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.primestone.wallet.coin:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.primestone.wallet.coin:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.primestone.wallet.coin:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.primestone.wallet.coin:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.primestone.wallet.coin:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.primestone.wallet.coin:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.primestone.wallet.coin:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.primestone.wallet.coin:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.primestone.wallet.coin:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.primestone.wallet.coin:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.primestone.wallet.coin:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.primestone.wallet.coin:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.primestone.wallet.coin:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.primestone.wallet.coin:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.primestone.wallet.coin:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.primestone.wallet.coin:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.primestone.wallet.coin:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.primestone.wallet.coin:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.primestone.wallet.coin:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.primestone.wallet.coin:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.primestone.wallet.coin:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.primestone.wallet.coin:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.primestone.wallet.coin:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.kabberry.wallet.coin:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.kabberry.wallet.coin:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.kabberry.wallet.coin:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.kabberry.wallet.coin:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.kabberry.wallet.coin:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.kabberry.wallet.coin:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.kabberry.wallet.coin:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.kabberry.wallet.coin:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.kabberry.wallet.coin:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.kabberry.wallet.coin:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.kabberry.wallet.coin:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.kabberry.wallet.coin:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.kabberry.wallet.coin:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.kabberry.wallet.coin:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.kabberry.wallet.coin:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.kabberry.wallet.coin:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.kabberry.wallet.coin:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.kabberry.wallet.coin:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.kabberry.wallet.coin:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.kabberry.wallet.coin:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.kabberry.wallet.coin:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.kabberry.wallet.coin:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.kabberry.wallet.coin:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.kabberry.wallet.coin:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.kabberry.wallet.coin:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.kabberry.wallet.coin:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.kabberry.wallet.coin:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -12699,7 +12699,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12712,11 +12712,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:buttonGravity
+          @attr name com.kabberry.wallet.coin:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12726,21 +12726,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:collapseContentDescription
+          @attr name com.kabberry.wallet.coin:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:collapseIcon
+          @attr name com.kabberry.wallet.coin:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12752,11 +12752,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentInsetEnd
+          @attr name com.kabberry.wallet.coin:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12768,11 +12768,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentInsetEndWithActions
+          @attr name com.kabberry.wallet.coin:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12784,11 +12784,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentInsetLeft
+          @attr name com.kabberry.wallet.coin:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12800,11 +12800,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentInsetRight
+          @attr name com.kabberry.wallet.coin:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12816,11 +12816,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentInsetStart
+          @attr name com.kabberry.wallet.coin:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12832,21 +12832,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:contentInsetStartWithNavigation
+          @attr name com.kabberry.wallet.coin:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:logo
+          @attr name com.kabberry.wallet.coin:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12856,11 +12856,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:logoDescription
+          @attr name com.kabberry.wallet.coin:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12872,11 +12872,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:maxButtonHeight
+          @attr name com.kabberry.wallet.coin:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12886,31 +12886,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:navigationContentDescription
+          @attr name com.kabberry.wallet.coin:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:navigationIcon
+          @attr name com.kabberry.wallet.coin:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:popupTheme
+          @attr name com.kabberry.wallet.coin:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12920,21 +12920,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:subtitle
+          @attr name com.kabberry.wallet.coin:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:subtitleTextAppearance
+          @attr name com.kabberry.wallet.coin:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12945,11 +12945,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:subtitleTextColor
+          @attr name com.kabberry.wallet.coin:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#title}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12959,11 +12959,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:title
+          @attr name com.kabberry.wallet.coin:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12975,11 +12975,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:titleMargin
+          @attr name com.kabberry.wallet.coin:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -12991,11 +12991,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:titleMarginBottom
+          @attr name com.kabberry.wallet.coin:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -13007,11 +13007,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:titleMarginEnd
+          @attr name com.kabberry.wallet.coin:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -13023,11 +13023,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:titleMarginStart
+          @attr name com.kabberry.wallet.coin:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -13039,11 +13039,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:titleMarginTop
+          @attr name com.kabberry.wallet.coin:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -13055,21 +13055,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:titleMargins
+          @attr name com.kabberry.wallet.coin:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:titleTextAppearance
+          @attr name com.kabberry.wallet.coin:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -13080,7 +13080,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:titleTextColor
+          @attr name com.kabberry.wallet.coin:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -13091,9 +13091,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.primestone.wallet.coin:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.primestone.wallet.coin:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.primestone.wallet.coin:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.kabberry.wallet.coin:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.kabberry.wallet.coin:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.kabberry.wallet.coin:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -13118,7 +13118,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -13130,11 +13130,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:paddingEnd
+          @attr name com.kabberry.wallet.coin:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -13146,17 +13146,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:paddingStart
+          @attr name com.kabberry.wallet.coin:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:theme
+          @attr name com.kabberry.wallet.coin:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -13166,8 +13166,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.primestone.wallet.coin:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.primestone.wallet.coin:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.kabberry.wallet.coin:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.kabberry.wallet.coin:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -13183,7 +13183,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -13194,11 +13194,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.primestone.wallet.coin:backgroundTint
+          @attr name com.kabberry.wallet.coin:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -13214,7 +13214,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:backgroundTintMode
+          @attr name com.kabberry.wallet.coin:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
@@ -13258,9 +13258,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #refresh_PullRefreshLayout_refreshColor com.primestone.wallet.coin:refreshColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #refresh_PullRefreshLayout_refreshColors com.primestone.wallet.coin:refreshColors}</code></td><td></td></tr>
-           <tr><td><code>{@link #refresh_PullRefreshLayout_refreshType com.primestone.wallet.coin:refreshType}</code></td><td></td></tr>
+           <tr><td><code>{@link #refresh_PullRefreshLayout_refreshColor com.kabberry.wallet.coin:refreshColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #refresh_PullRefreshLayout_refreshColors com.kabberry.wallet.coin:refreshColors}</code></td><td></td></tr>
+           <tr><td><code>{@link #refresh_PullRefreshLayout_refreshType com.kabberry.wallet.coin:refreshType}</code></td><td></td></tr>
            </table>
            @see #refresh_PullRefreshLayout_refreshColor
            @see #refresh_PullRefreshLayout_refreshColors
@@ -13270,27 +13270,27 @@ containing a value of this type.
             0x7f01017b, 0x7f01017c, 0x7f01017d
         };
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#refreshColor}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#refreshColor}
           attribute's value can be found in the {@link #refresh_PullRefreshLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:refreshColor
+          @attr name com.kabberry.wallet.coin:refreshColor
         */
         public static final int refresh_PullRefreshLayout_refreshColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#refreshColors}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#refreshColors}
           attribute's value can be found in the {@link #refresh_PullRefreshLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.primestone.wallet.coin:refreshColors
+          @attr name com.kabberry.wallet.coin:refreshColors
         */
         public static final int refresh_PullRefreshLayout_refreshColors = 1;
         /**
-          <p>This symbol is the offset where the {@link com.primestone.wallet.coin.R.attr#refreshType}
+          <p>This symbol is the offset where the {@link com.kabberry.wallet.coin.R.attr#refreshType}
           attribute's value can be found in the {@link #refresh_PullRefreshLayout} array.
 
 
@@ -13306,7 +13306,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>ring</code></td><td>3</td><td></td></tr>
 <tr><td><code>smartisan</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.primestone.wallet.coin:refreshType
+          @attr name com.kabberry.wallet.coin:refreshType
         */
         public static final int refresh_PullRefreshLayout_refreshType = 0;
     };

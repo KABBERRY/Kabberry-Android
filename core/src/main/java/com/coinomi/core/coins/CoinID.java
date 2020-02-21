@@ -22,7 +22,7 @@ import java.util.Set;
  * @author John L. Jegutanis
  */
 public enum CoinID {
-    Primestone_MAIN(PrimestoneMain.get());
+    Primestone_MAIN(KabberryMain.get());
     private static List<CoinType> types;
     private static HashMap<String, CoinType> idLookup = new HashMap<>();
     private static HashMap<String, CoinType> symbolLookup = new HashMap<>();

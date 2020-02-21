@@ -156,7 +156,7 @@ MERGED from [com.android.support:support-compat:25.3.0] /home/abdul/.android/bui
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:34:9-36
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:32:9-63
-activity#com.primestone.wallet.ui.WalletActivity
+activity#com.kabberry.wallet.ui.WalletActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:40:9-49:20
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:42:13-45
@@ -166,7 +166,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:41:13-55
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:43:13-46
-activity#com.primestone.wallet.ui.IntroActivity
+activity#com.kabberry.wallet.ui.IntroActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:50:9-53:58
 	android:windowSoftInputMode
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:53:13-55
@@ -174,7 +174,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:51:13-55
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:52:13-45
-activity#com.primestone.wallet.ui.AboutActivity
+activity#com.kabberry.wallet.ui.AboutActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:54:9-57:58
 	android:windowSoftInputMode
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:57:13-55
@@ -182,7 +182,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:55:13-55
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:56:13-45
-activity#com.primestone.wallet.ui.SignTransactionActivity
+activity#com.kabberry.wallet.ui.SignTransactionActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:58:9-61:57
 	android:windowSoftInputMode
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:61:13-54
@@ -190,7 +190,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:59:13-55
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:60:13-55
-activity#com.primestone.wallet.ui.ScanActivity
+activity#com.kabberry.wallet.ui.ScanActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:62:9-68:63
 	android:screenOrientation
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:66:13-49
@@ -204,7 +204,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:63:13-55
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:64:13-44
-activity#com.primestone.wallet.ui.TransactionDetailsActivity
+activity#com.kabberry.wallet.ui.TransactionDetailsActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:69:9-72:61
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:71:13-71
@@ -212,7 +212,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:70:13-55
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:72:13-58
-activity#com.primestone.wallet.ui.ExchangeRatesActivity
+activity#com.kabberry.wallet.ui.ExchangeRatesActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:73:9-80:20
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:75:13-66
@@ -226,7 +226,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:79:17-51
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:78:17-63
-activity#com.primestone.wallet.ui.PreviousAddressesActivity
+activity#com.kabberry.wallet.ui.PreviousAddressesActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:81:9-84:60
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:83:13-70
@@ -234,7 +234,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:82:13-55
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:84:13-57
-activity#com.primestone.wallet.ui.SettingsActivity
+activity#com.kabberry.wallet.ui.SettingsActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:85:9-92:20
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:87:13-60
@@ -242,7 +242,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:86:13-44
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:88:13-48
-activity#com.primestone.wallet.ui.ShowSeedActivity
+activity#com.kabberry.wallet.ui.ShowSeedActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:93:9-101:20
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:95:13-61
@@ -250,7 +250,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:94:13-55
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:96:13-48
-activity#com.primestone.wallet.ui.TradeActivity
+activity#com.kabberry.wallet.ui.TradeActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:102:9-109:20
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:104:13-57
@@ -258,7 +258,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:103:13-44
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:105:13-45
-activity#com.primestone.wallet.ui.ExchangeHistoryActivity
+activity#com.kabberry.wallet.ui.ExchangeHistoryActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:110:9-117:20
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:112:13-68
@@ -266,7 +266,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:111:13-44
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:113:13-55
-activity#com.primestone.wallet.ui.TradeStatusActivity
+activity#com.kabberry.wallet.ui.TradeStatusActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:118:9-121:54
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:120:13-67
@@ -274,7 +274,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:119:13-44
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:121:13-51
-activity#com.primestone.wallet.ui.SignVerifyMessageActivity
+activity#com.kabberry.wallet.ui.SignVerifyMessageActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:122:9-125:60
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:124:13-71
@@ -282,7 +282,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:123:13-44
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:125:13-57
-activity#com.primestone.wallet.ui.AccountDetailsActivity
+activity#com.kabberry.wallet.ui.AccountDetailsActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:126:9-129:57
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:128:13-67
@@ -290,7 +290,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:127:13-44
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:129:13-54
-activity#com.primestone.wallet.ui.SweepWalletActivity
+activity#com.kabberry.wallet.ui.SweepWalletActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:130:9-134:69
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:132:13-64
@@ -300,7 +300,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:131:13-44
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:133:13-51
-activity#com.primestone.wallet.ui.FeesSettingsActivity
+activity#com.kabberry.wallet.ui.FeesSettingsActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:135:9-142:20
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:137:13-68
@@ -308,7 +308,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:136:13-44
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:138:13-52
-activity#com.primestone.wallet.ui.DebuggingActivity
+activity#com.kabberry.wallet.ui.DebuggingActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:143:9-150:20
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:145:13-61
@@ -316,7 +316,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:144:13-44
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:146:13-49
-activity#com.primestone.wallet.ui.PinEntryActivity
+activity#com.kabberry.wallet.ui.PinEntryActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:151:9-155:77
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:153:13-45
@@ -330,7 +330,7 @@ category#android.intent.category.HOME
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:156:9-157:59
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:157:13-56
-provider#com.primestone.wallet.ExchangeRatesProvider
+provider#com.kabberry.wallet.ExchangeRatesProvider
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:158:9-161:40
 	android:authorities
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:160:13-76
@@ -338,7 +338,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:161:13-37
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:159:13-50
-provider#com.primestone.wallet.AddressBookProvider
+provider#com.kabberry.wallet.AddressBookProvider
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:162:9-165:40
 	android:authorities
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:164:13-74
@@ -346,7 +346,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:165:13-37
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:163:13-48
-provider#com.primestone.wallet.ExchangeHistoryProvider
+provider#com.kabberry.wallet.ExchangeHistoryProvider
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:166:9-169:40
 	android:authorities
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:168:13-78
@@ -354,13 +354,13 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:169:13-37
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:167:13-52
-service#com.primestone.wallet.service.CoinServiceImpl
+service#com.kabberry.wallet.service.CoinServiceImpl
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:170:9-172:40
 	android:exported
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:172:13-37
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:171:13-52
-activity#com.primestone.wallet.ui.InfoActivity
+activity#com.kabberry.wallet.ui.InfoActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:173:9-181:20
 	android:label
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:175:13-56
@@ -368,7 +368,7 @@ ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/a
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:174:13-55
 	android:name
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:176:13-44
-activity#com.primestone.wallet.ui.SplashActivity
+activity#com.kabberry.wallet.ui.SplashActivity
 ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:182:9-191:20
 	android:screenOrientation
 		ADDED from /home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/AndroidManifest.xml:186:13-49

@@ -587,7 +587,7 @@
 422.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable/abc_item_background_holo_dark.xml
 17.set=ANDROID_RESOURCE
 284.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/layout/fragment_setting.xml
-455.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable/primestone_logo_white.png
+455.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable/kabberry_logo_white.png
 438.base=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_
 296.set=ANDROID_RESOURCE
 15.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/menu/address_options.xml
@@ -808,7 +808,7 @@
 163.set=ANDROID_RESOURCE
 230.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable/ic_send_unchecked.png
 2.base=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_
-401.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/primestone_logo_white.png
+401.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/kabberry_logo_white.png
 263.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/layout/fragment_balance.xml
 434.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/raw/new_video_9.mp4
 417.base=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_
@@ -925,7 +925,7 @@
 491.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/layout/fragment_debugging.xml
 159.set=ANDROID_RESOURCE
 157.base=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_
-51.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable/primestone_logo_black.png
+51.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable/kabberry_logo_black.png
 328.base=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_
 354.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable/custom_toast_info_background.xml
 67.base=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_
@@ -1245,7 +1245,7 @@
 141.set=ANDROID_RESOURCE
 247.base=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_
 273.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_home_unchecked.png
-444.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/primestone_logo_black.png
+444.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/kabberry_logo_black.png
 186.set=ANDROID_RESOURCE
 477.file=/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_copy.png
 394.set=ASSET

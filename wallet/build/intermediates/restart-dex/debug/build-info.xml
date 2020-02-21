@@ -24,7 +24,7 @@
         duration="0" />
 
     <artifact
-        location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/outputs/apk/wallet-debug.apk"
+        location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/outputs/apk/wallet-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
@@ -32,40 +32,40 @@
         timestamp="1548308279156"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/outputs/apk/wallet-debug.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/outputs/apk/wallet-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
@@ -73,7 +73,7 @@
         timestamp="1548310504314"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/outputs/apk/wallet-debug.apk"
+            location="/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/kabberry_android_v2/wallet/build/outputs/apk/wallet-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

@@ -5,7 +5,7 @@ android {
     buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "com.primestone.wallet.coin"
+        applicationId "com.kabberry.wallet.coin"
         minSdkVersion 21
         targetSdkVersion 26
         multiDexEnabled true

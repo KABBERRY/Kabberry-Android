@@ -38,7 +38,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="100dp"
-                android:src="@drawable/primestone_logo_white" />
+                android:src="@drawable/kabberry_logo_white" />
             <TextView
                 android:textColor="@color/white"
                 android:layout_width="wrap_content"

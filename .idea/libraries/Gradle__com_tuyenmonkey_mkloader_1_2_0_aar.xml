@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuyenmonkey:mkloader:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/1b94447927715a12d5c3dde6c49740b53ee46ed4/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/1b94447927715a12d5c3dde6c49740b53ee46ed4/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

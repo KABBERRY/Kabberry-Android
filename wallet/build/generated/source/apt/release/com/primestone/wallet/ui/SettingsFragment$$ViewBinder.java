@@ -1,11 +1,11 @@
 // Generated code from Butter Knife. Do not modify!
-package com.primestone.wallet.ui;
+package com.kabberry.wallet.ui;
 
 import android.view.View;
 import butterknife.ButterKnife.Finder;
 import butterknife.ButterKnife.ViewBinder;
 
-public class SettingsFragment$$ViewBinder<T extends com.primestone.wallet.ui.SettingsFragment> implements ViewBinder<T> {
+public class SettingsFragment$$ViewBinder<T extends com.kabberry.wallet.ui.SettingsFragment> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
     view = finder.findRequiredView(source, 2131624024, "field 'cb_pref_receive_address' and method 'onCheckChange'");

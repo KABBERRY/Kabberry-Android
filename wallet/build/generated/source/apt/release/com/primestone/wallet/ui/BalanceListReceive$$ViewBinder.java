@@ -1,11 +1,11 @@
 // Generated code from Butter Knife. Do not modify!
-package com.primestone.wallet.ui;
+package com.kabberry.wallet.ui;
 
 import android.view.View;
 import butterknife.ButterKnife.Finder;
 import butterknife.ButterKnife.ViewBinder;
 
-public class BalanceListReceive$$ViewBinder<T extends com.primestone.wallet.ui.BalanceListReceive> implements ViewBinder<T> {
+public class BalanceListReceive$$ViewBinder<T extends com.kabberry.wallet.ui.BalanceListReceive> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
     view = finder.findRequiredView(source, 2131624310, "field 'transactionRows' and method 'onItemClick'");

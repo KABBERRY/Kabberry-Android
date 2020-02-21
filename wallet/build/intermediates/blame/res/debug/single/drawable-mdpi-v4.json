@@ -1,466 +1,474 @@
 [
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_ic_star_black_16dp.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_setting_checked.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_setting_checked.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_change.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_change.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_uncheck.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_uncheck.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/logo.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/logo.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_view.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_view.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\9419fdbe2af812a62bf86c2038a3ed54f3acc344\\output\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_text_select_handle_left_mtrl_light.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_close.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_close.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_share_dark.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_share_dark.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\9419fdbe2af812a62bf86c2038a3ed54f3acc344\\output\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_unchecked.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_home_unchecked.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_menu.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\edit_menu.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/edit_menu.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/edit_menu.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_rec_unchecked.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_rec_unchecked.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/refresh_menu.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/refresh_menu.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_checked.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_home_checked.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/design_ic_visibility_off.png",
-        "source": "/home/abdul/.android/build-cache/9bce3162e963a14cd62882097da7a068a5f2b782/output/res/drawable-mdpi-v4/design_ic_visibility_off.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_text_select_handle_middle_mtrl_dark.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_check_circle_white_24dp.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_check_circle_white_24dp.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\kabberry_logo_black.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\kabberry_logo_black.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_icon_trans_1.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_icon_trans_1.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\wallet_3.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\wallet_3.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/app_launcher.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/app_launcher.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_unchecked.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_home_unchecked.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_copy.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_copy.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_info_white_24dp.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_info_white_24dp.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_star.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_star.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_rec_unchecked.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_rec_unchecked.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_text_select_handle_right_mtrl_dark.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_password.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_password.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_ic_star_half_black_48dp.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_error_white_24dp.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_error_white_24dp.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/wallet_3.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/wallet_3.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_bg.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_bg.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_error_white_24dp.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_error_white_24dp.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\primestone_logo_white.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\primestone_logo_white.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_change.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_change.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_next.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_next.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_cancel.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_action_cancel.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_his_unchecked.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_his_unchecked.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\delete_menu.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\delete_menu.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_copy_dark.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_copy_dark.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\refresh_menu.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\refresh_menu.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/notify_panel_notification_icon_bg.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\app_launcher.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\app_launcher.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_view_not.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_view_not.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/shapeshift.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/shapeshift.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_warning_white_24dp.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_warning_white_24dp.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/primestone_logo_white.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/primestone_logo_white.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_his_checked.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_his_checked.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_icon_trans_3.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_icon_trans_3.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\logo.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\logo.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_icon_trans_0.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_icon_trans_0.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_next.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_action_next.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_setting_checked.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_setting_checked.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_pin_logo_black.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_pin_logo_black.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_view.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_view.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_setting_unchecked.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_setting_unchecked.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shapeshift.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\shapeshift.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_48dp.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_ic_star_black_48dp.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_scan_paste.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_scan_paste.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_info_white_24dp.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_info_white_24dp.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_copy.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_copy.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_warning_white_24dp.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_warning_white_24dp.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_ic_star_half_black_36dp.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/swap_menu.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/swap_menu.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_next.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_next.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_done_grey600_24dp.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_done_grey600_24dp.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_send_checked.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_send_checked.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/qr_code_menu.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/qr_code_menu.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_close.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_close.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\his_menu.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\his_menu.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\nitrous_logo.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\nitrous_logo.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/delete_menu.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/delete_menu.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_icon_trans_2.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_icon_trans_2.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_home_checked.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_home_checked.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\wallet_1.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\wallet_1.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/qr_code.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/qr_code.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\kabberry_logo_white.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\kabberry_logo_white.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_text_select_handle_right_mtrl_light.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pin_logo_black.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_pin_logo_black.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_sub_bg.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_sub_bg.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_checked.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_checked.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\swap_menu.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\swap_menu.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_icon_trans_0.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_icon_trans_0.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_flash.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_flash.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\qr_code_menu.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\qr_code_menu.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/wallet_1.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/wallet_1.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_schedule_grey600_24dp.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_schedule_grey600_24dp.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_his_unchecked.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_his_unchecked.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/wallet_2.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/wallet_2.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_rec_checked.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_rec_checked.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_sub_bg.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_sub_bg.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_cancel.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_action_cancel.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_pin_logo.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_pin_logo.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/plus_menu.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/plus_menu.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_icon_trans_1.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_icon_trans_1.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/primestone_logo_black.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/primestone_logo_black.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_send_unchecked.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_send_unchecked.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_ic_star_black_36dp.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_pin_logo.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_pin_logo.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_rec_checked.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_rec_checked.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_password.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_password.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher_quickcam.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_launcher_quickcam.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_allfund.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_allfund.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_icon_trans_2.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_icon_trans_2.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\plus_menu.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\plus_menu.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\qr_code.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\qr_code.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_flash.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_flash.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_his_checked.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_his_checked.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_next.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_action_next.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_share_dark.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_share_dark.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/erase.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/erase.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/design_ic_visibility.png",
-        "source": "/home/abdul/.android/build-cache/9bce3162e963a14cd62882097da7a068a5f2b782/output/res/drawable-mdpi-v4/design_ic_visibility.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_showme.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_showme.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\wallet_2.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\wallet_2.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_back.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_back.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_icon_trans_3.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_icon_trans_3.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/his_menu.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/his_menu.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_setting_unchecked.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_setting_unchecked.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_done_grey600_24dp.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_done_grey600_24dp.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_star.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_star.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher_quickcam.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_launcher_quickcam.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\primestone_logo_black.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\primestone_logo_black.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_scan_paste.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_scan_paste.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_showme.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_showme.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_send_unchecked.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_send_unchecked.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_copy_dark.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_copy_dark.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_ic_star_half_black_16dp.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_uncheck.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_uncheck.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_allfund.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_allfund.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_bg.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_bg.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\erase.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\erase.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_send_checked.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/ic_send_checked.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_checked.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_checked.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_text_select_handle_left_mtrl_dark.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_schedule_grey600_24dp.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_schedule_grey600_24dp.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/home/abdul/.android/build-cache/d3c0dd4dbfdefdb5b9b1f39f1983c71c38cb5281/output/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_view_not.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_view_not.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/nitrous_logo.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/nitrous_logo.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Bielicki\\.android\\build-cache\\1f68a619f68e2501687aa60cf26164af5fcfc5c1\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/drawable-mdpi/abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_check_circle_white_24dp.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_check_circle_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_back.png",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\drawable-mdpi\\ic_back.png"
     }
 ]

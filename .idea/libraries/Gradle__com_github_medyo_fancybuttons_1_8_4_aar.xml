@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.medyo:fancybuttons:1.8.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/f6b1b081e859f837ba2c32629797202c90fea7fb/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/f6b1b081e859f837ba2c32629797202c90fea7fb/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,11 +1,11 @@
 // Generated code from Butter Knife. Do not modify!
-package com.primestone.wallet.ui.widget;
+package com.kabberry.wallet.ui.widget;
 
 import android.view.View;
 import butterknife.ButterKnife.Finder;
 import butterknife.ButterKnife.ViewBinder;
 
-public class CoinListItem$$ViewBinder<T extends com.primestone.wallet.ui.widget.CoinListItem> implements ViewBinder<T> {
+public class CoinListItem$$ViewBinder<T extends com.kabberry.wallet.ui.widget.CoinListItem> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
     view = finder.findRequiredView(source, 2131624091, "field 'icon'");

@@ -1787,8 +1787,8 @@ com.coinomi.core.wallet.BitWalletBase:
     79:84:public com.coinomi.core.wallet.families.bitcoin.BitSendRequest sendCoinsOffline(com.coinomi.core.wallet.families.bitcoin.BitAddress,com.coinomi.core.coins.Value,java.lang.String)
     93:97:public com.coinomi.core.wallet.families.bitcoin.BitSendRequest sendCoinsOffline(com.coinomi.core.wallet.families.bitcoin.BitAddress,com.coinomi.core.coins.Value,org.spongycastle.crypto.params.KeyParameter)
 com.coinomi.core.wallet.BitWalletSingleKey:
-    49:53:public byte[] getPublicKey()
-    58:62:public com.coinomi.core.wallet.families.bitcoin.BitAddress getAddress()
+    49:54:public byte[] getPublicKey()
+    58:63:public com.coinomi.core.wallet.families.bitcoin.BitAddress getAddress()
     98:98:public boolean canCreateNewAddresses()
     141:141:public void decrypt(org.spongycastle.crypto.params.KeyParameter)
     150:150:public java.lang.String getPublicKeyMnemonic()
@@ -1798,12 +1798,12 @@ com.coinomi.core.wallet.SimpleHDKeyChain:
     public static final int LOOKAHEAD
     private static final int LAZY_CALCULATE_LOOKAHEAD
     63:110:public SimpleHDKeyChain(org.bitcoinj.crypto.DeterministicKey)
-    395:402:public boolean markPubKeyAsUsed(byte[])
-    408:412:public boolean hasKey(org.bitcoinj.core.ECKey)
+    395:403:public boolean markPubKeyAsUsed(byte[])
+    408:413:public boolean hasKey(org.bitcoinj.core.ECKey)
     418:418:protected varargs org.bitcoinj.crypto.DeterministicKey getKeyByPath(org.bitcoinj.crypto.ChildNumber[])
     423:423:protected org.bitcoinj.crypto.DeterministicKey getKeyByPath(com.google.common.collect.ImmutableList)
-    436:441:public int numKeys()
-    454:458:public int numLeafKeysIssued()
+    436:442:public int numKeys()
+    454:459:public int numLeafKeysIssued()
     464:464:public long getEarliestKeyCreationTime()
     469:470:public void addEventListener(org.bitcoinj.wallet.KeyChainEventListener)
     474:475:public void addEventListener(org.bitcoinj.wallet.KeyChainEventListener,java.util.concurrent.Executor)
@@ -1815,9 +1815,9 @@ com.coinomi.core.wallet.SimpleHDKeyChain:
     678:680:public boolean checkPassword(java.lang.CharSequence)
     685:690:public boolean checkAESKey(org.spongycastle.crypto.params.KeyParameter)
     709:709:public int numBloomFilterEntries()
-    714:720:public org.bitcoinj.core.BloomFilter getFilter(int,double,long)
+    714:721:public org.bitcoinj.core.BloomFilter getFilter(int,double,long)
     767:775:public void setLookaheadThreshold(int)
-    889:893:public int getNumIssuedInternalKeys()
+    889:894:public int getNumIssuedInternalKeys()
     58:58:public bridge synthetic org.bitcoinj.wallet.EncryptableKeyChain toDecrypted(org.spongycastle.crypto.params.KeyParameter)
     58:58:public bridge synthetic org.bitcoinj.wallet.EncryptableKeyChain toDecrypted(java.lang.CharSequence)
     58:58:public bridge synthetic org.bitcoinj.wallet.EncryptableKeyChain toEncrypted(org.bitcoinj.crypto.KeyCrypter,org.spongycastle.crypto.params.KeyParameter)
@@ -1827,15 +1827,15 @@ com.coinomi.core.wallet.TransactionWatcherWallet:
     private static final int TX_DEPTH_SAVE_THRESHOLD
     168:168:public com.coinomi.core.wallet.Wallet getWallet()
     235:241:public void addWalletTransaction(com.coinomi.core.wallet.families.bitcoin.BitWalletTransaction)
-    410:419:public org.bitcoinj.core.Transaction getRawTransaction(org.bitcoinj.core.Sha256Hash)
+    410:420:public org.bitcoinj.core.Transaction getRawTransaction(org.bitcoinj.core.Sha256Hash)
     533:537:public java.util.Date getLastBlockSeenTime()
-    657:667:public com.coinomi.core.network.AddressStatus getAddressStatus(com.coinomi.core.wallet.AbstractAddress)
+    657:668:public com.coinomi.core.network.AddressStatus getAddressStatus(com.coinomi.core.wallet.AbstractAddress)
     1086:1087:void addNewTransactionIfNeeded(org.bitcoinj.core.Transaction)
-    1294:1305:public java.util.Map getBitTransactionPool(com.coinomi.core.wallet.WalletTransaction$Pool)
+    1294:1306:public java.util.Map getBitTransactionPool(com.coinomi.core.wallet.WalletTransaction$Pool)
     1435:1441:public void broadcastTx(com.coinomi.core.wallet.AbstractTransaction)
     1477:1490:private void broadcastTx(com.coinomi.core.wallet.families.bitcoin.BitTransaction,com.coinomi.core.network.interfaces.TransactionEventListener)
     1503:1512:public void disconnect()
-    1599:1603:public java.util.Map getPendingTransactions()
+    1599:1604:public java.util.Map getPendingTransactions()
     67:67:public bridge synthetic void onTransactionBroadcastError(java.lang.Object)
     67:67:public bridge synthetic void onTransactionBroadcast(java.lang.Object)
 com.coinomi.core.wallet.Wallet:
@@ -1843,17 +1843,17 @@ com.coinomi.core.wallet.Wallet:
     74:75:public Wallet(java.lang.String)
     78:79:public Wallet(java.util.List)
     134:134:public com.coinomi.core.wallet.WalletAccount createAccount(com.coinomi.core.coins.CoinType,org.spongycastle.crypto.params.KeyParameter)
-    257:261:public java.util.List getAccountIds()
-    344:366:public com.coinomi.core.wallet.WalletAccount deleteAccount(java.lang.String)
+    257:262:public java.util.List getAccountIds()
+    344:367:public com.coinomi.core.wallet.WalletAccount deleteAccount(java.lang.String)
     374:384:public void maybeInitializeAllPockets()
-    399:405:public java.util.List getMnemonicCode()
-    439:448:public com.coinomi.core.wallet.WalletAccount refresh(java.lang.String)
-    460:464:com.coinomi.core.protos.Protos$Wallet toProtobuf()
+    399:406:public java.util.List getMnemonicCode()
+    439:449:public com.coinomi.core.wallet.WalletAccount refresh(java.lang.String)
+    460:465:com.coinomi.core.protos.Protos$Wallet toProtobuf()
     472:480:public static com.coinomi.core.wallet.Wallet loadFromFile(java.io.File)
     488:488:public static com.coinomi.core.wallet.Wallet loadFromFileStream(java.io.InputStream)
     669:696:void decrypt(org.spongycastle.crypto.params.KeyParameter)
     700:702:private static java.util.List decodeMnemonicCode(byte[])
-    707:715:public java.util.List getBalances()
+    707:716:public java.util.List getBalances()
 com.coinomi.core.wallet.WalletAccount:
     public abstract java.lang.String getDescription()
     public abstract void setDescription(java.lang.String)
@@ -1870,9 +1870,9 @@ com.coinomi.core.wallet.WalletAccount:
 com.coinomi.core.wallet.WalletAccountEventListener:
     public abstract void onTransactionConfidenceChanged(com.coinomi.core.wallet.WalletAccount,com.coinomi.core.wallet.AbstractTransaction)
 com.coinomi.core.wallet.WalletPocketHD:
-    123:127:com.coinomi.core.protos.Protos$WalletPocket toProtobuf()
+    123:128:com.coinomi.core.protos.Protos$WalletPocket toProtobuf()
     196:204:public void decrypt(org.spongycastle.crypto.params.KeyParameter)
-    267:271:public byte[] getPublicKey()
+    267:272:public byte[] getPublicKey()
     285:285:public com.coinomi.core.wallet.families.bitcoin.BitAddress getRefundAddress()
     294:294:public boolean canCreateNewAddresses()
     501:501:public java.lang.String getPublicKeyMnemonic()
@@ -1924,7 +1924,7 @@ com.coinomi.core.wallet.families.nxt.NxtFamilyWallet:
     479:479:public com.coinomi.core.wallet.families.nxt.NxtSendRequest sendCoinsOffline(com.coinomi.core.wallet.families.nxt.NxtAddress,com.coinomi.core.coins.Value)
     487:492:public com.coinomi.core.wallet.families.nxt.NxtSendRequest sendCoinsOffline(com.coinomi.core.wallet.families.nxt.NxtAddress,com.coinomi.core.coins.Value,java.lang.String)
     502:508:public com.coinomi.core.wallet.families.nxt.NxtSendRequest sendCoinsOffline(com.coinomi.core.wallet.families.nxt.NxtAddress,com.coinomi.core.coins.Value,org.spongycastle.crypto.params.KeyParameter)
-    794:803:public synchronized com.coinomi.core.coins.nxt.Transaction getRawTransaction(org.bitcoinj.core.Sha256Hash)
+    794:804:public synchronized com.coinomi.core.coins.nxt.Transaction getRawTransaction(org.bitcoinj.core.Sha256Hash)
     59:59:public bridge synthetic void onTransactionBroadcastError(java.lang.Object)
     59:59:public bridge synthetic void onTransactionBroadcast(java.lang.Object)
 com.coinomi.core.wallet.families.nxt.NxtFamilyWalletProtobufSerializer:
@@ -7350,16 +7350,7 @@ com.google.zxing.qrcode.encoder.QRCode:
     46:46:public com.google.zxing.qrcode.decoder.ErrorCorrectionLevel getECLevel()
     50:50:public com.google.zxing.qrcode.decoder.Version getVersion()
     54:54:public int getMaskPattern()
-com.lambdaworks.codec.Base64
-com.lambdaworks.crypto.PBKDF:
-    16:16:public PBKDF()
-    31:35:public static byte[] pbkdf2(java.lang.String,byte[],byte[],int,int)
-com.lambdaworks.crypto.SCrypt:
-    23:23:public SCrypt()
-com.lambdaworks.crypto.SCryptUtil
-com.lambdaworks.jni.LibraryLoaders:
-    15:15:public LibraryLoaders()
-com.primestone.wallet.AddressBookProvider:
+com.kabberry.wallet.AddressBookProvider:
     private static final java.lang.String DATABASE_TABLE
     public static final java.lang.String KEY_ROWID
     public static final java.lang.String KEY_COIN_ID
@@ -7368,12 +7359,12 @@ com.primestone.wallet.AddressBookProvider:
     public static final java.lang.String SELECTION_QUERY
     public static final java.lang.String SELECTION_IN
     public static final java.lang.String SELECTION_NOTIN
-com.primestone.wallet.AddressBookProvider$Helper:
+com.kabberry.wallet.AddressBookProvider$Helper:
     private static final java.lang.String DATABASE_NAME
     private static final int DATABASE_VERSION
     private static final java.lang.String DATABASE_CREATE
-com.primestone.wallet.BuildConfig
-com.primestone.wallet.Configuration:
+com.kabberry.wallet.BuildConfig
+com.kabberry.wallet.Configuration:
     private static final java.lang.String PREFS_KEY_LAST_VERSION
     private static final java.lang.String PREFS_KEY_LAST_USED
     private static final java.lang.String PREFS_KEY_LAST_POCKET
@@ -7395,7 +7386,7 @@ com.primestone.wallet.Configuration:
     public static final java.lang.String PREFS_KEY_TERMS_ACCEPTED
     private static final int PREFS_DEFAULT_BTC_SHIFT
     private static final int PREFS_DEFAULT_BTC_PRECISION
-com.primestone.wallet.Constants:
+com.kabberry.wallet.Constants:
     public static final java.lang.String ARG_ACCOUNT_ID
     public static final java.lang.String ARG_SEND_TO_ACCOUNT_ID
     public static final java.lang.String TX_CACHE_NAME
@@ -7406,7 +7397,7 @@ com.primestone.wallet.Constants:
     public static final java.lang.String DEFAULT_EXCHANGE_CURRENCY
     public static final java.lang.String VERSION_URL
     16:16:public Constants()
-com.primestone.wallet.ExchangeRatesProvider:
+com.kabberry.wallet.ExchangeRatesProvider:
     public static final java.lang.String KEY_CURRENCY_ID
     private static final java.lang.String KEY_RATE_COIN
     private static final java.lang.String KEY_RATE_FIAT
@@ -7417,44 +7408,69 @@ com.primestone.wallet.ExchangeRatesProvider:
     private static final java.lang.String BASE_URL
     private static final java.lang.String TO_CRYPTO_URL
     private static final java.lang.String TO_LOCAL_URL
-com.primestone.wallet.R:
-    10:10:public R()
-com.primestone.wallet.R$anim
-com.primestone.wallet.R$animator
-com.primestone.wallet.R$attr
-com.primestone.wallet.R$bool
-com.primestone.wallet.R$color
-com.primestone.wallet.R$dimen
-com.primestone.wallet.R$drawable
-com.primestone.wallet.R$id
-com.primestone.wallet.R$integer
-com.primestone.wallet.R$layout
-com.primestone.wallet.R$menu
-com.primestone.wallet.R$plurals
-com.primestone.wallet.R$raw
-com.primestone.wallet.R$string
-com.primestone.wallet.R$style
-com.primestone.wallet.R$styleable:
-    5205:5205:public R$styleable()
-com.primestone.wallet.R$xml
-com.primestone.wallet.service.CoinService:
+com.kabberry.wallet.R
+com.kabberry.wallet.R$anim
+com.kabberry.wallet.R$animator
+com.kabberry.wallet.R$attr
+com.kabberry.wallet.R$bool
+com.kabberry.wallet.R$color
+com.kabberry.wallet.R$dimen
+com.kabberry.wallet.R$drawable
+com.kabberry.wallet.R$id
+com.kabberry.wallet.R$integer
+com.kabberry.wallet.R$layout
+com.kabberry.wallet.R$menu
+com.kabberry.wallet.R$plurals
+com.kabberry.wallet.R$raw
+com.kabberry.wallet.R$string
+com.kabberry.wallet.R$style
+com.kabberry.wallet.R$styleable
+com.kabberry.wallet.R$xml
+com.kabberry.wallet.circleindicator.CircleIndicator:
+    private android.animation.Animator mAnimatorIn
+    private android.animation.Animator mAnimatorOut
+    private int mAnimatorResId
+    private int mAnimatorReverseResId
+    23:108:public CircleIndicator(android.content.Context)
+    23:113:public CircleIndicator(android.content.Context,android.util.AttributeSet)
+    23:118:public CircleIndicator(android.content.Context,android.util.AttributeSet,int)
+    23:124:public CircleIndicator(android.content.Context,android.util.AttributeSet,int,int)
+    127:129:private void init(android.content.Context,android.util.AttributeSet)
+    132:155:private void handleTypedArray(android.content.Context,android.util.AttributeSet)
+    158:170:private void checkIndicatorConfig(android.content.Context)
+    173:173:private android.animation.Animator createAnimatorOut(android.content.Context)
+    177:182:private android.animation.Animator createAnimatorIn(android.content.Context)
+    247:247:public int dip2px(float)
+    20:20:static synthetic android.support.v4.view.ViewPager access$000(com.kabberry.wallet.circleindicator.CircleIndicator)
+    20:20:static synthetic android.animation.Animator access$100(com.kabberry.wallet.circleindicator.CircleIndicator)
+    20:20:static synthetic android.animation.Animator access$200(com.kabberry.wallet.circleindicator.CircleIndicator)
+    20:20:static synthetic int access$300(com.kabberry.wallet.circleindicator.CircleIndicator)
+    20:20:static synthetic int access$400(com.kabberry.wallet.circleindicator.CircleIndicator)
+    20:20:static synthetic int access$500(com.kabberry.wallet.circleindicator.CircleIndicator)
+    20:20:static synthetic int access$302(com.kabberry.wallet.circleindicator.CircleIndicator,int)
+    20:20:static synthetic void access$600(com.kabberry.wallet.circleindicator.CircleIndicator)
+com.kabberry.wallet.circleindicator.CircleIndicator$1
+com.kabberry.wallet.circleindicator.CircleIndicator$C10811
+com.kabberry.wallet.circleindicator.CircleIndicator$C10822
+com.kabberry.wallet.circleindicator.CircleIndicator$ReverseInterpolator
+com.kabberry.wallet.service.CoinService:
     public static final java.lang.String ACTION_BROADCAST_TRANSACTION_HASH
-com.primestone.wallet.service.CoinServiceImpl:
+com.kabberry.wallet.service.CoinServiceImpl:
     private static final int NOTIFICATION_ID_CONNECTED
     private static final int NOTIFICATION_ID_COINS_RECEIVED
     private static final int MIN_COLLECT_HISTORY
     private static final int IDLE_BLOCK_TIMEOUT_MIN
     private static final int IDLE_TRANSACTION_TIMEOUT_MIN
-com.primestone.wallet.service.CoinServiceImpl$LocalBinder:
-    91:91:public com.primestone.wallet.service.CoinService getService()
-com.primestone.wallet.ui.AccountFragment$Listener:
+com.kabberry.wallet.service.CoinServiceImpl$LocalBinder:
+    91:91:public com.kabberry.wallet.service.CoinService getService()
+com.kabberry.wallet.ui.AccountFragment$Listener:
     public abstract void registerActionMode(android.support.v7.view.ActionMode)
-com.primestone.wallet.ui.AddressRequestFragment:
+com.kabberry.wallet.ui.AddressRequestFragment:
     private static final int UPDATE_VIEW
     private static final int UPDATE_EXCHANGE_RATE
     private static final int ID_RATE_LOADER
     private static final java.lang.String NEW_ADDRESS_TAG
-com.primestone.wallet.ui.BalanceFragment:
+com.kabberry.wallet.ui.BalanceFragment:
     private static final int WALLET_CHANGED
     private static final int UPDATE_VIEW
     private static final int CLEAR_LABEL_CACHE
@@ -7464,26 +7480,26 @@ com.primestone.wallet.ui.BalanceFragment:
     private static final int AMOUNT_SHIFT
     private static final int ID_TRANSACTION_LOADER
     private static final int ID_RATE_LOADER
-com.primestone.wallet.ui.BalanceFragment$3:
+com.kabberry.wallet.ui.BalanceFragment$3:
     300:300:public void onTransactionConfidenceChanged(com.coinomi.core.wallet.WalletAccount,com.coinomi.core.wallet.AbstractTransaction)
-com.primestone.wallet.ui.BalanceFragment$AbstractTransactionsLoader$1:
+com.kabberry.wallet.ui.BalanceFragment$AbstractTransactionsLoader$1:
     399:399:public void onTransactionConfidenceChanged(com.coinomi.core.wallet.WalletAccount,com.coinomi.core.wallet.AbstractTransaction)
-com.primestone.wallet.ui.BalanceListReceive$Listener:
+com.kabberry.wallet.ui.BalanceListReceive$Listener:
     public abstract void onRefresh()
-com.primestone.wallet.ui.BalanceListSend$Listener:
+com.kabberry.wallet.ui.BalanceListSend$Listener:
     public abstract void onRefresh()
-com.primestone.wallet.ui.DebuggingActivity:
+com.kabberry.wallet.ui.DebuggingActivity:
     private static final java.lang.String DEBUGGING_TAG
-com.primestone.wallet.ui.Dialogs:
+com.kabberry.wallet.ui.Dialogs:
     9:9:public Dialogs()
-com.primestone.wallet.ui.EditAccountFragment
-com.primestone.wallet.ui.EditAccountFragment$1
-com.primestone.wallet.ui.EditAccountFragment$Listener
-com.primestone.wallet.ui.FinalizeWalletRestorationFragment:
+com.kabberry.wallet.ui.EditAccountFragment
+com.kabberry.wallet.ui.EditAccountFragment$1
+com.kabberry.wallet.ui.EditAccountFragment$Listener
+com.kabberry.wallet.ui.FinalizeWalletRestorationFragment:
     private static final int RESTORE_STATUS_UPDATE
     private static final int RESTORE_FINISHED
-com.primestone.wallet.ui.FinalizeWalletRestorationFragment$C11361
-com.primestone.wallet.ui.MakeTransactionFragment:
+com.kabberry.wallet.ui.FinalizeWalletRestorationFragment$C11361
+com.kabberry.wallet.ui.MakeTransactionFragment:
     private static final int START_TRADE_TIMEOUT
     private static final int UPDATE_TRADE_TIMEOUT
     private static final int TRADE_EXPIRED
@@ -7499,26 +7515,28 @@ com.primestone.wallet.ui.MakeTransactionFragment:
     private static final java.lang.String WITHDRAW_AMOUNT
     private static final java.lang.String PREPARE_TRANSACTION_BUSY_DIALOG_TAG
     private static final java.lang.String SIGNING_TRANSACTION_BUSY_DIALOG_TAG
-com.primestone.wallet.ui.MakeTransactionFragment$C11501
-com.primestone.wallet.ui.OverviewFragment:
+com.kabberry.wallet.ui.MakeTransactionFragment$C11501
+com.kabberry.wallet.ui.OverviewFragment:
     private static final int WALLET_CHANGED
     private static final int UPDATE_VIEW
     private static final int SET_EXCHANGE_RATES
     private static final int ID_RATE_LOADER
-com.primestone.wallet.ui.PreviousAddressesActivity:
+com.kabberry.wallet.ui.PreviousAddressesActivity:
     private static final java.lang.String LIST_ADDRESSES_TAG
     private static final java.lang.String ADDRESS_TAG
-com.primestone.wallet.ui.PreviousAddressesFragment:
+com.kabberry.wallet.ui.PreviousAddressesFragment:
     private static final int UPDATE_VIEW
-    71:75:public static com.primestone.wallet.ui.PreviousAddressesFragment newInstance(java.lang.String)
-com.primestone.wallet.ui.ScanActivity:
+    71:75:public static com.kabberry.wallet.ui.PreviousAddressesFragment newInstance(java.lang.String)
+com.kabberry.wallet.ui.ScanActivity:
     public static final java.lang.String INTENT_EXTRA_RESULT
     private static final long VIBRATE_DURATION
     private static final long AUTO_FOCUS_INTERVAL_MS
-com.primestone.wallet.ui.SeedFragment$x
-com.primestone.wallet.ui.SeedFragment$x$1
-com.primestone.wallet.ui.SendActivity
-com.primestone.wallet.ui.SendFragment:
+com.kabberry.wallet.ui.ScannerView:
+    24:52:public ScannerView(android.content.Context,android.util.AttributeSet)
+com.kabberry.wallet.ui.SeedFragment$x
+com.kabberry.wallet.ui.SeedFragment$x$1
+com.kabberry.wallet.ui.SendActivity
+com.kabberry.wallet.ui.SendFragment:
     private static final int REQUEST_CODE_SCAN
     private static final int SIGN_TRANSACTION
     private static final int UPDATE_VIEW
@@ -7532,42 +7550,42 @@ com.primestone.wallet.ui.SendFragment:
     private static final java.lang.String STATE_ADDRESS_CAN_CHANGE_TYPE
     private static final java.lang.String STATE_AMOUNT
     private static final java.lang.String STATE_AMOUNT_TYPE
-com.primestone.wallet.ui.ShowSeedActivity:
+com.kabberry.wallet.ui.ShowSeedActivity:
     public static android.widget.TextView toolbar_title
-com.primestone.wallet.ui.ShowSeedFragment:
+com.kabberry.wallet.ui.ShowSeedFragment:
     private static final int UPDATE_VIEW
     private static final int SET_PASSWORD
     private static final int SET_SEED
     private static final java.lang.String SEED_PROCESSING_DIALOG_TAG
     private static final java.lang.String PASSWORD_DIALOG_TAG
-com.primestone.wallet.ui.SweepWalletFragment$MyHandler:
+com.kabberry.wallet.ui.SweepWalletFragment$MyHandler:
     static final int TX_STATUS_UPDATE
     static final int TX_PREPARATION_FINISHED
     static final int TX_PREPARATION_ERROR
-com.primestone.wallet.ui.TradeStatusFragment:
+com.kabberry.wallet.ui.TradeStatusFragment:
     private static final int UPDATE_SHAPESHIFT_STATUS
     private static final int UPDATE_STATUS
     private static final int ERROR_MESSAGE
     private static final int ID_STATUS_LOADER
     private static final long POLLING_MS
     private static final java.lang.String ARG_SHOW_EXIT_BUTTON
-com.primestone.wallet.ui.TransListAdapterReceive:
+com.kabberry.wallet.ui.TransListAdapterReceive:
     private static final java.lang.String CONFIDENCE_SYMBOL_DEAD
     private static final java.lang.String CONFIDENCE_SYMBOL_UNKNOWN
     private static final int VIEW_TYPE_TRANSACTION
     99:103:public void replace(com.coinomi.core.wallet.AbstractTransaction)
     325:337:private java.lang.String resolveLabel(com.coinomi.core.wallet.AbstractAddress)
     357:364:protected void setAllTypeNumber(android.view.View)
-com.primestone.wallet.ui.TransListAdapterSend:
+com.kabberry.wallet.ui.TransListAdapterSend:
     303:316:private java.lang.String resolveLabel(com.coinomi.core.wallet.AbstractAddress)
-com.primestone.wallet.ui.TransactionsListAdapter:
+com.kabberry.wallet.ui.TransactionsListAdapter:
     private static final java.lang.String CONFIDENCE_SYMBOL_DEAD
     private static final java.lang.String CONFIDENCE_SYMBOL_UNKNOWN
     private static final int VIEW_TYPE_TRANSACTION
     101:105:public void replace(com.coinomi.core.wallet.AbstractTransaction)
     319:329:private java.lang.String resolveLabel(com.coinomi.core.wallet.AbstractAddress)
     350:357:protected void setAllTypeNumber(android.view.View)
-com.primestone.wallet.ui.WalletActivity:
+com.kabberry.wallet.ui.WalletActivity:
     private static final int REQUEST_CODE_SCAN
     private static final int ADD_COIN
     private static final int TX_BROADCAST_OK
@@ -7580,18 +7598,38 @@ com.primestone.wallet.ui.WalletActivity:
     private static final java.lang.String OVERVIEW_TAG
     private static final java.lang.String OVERVIEW_VISIBLE
     661:661:public void onAccountModified(com.coinomi.core.wallet.WalletAccount)
-com.primestone.wallet.ui.widget.MDToast:
+com.kabberry.wallet.ui.widget.AddressView:
+    37:47:public AddressView(android.content.Context,android.util.AttributeSet)
+com.kabberry.wallet.ui.widget.Amount:
+    boolean isBig
+    boolean isSmall
+    15:61:public Amount(android.content.Context,android.util.AttributeSet)
+com.kabberry.wallet.ui.widget.AmountEditView:
+    32:113:public AmountEditView(android.content.Context,android.util.AttributeSet)
+com.kabberry.wallet.ui.widget.AmountEditView$1
+com.kabberry.wallet.ui.widget.AmountEditView$TextViewListener:
+    52:54:private AmountEditView$TextViewListener(com.kabberry.wallet.ui.widget.AmountEditView)
+    49:49:synthetic AmountEditView$TextViewListener(com.kabberry.wallet.ui.widget.AmountEditView,com.kabberry.wallet.ui.widget.AmountEditView$1)
+com.kabberry.wallet.ui.widget.MDToast:
     public static final int TYPE_INFO
     public static final int TYPE_SUCCESS
     public static final int TYPE_WARNING
     public static final int TYPE_ERROR
-    52:52:public static com.primestone.wallet.ui.widget.MDToast makeText(android.content.Context,java.lang.String)
-    56:56:public static com.primestone.wallet.ui.widget.MDToast makeText(android.content.Context,java.lang.String,int)
+    52:52:public static com.kabberry.wallet.ui.widget.MDToast makeText(android.content.Context,java.lang.String)
+    56:56:public static com.kabberry.wallet.ui.widget.MDToast makeText(android.content.Context,java.lang.String,int)
     126:127:public void setIcon(int)
     134:142:public void setIcon(android.graphics.drawable.Drawable)
     149:150:public void setType(int)
     156:156:public int getType()
-com.primestone.wallet.ui.widget.SwipeRefreshLayout:
+com.kabberry.wallet.ui.widget.SendOutputTanns:
+    private int colorBlack
+    private android.content.res.Resources res
+    42:52:public SendOutputTanns(android.content.Context)
+    42:72:public SendOutputTanns(android.content.Context,android.util.AttributeSet)
+    75:99:private void inflateView(android.content.Context)
+com.kabberry.wallet.ui.widget.SwipeProgressBar:
+    14:33:public SwipeProgressBar(android.view.View)
+com.kabberry.wallet.ui.widget.SwipeRefreshLayout:
     private static final long RETURN_TO_ORIGINAL_POSITION_TIMEOUT
     private static final float ACCELERATE_INTERPOLATION_FACTOR
     private static final float DECELERATE_INTERPOLATION_FACTOR
@@ -7599,20 +7637,70 @@ com.primestone.wallet.ui.widget.SwipeRefreshLayout:
     private static final float MAX_SWIPE_DISTANCE_FACTOR
     private static final int REFRESH_TRIGGER_DISTANCE
     private static final int INVALID_POINTER
-com.primestone.wallet.util.Keyboard:
+    private int mFrom
+    private int mMediumAnimationDuration
+    private float mFromPercentage
+    private final android.view.animation.DecelerateInterpolator mDecelerateInterpolator
+    private final android.view.animation.Animation mAnimateToStartPosition
+    private android.view.animation.Animation mShrinkTrigger
+    private final android.view.animation.Animation$AnimationListener mReturnToStartPositionListener
+    private final android.view.animation.Animation$AnimationListener mShrinkAnimationListener
+    163:164:public SwipeRefreshLayout(android.content.Context)
+    62:183:public SwipeRefreshLayout(android.content.Context,android.util.AttributeSet)
+    200:206:private void animateOffsetToStartPosition(int,android.view.animation.Animation$AnimationListener)
+    46:46:static synthetic int access$000(com.kabberry.wallet.ui.widget.SwipeRefreshLayout)
+    46:46:static synthetic int access$100(com.kabberry.wallet.ui.widget.SwipeRefreshLayout)
+    46:46:static synthetic android.view.View access$200(com.kabberry.wallet.ui.widget.SwipeRefreshLayout)
+    46:46:static synthetic void access$300(com.kabberry.wallet.ui.widget.SwipeRefreshLayout,int)
+    46:46:static synthetic float access$400(com.kabberry.wallet.ui.widget.SwipeRefreshLayout)
+    46:46:static synthetic com.kabberry.wallet.ui.widget.SwipeProgressBar access$500(com.kabberry.wallet.ui.widget.SwipeRefreshLayout)
+    46:46:static synthetic int access$702(com.kabberry.wallet.ui.widget.SwipeRefreshLayout,int)
+    46:46:static synthetic float access$802(com.kabberry.wallet.ui.widget.SwipeRefreshLayout,float)
+    46:46:static synthetic boolean access$902(com.kabberry.wallet.ui.widget.SwipeRefreshLayout,boolean)
+    46:46:static synthetic int access$700(com.kabberry.wallet.ui.widget.SwipeRefreshLayout)
+    46:46:static synthetic android.view.animation.Animation$AnimationListener access$1000(com.kabberry.wallet.ui.widget.SwipeRefreshLayout)
+    46:46:static synthetic void access$1100(com.kabberry.wallet.ui.widget.SwipeRefreshLayout,int,android.view.animation.Animation$AnimationListener)
+    46:46:static synthetic float access$402(com.kabberry.wallet.ui.widget.SwipeRefreshLayout,float)
+    46:46:static synthetic float access$800(com.kabberry.wallet.ui.widget.SwipeRefreshLayout)
+    46:46:static synthetic int access$1200(com.kabberry.wallet.ui.widget.SwipeRefreshLayout)
+    46:46:static synthetic android.view.animation.Animation access$1300(com.kabberry.wallet.ui.widget.SwipeRefreshLayout)
+    46:46:static synthetic android.view.animation.Animation$AnimationListener access$1400(com.kabberry.wallet.ui.widget.SwipeRefreshLayout)
+    46:46:static synthetic android.view.animation.DecelerateInterpolator access$1500(com.kabberry.wallet.ui.widget.SwipeRefreshLayout)
+com.kabberry.wallet.ui.widget.SwipeRefreshLayout$1
+com.kabberry.wallet.ui.widget.SwipeRefreshLayout$2
+com.kabberry.wallet.ui.widget.SwipeRefreshLayout$3
+com.kabberry.wallet.ui.widget.SwipeRefreshLayout$4
+com.kabberry.wallet.ui.widget.SwipeRefreshLayout$5
+com.kabberry.wallet.ui.widget.SwipeRefreshLayout$6
+com.kabberry.wallet.ui.widget.SwipeRefreshLayout$BaseAnimationListener
+com.kabberry.wallet.ui.widget.TransactionAmountVisualizer:
+    private com.kabberry.wallet.WalletApplication application
+    private com.kabberry.wallet.Configuration config
+    private java.util.HashMap localRates
+    40:64:public TransactionAmountVisualizer(android.content.Context,android.util.AttributeSet)
+com.kabberry.wallet.util.Keyboard:
     6:6:public Keyboard()
-com.primestone.wallet.util.NetworkUtils:
+com.kabberry.wallet.util.NetworkUtils:
     11:11:public NetworkUtils()
-com.primestone.wallet.util.SystemUtils:
+com.kabberry.wallet.util.SystemUtils:
     6:6:public SystemUtils()
-com.primestone.wallet.util.ThrottlingWalletChangeListener:
+com.kabberry.wallet.util.ThrottlingWalletChangeListener:
     95:96:public void onTransactionConfidenceChanged(com.coinomi.core.wallet.WalletAccount,com.coinomi.core.wallet.AbstractTransaction)
-com.primestone.wallet.util.UiUtils$AccountActionModeCallback$C13051
-com.primestone.wallet.util.WalletUtils:
+com.kabberry.wallet.util.UiUtils$AccountActionModeCallback$C13051
+com.kabberry.wallet.util.WalletUtils:
     23:23:public WalletUtils()
     43:43:public static java.util.List getSendToAddress(com.coinomi.core.wallet.AbstractTransaction,com.coinomi.core.wallet.AbstractWallet)
     47:50:public static java.util.List getReceivedWithOrFrom(com.coinomi.core.wallet.AbstractTransaction,com.coinomi.core.wallet.AbstractWallet)
     54:60:private static java.util.List getToAddresses(com.coinomi.core.wallet.AbstractTransaction,com.coinomi.core.wallet.AbstractWallet,boolean)
+com.lambdaworks.codec.Base64
+com.lambdaworks.crypto.PBKDF:
+    16:16:public PBKDF()
+    31:35:public static byte[] pbkdf2(java.lang.String,byte[],byte[],int,int)
+com.lambdaworks.crypto.SCrypt:
+    23:23:public SCrypt()
+com.lambdaworks.crypto.SCryptUtil
+com.lambdaworks.jni.LibraryLoaders:
+    15:15:public LibraryLoaders()
 com.squareup.okhttp.Cache:
     private static final int VERSION
     private static final int ENTRY_METADATA

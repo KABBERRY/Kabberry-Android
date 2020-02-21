@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.primestone.wallet.coin"
+    package="com.kabberry.wallet.coin"
     android:versionCode="2"
     android:versionName="2.0.0" >
 
@@ -57,7 +57,7 @@
         android:value="25.3.0" />
 
     <application
-        android:name="com.primestone.wallet.WalletApplication"
+        android:name="com.kabberry.wallet.WalletApplication"
         android:allowBackup="false"
         android:hardwareAccelerated="true"
         android:icon="@drawable/app_launcher"
@@ -66,7 +66,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.primestone.wallet.ui.WalletActivity"
+            android:name="com.kabberry.wallet.ui.WalletActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoTitleBar"
             android:windowSoftInputMode="adjustResize" >
@@ -77,30 +77,30 @@
             <!-- </intent-filter> -->
         </activity>
         <activity
-            android:name="com.primestone.wallet.ui.IntroActivity"
+            android:name="com.kabberry.wallet.ui.IntroActivity"
             android:theme="@style/AppTheme.NoTitleBar"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.primestone.wallet.ui.AboutActivity"
+            android:name="com.kabberry.wallet.ui.AboutActivity"
             android:theme="@style/AppTheme.NoTitleBar"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.primestone.wallet.ui.SignTransactionActivity"
+            android:name="com.kabberry.wallet.ui.SignTransactionActivity"
             android:theme="@style/AppTheme.NoTitleBar"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name="com.primestone.wallet.ui.ScanActivity"
+            android:name="com.kabberry.wallet.ui.ScanActivity"
             android:configChanges="keyboard|keyboardHidden|orientation"
             android:screenOrientation="portrait"
             android:stateNotNeeded="true"
             android:theme="@style/AppTheme.NoTitleBar"
             android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
-            android:name="com.primestone.wallet.ui.TransactionDetailsActivity"
+            android:name="com.kabberry.wallet.ui.TransactionDetailsActivity"
             android:label="@string/title_activity_transaction_details"
             android:theme="@style/AppTheme.NoTitleBar" />
         <activity
-            android:name="com.primestone.wallet.ui.ExchangeRatesActivity"
+            android:name="com.kabberry.wallet.ui.ExchangeRatesActivity"
             android:label="@string/title_activity_exchange_rates"
             android:theme="@style/AppTheme" >
             <meta-data
@@ -108,11 +108,11 @@
                 android:value=".ui.WalletActivity" />
         </activity>
         <activity
-            android:name="com.primestone.wallet.ui.PreviousAddressesActivity"
+            android:name="com.kabberry.wallet.ui.PreviousAddressesActivity"
             android:label="@string/title_activity_previous_addresses"
             android:theme="@style/AppTheme.NoTitleBar" />
         <activity
-            android:name="com.primestone.wallet.ui.SettingsActivity"
+            android:name="com.kabberry.wallet.ui.SettingsActivity"
             android:label="@string/title_activity_settings"
             android:theme="@style/AppTheme" >
             <meta-data
@@ -120,7 +120,7 @@
                 android:value=".ui.WalletActivity" />
         </activity>
         <activity
-            android:name="com.primestone.wallet.ui.ShowSeedActivity"
+            android:name="com.kabberry.wallet.ui.ShowSeedActivity"
             android:label="@string/title_activity_show_seed"
             android:theme="@style/AppTheme.NoTitleBar" >
 
@@ -130,7 +130,7 @@
             <!-- </intent-filter> -->
         </activity>
         <activity
-            android:name="com.primestone.wallet.ui.TradeActivity"
+            android:name="com.kabberry.wallet.ui.TradeActivity"
             android:label="@string/title_activity_trade"
             android:theme="@style/AppTheme" >
             <meta-data
@@ -138,7 +138,7 @@
                 android:value=".ui.WalletActivity" />
         </activity>
         <activity
-            android:name="com.primestone.wallet.ui.ExchangeHistoryActivity"
+            android:name="com.kabberry.wallet.ui.ExchangeHistoryActivity"
             android:label="@string/title_activity_exchange_history"
             android:theme="@style/AppTheme" >
             <meta-data
@@ -146,24 +146,24 @@
                 android:value=".ui.TradeActivity" />
         </activity>
         <activity
-            android:name="com.primestone.wallet.ui.TradeStatusActivity"
+            android:name="com.kabberry.wallet.ui.TradeStatusActivity"
             android:label="@string/title_activity_exchange_status"
             android:theme="@style/AppTheme" />
         <activity
-            android:name="com.primestone.wallet.ui.SignVerifyMessageActivity"
+            android:name="com.kabberry.wallet.ui.SignVerifyMessageActivity"
             android:label="@string/title_activity_sign_verify_message"
             android:theme="@style/AppTheme" />
         <activity
-            android:name="com.primestone.wallet.ui.AccountDetailsActivity"
+            android:name="com.kabberry.wallet.ui.AccountDetailsActivity"
             android:label="@string/title_activity_account_details"
             android:theme="@style/AppTheme" />
         <activity
-            android:name="com.primestone.wallet.ui.SweepWalletActivity"
+            android:name="com.kabberry.wallet.ui.SweepWalletActivity"
             android:label="@string/title_activity_sweep_wallet"
             android:theme="@style/AppTheme"
             android:windowSoftInputMode="adjustPan|adjustNothing" />
         <activity
-            android:name="com.primestone.wallet.ui.FeesSettingsActivity"
+            android:name="com.kabberry.wallet.ui.FeesSettingsActivity"
             android:label="@string/title_activity_transaction_fees"
             android:theme="@style/AppTheme" >
             <meta-data
@@ -171,7 +171,7 @@
                 android:value=".ui.SettingsActivity" />
         </activity>
         <activity
-            android:name="com.primestone.wallet.ui.DebuggingActivity"
+            android:name="com.kabberry.wallet.ui.DebuggingActivity"
             android:label="@string/title_activity_debugging"
             android:theme="@style/AppTheme" >
             <meta-data
@@ -179,7 +179,7 @@
                 android:value=".ui.SettingsActivity" />
         </activity>
         <activity
-            android:name="com.primestone.wallet.ui.PinEntryActivity"
+            android:name="com.kabberry.wallet.ui.PinEntryActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoTitleBar" />
@@ -187,24 +187,24 @@
         <category android:name="android.intent.category.HOME" />
 
         <provider
-            android:name="com.primestone.wallet.ExchangeRatesProvider"
-            android:authorities="com.primestone.wallet.coin.exchange_rates"
+            android:name="com.kabberry.wallet.ExchangeRatesProvider"
+            android:authorities="com.kabberry.wallet.coin.exchange_rates"
             android:exported="false" />
         <provider
-            android:name="com.primestone.wallet.AddressBookProvider"
-            android:authorities="com.primestone.wallet.coin.address_book"
+            android:name="com.kabberry.wallet.AddressBookProvider"
+            android:authorities="com.kabberry.wallet.coin.address_book"
             android:exported="false" />
         <provider
-            android:name="com.primestone.wallet.ExchangeHistoryProvider"
-            android:authorities="com.primestone.wallet.coin.exchange_history"
+            android:name="com.kabberry.wallet.ExchangeHistoryProvider"
+            android:authorities="com.kabberry.wallet.coin.exchange_history"
             android:exported="false" />
 
         <service
-            android:name="com.primestone.wallet.service.CoinServiceImpl"
+            android:name="com.kabberry.wallet.service.CoinServiceImpl"
             android:exported="false" />
 
         <activity
-            android:name="com.primestone.wallet.ui.InfoActivity"
+            android:name="com.kabberry.wallet.ui.InfoActivity"
             android:label="@string/title_activity_info"
             android:theme="@style/AppTheme.NoTitleBar" >
 
@@ -214,7 +214,7 @@
             <!-- </intent-filter> -->
         </activity>
         <activity
-            android:name="com.primestone.wallet.ui.SplashActivity"
+            android:name="com.kabberry.wallet.ui.SplashActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoTitleBar" >

@@ -1,74 +1,74 @@
 [
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/global.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/global.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\menu_info.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\menu_info.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/menu_splesh.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/menu_splesh.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\account_options.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\account_options.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/request_single_address.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/request_single_address.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\copy_share_options.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\copy_share_options.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/overview.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/overview.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\address_options.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\address_options.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/send.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/send.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/balance.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/balance.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\menu_splesh.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\menu_splesh.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/address_options_extra.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/address_options_extra.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\request.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\request.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/copy_share_options.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/copy_share_options.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\exchange_status.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\exchange_status.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/menu_main.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/menu_main.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\overview.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\overview.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/scan.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/scan.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\address_options_extra.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\address_options_extra.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/trade.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/trade.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\show_seed.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\show_seed.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/request.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/request.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\request_single_address.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\request_single_address.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/exchange_status.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/exchange_status.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\scan.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\scan.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/show_seed.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/show_seed.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\global.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/account_options.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/account_options.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\balance.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\balance.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/menu_about.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/menu_about.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\send.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\send.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/menu_info.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/menu_info.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\menu_about.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\menu_about.xml"
     },
     {
-        "merged": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/build/intermediates/res/merged/debug/menu/address_options.xml",
-        "source": "/home/abdul/damm02/data/freelancing/freelancer.com/current_projects/aronwaiz/Primestone_android_v2/wallet/src/main/res/menu/address_options.xml"
+        "merged": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\build\\intermediates\\res\\merged\\debug\\menu\\trade.xml",
+        "source": "C:\\Users\\Bielicki\\Documents\\Kabberry-Android\\wallet\\src\\main\\res\\menu\\trade.xml"
     }
 ]

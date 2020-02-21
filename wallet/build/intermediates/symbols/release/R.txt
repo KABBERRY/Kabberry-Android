@@ -992,8 +992,8 @@ int drawable notification_template_icon_low_bg 0x7f0200da
 int drawable notification_tile_bg 0x7f0200a8
 int drawable notify_panel_notification_icon_bg 0x7f0200a9
 int drawable plus_menu 0x7f0200aa
-int drawable primestone_logo_black 0x7f0200ab
-int drawable primestone_logo_white 0x7f0200ac
+int drawable kabberry_logo_black 0x7f0200ab
+int drawable kabberry_logo_white 0x7f0200ac
 int drawable progress_green 0x7f0200ad
 int drawable progress_orange 0x7f0200ae
 int drawable progress_red 0x7f0200af
